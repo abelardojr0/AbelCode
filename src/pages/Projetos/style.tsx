@@ -1,5 +1,4 @@
 import styled from "styled-components";
-// use theme from ThemeProvider
 
 export const ProjectsGrid = styled.div`
   display: grid;

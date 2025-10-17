@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   ProjectsGrid,
   ProjectCard,
@@ -26,6 +26,23 @@ const ProjectCardWrapper = styled.div`
 `;
 
 const Projetos: React.FC = () => {
+  const [isMobile, setIsMobile] = useState<boolean>(() => {
+    if (typeof window === "undefined") return false;
+    return window.matchMedia(`(max-width: 920px)`).matches;
+  });
+  useEffect(() => {
+    const mq = window.matchMedia(`(max-width: 920px)`);
+    const onChange = (e: MediaQueryListEvent) => setIsMobile(e.matches);
+    if (mq.addEventListener) mq.addEventListener("change", onChange as any);
+    else mq.addListener(onChange as any);
+    setIsMobile(mq.matches);
+    return () => {
+      if (mq.removeEventListener)
+        mq.removeEventListener("change", onChange as any);
+      else mq.removeListener(onChange as any);
+    };
+  }, []);
+
   const [hovered, setHovered] = useState<number | null>(null);
   const [tilts, setTilts] = useState<{
     [idx: number]: { x: number; y: number };
@@ -67,36 +84,50 @@ const Projetos: React.FC = () => {
       </p>
       <ProjectsGrid>
         {projects.map((project, idx) => {
-          const isActive = hovered === idx;
-          const tilt = tilts[idx] || { x: 0, y: 0 };
+          const isActive = isMobile || hovered === idx;
+          const tilt = isMobile ? { x: 0, y: 0 } : tilts[idx] || { x: 0, y: 0 };
           return (
             <ProjectCardWrapper key={idx}>
               <ProjectCard
                 className={isActive ? "active" : ""}
                 gradient={project.gradient}
-                onMouseMove={(e) => handleMouseMove(e, idx)}
-                onMouseLeave={() => handleMouseLeave(idx)}
-                onMouseEnter={() => handleExpand(idx)}
+                onMouseMove={(e) => !isMobile && handleMouseMove(e, idx)}
+                onMouseLeave={() => !isMobile && handleMouseLeave(idx)}
+                onMouseEnter={() => !isMobile && handleExpand(idx)}
                 tabIndex={0}
                 onFocus={() => setHovered(idx)}
-                onBlur={() => handleMouseLeave(idx)}
+                onBlur={() => !isMobile && handleMouseLeave(idx)}
                 style={
                   isActive
-                    ? {
-                        position: "absolute",
-                        top: 0,
-                        left: 0,
-                        width: "100%",
-                        height: "100%",
-                        zIndex: 30,
-                        border: "2px solid #fff",
-                        boxShadow: "0 8px 40px 0 #000a, 0 2px 24px 0 #000c",
-                        borderRadius: "16px",
-                        transform: `perspective(1200px) rotateX(${
-                          tilt.y * 20
-                        }deg) rotateY(${-tilt.x * 20}deg)`,
-                        transition: "all 0.5s cubic-bezier(.22,1,.36,1)",
-                      }
+                    ? isMobile
+                      ? {
+                          position: "static",
+                          width: "100%",
+                          height: "100%",
+                          zIndex: 1,
+                          border: "none",
+                          boxShadow: "0 2px 12px 0 #000a",
+                          borderRadius: "12px",
+                          transform: `perspective(1200px) rotateX(${
+                            tilt.y * 20
+                          }deg) rotateY(${-tilt.x * 20}deg)`,
+                          transition: "all 0.5s cubic-bezier(.22,1,.36,1)",
+                        }
+                      : {
+                          position: "absolute",
+                          top: 0,
+                          left: 0,
+                          width: "100%",
+                          height: "100%",
+                          zIndex: 30,
+                          border: "2px solid #fff",
+                          boxShadow: "0 8px 40px 0 #000a, 0 2px 24px 0 #000c",
+                          borderRadius: "16px",
+                          transform: `perspective(1200px) rotateX(${
+                            tilt.y * 20
+                          }deg) rotateY(${-tilt.x * 20}deg)`,
+                          transition: "all 0.5s cubic-bezier(.22,1,.36,1)",
+                        }
                     : {
                         position: "static",
                         width: "100%",

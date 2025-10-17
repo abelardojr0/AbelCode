@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import responsive, { breakpoints } from "../../utils/responsive";
 
 export const TopRow = styled.div`
   display: flex;
@@ -89,6 +90,16 @@ export const SocialRow = styled.div`
   display: flex;
   gap: 18px;
   margin-bottom: 18px;
+  a {
+    &:hover {
+      color: #3c99d4;
+      transform: scale(1.2) rotate(8deg);
+      text-shadow: 0 2px 8px #3c99d455;
+    }
+    ${responsive(breakpoints.mobile)} {
+      font-size: 20px;
+    }
+  }
 `;
 
 export const EmailCopyBox = styled.div`

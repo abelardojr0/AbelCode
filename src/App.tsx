@@ -38,7 +38,7 @@ const explorerTree = [
             path: "/contato",
             icon: <IconBrandTypescript size={16} color="#3178c6" />,
             label: "Contato",
-            file: "contato.ts",
+            file: "contato.py",
           },
         ],
       },

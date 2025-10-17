@@ -25,16 +25,17 @@ export const JsonBlock = styled.pre`
   flex: 0 0 360px;
   min-height: 560px;
   @media (max-width: 920px) {
-    flex: 1 1 100%;
-    max-width: 100%;
-    min-height: 420px;
+    display: none;
+  }
+  @media (max-width: 600px) {
+    display: none;
   }
   position: relative;
   transition: box-shadow 0.12s, transform 0.12s;
-  /* prevent leaking text: allow scrolling and wrap long words when needed */
+
   overflow: auto;
-  white-space: pre-wrap; /* preserve newlines but allow wrapping */
-  word-break: break-word; /* break long words/URLs if needed */
+  white-space: pre-wrap; 
+  word-break: break-word; 
   &:hover {
     transform: translateY(-4px);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.42);
@@ -103,11 +104,10 @@ export const CopyButton = styled.button`
 export const TocContainer = styled.nav`
   min-width: 180px;
   margin-left: 8px;
-  /* make the TOC a horizontal fixed overlay centered below the header/title */
   position: fixed;
   left: 55%;
   transform: translateX(-50%);
-  top: 100px; /* sits below the page title; adjust if header size changes */
+  top: 100px; 
   height: fit-content;
   z-index: 120;
   display: flex;
@@ -126,7 +126,7 @@ export const TocContainer = styled.nav`
     padding: 0;
   }
   @media (max-width: 920px) {
-    display: none; /* mobile uses TocMobileToggle */
+    display: none; 
   }
 `;
 
@@ -156,6 +156,17 @@ export const TocMobileToggle = styled.button`
     border: 1px solid ${({ theme }) => theme.borderSidebar};
     padding: 8px 10px;
     border-radius: 10px;
+  }
+  @media (max-width: 920px) {
+    display: none;
+  }
+`;
+
+export const MobileTocWrapper = styled.div`
+  width: 100%;
+  margin-top: 12px;
+  @media (max-width: 920px) {
+    display: none;
   }
 `;
 

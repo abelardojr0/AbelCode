@@ -42,7 +42,6 @@ const VSCodeExplorerTree: React.FC<VSCodeExplorerTreeProps> = ({
         <div key={folder.name}>
           {folder.children &&
             folder.children.map((sub: any) => {
-              // Render arquivos soltos (com path) no topo
               if (sub.path) {
                 return (
                   <div
@@ -59,7 +58,6 @@ const VSCodeExplorerTree: React.FC<VSCodeExplorerTreeProps> = ({
                   </div>
                 );
               }
-              // Render pastas normalmente
               if (sub.children) {
                 return (
                   <div key={sub.name}>

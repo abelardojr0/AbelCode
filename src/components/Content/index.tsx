@@ -18,7 +18,6 @@ const Content: React.FC<ContentProps> = ({ children }) => {
   useEffect(() => {
     function updateLines() {
       if (contentRef.current) {
-        // Usa scrollHeight para pegar a altura total do conteúdo, incluindo o que está fora da tela
         const height = contentRef.current.scrollHeight;
         setNumLines(Math.max(1, Math.ceil(height / LINE_HEIGHT_PX)));
       }

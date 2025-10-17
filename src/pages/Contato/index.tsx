@@ -31,7 +31,7 @@ const WHATSAPP_LINK =
   "https://wa.me/5585985300694?text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA.";
 const LINKEDIN = "https://www.linkedin.com/in/abelardo-junior/";
 const GITHUB = "https://github.com/abelardojr0";
-const INSTAGRAM = "https://instagram.com/seuinsta";
+const INSTAGRAM = "https://www.instagram.com/abel.jr_/";
 const FORMSPREE_ENDPOINT = "https://formspree.io/f/moqzazpz";
 
 const Contato: React.FC = () => {

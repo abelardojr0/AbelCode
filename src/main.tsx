@@ -12,13 +12,12 @@ import Experiencias from "./pages/Experiencia";
 import Readme from "./pages/Settings";
 import Theme from "./pages/Theme";
 import type { FileTab } from "./utils/types";
-import { IconFile, IconMarkdown } from "@tabler/icons-react";
+import { IconInfoHexagonFilled } from "@tabler/icons-react";
 import { GlobalStyles } from "./styles/GlobalStyles";
 import { ThemeProvider } from "styled-components";
 import { darkTheme, lightTheme, draculaTheme } from "./utils/theme";
 import React, { useState } from "react";
 
-// Simple ThemeContext to expose toggle to pages
 export const AppThemeContext = React.createContext({
   themeName: "dark",
   toggleTheme: (_name?: string) => {},
@@ -47,25 +46,25 @@ const explorerTree = [
             path: "/sobre",
             icon: (
               <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png"
-                alt="JavaScript"
+                src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/json-6.png"
+                alt="JSON"
                 style={{ width: 16, height: 16, display: "block" }}
               />
             ),
             label: "Sobre",
-            file: "sobre.js",
+            file: "sobre.json",
           },
           {
             path: "/projetos",
             icon: (
               <img
-                src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"
-                alt="Python"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png"
+                alt="Javascript"
                 style={{ width: 16, height: 16, display: "block" }}
               />
             ),
             label: "Projetos",
-            file: "projetos.py",
+            file: "projetos.js",
           },
           {
             path: "/habilidades",
@@ -95,13 +94,13 @@ const explorerTree = [
             path: "/contato",
             icon: (
               <img
-                src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-svg-download-png-2945272.png?f=webp"
+                src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"
                 alt="TypeScript"
                 style={{ width: 16, height: 16, display: "block" }}
               />
             ),
             label: "Contato",
-            file: "contato.ts",
+            file: "contato.py",
           },
         ],
       },
@@ -110,15 +109,21 @@ const explorerTree = [
         children: [
           {
             path: "/readme",
-            icon: <IconMarkdown size={16} color="#b388ff" />,
+            icon: <IconInfoHexagonFilled size={16} color="#b388ff" />,
             file: "README.md",
             isConfig: true,
             label: "README.md",
           },
           {
             path: "/theme",
-            icon: <IconFile size={16} color="#b388ff" />,
-            file: "theme.json",
+            icon: (
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png"
+                alt="TypeScript"
+                style={{ width: 16, height: 16, display: "block" }}
+              />
+            ),
+            file: "theme.css",
             isConfig: true,
             label: "Theme",
           },
@@ -152,7 +157,6 @@ const RootApp: React.FC = () => {
         localStorage.setItem("app-theme", next);
       } catch (e) {}
 
-      // if a specific theme name was provided, reset overrides
       if (name) {
         setOverrides({});
         try {
@@ -164,7 +168,6 @@ const RootApp: React.FC = () => {
     });
   };
 
-  // persisted theme overrides (simple custom colors)
   const [overrides, setOverrides] = React.useState<{
     accent?: string;
     backgroundContent?: string;

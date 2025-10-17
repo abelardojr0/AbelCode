@@ -32,7 +32,6 @@ const Sidebar: React.FC<SidebarProps> = ({
   const [isOpen, setIsOpen] = useState(false);
   const sidebarRef = useRef<HTMLDivElement>(null);
 
-  // Fecha o sidebar ao clicar fora dele (mobile)
   useEffect(() => {
     if (!isOpen) return;
     function handleClickOutside(event: MouseEvent) {
@@ -54,14 +53,12 @@ const Sidebar: React.FC<SidebarProps> = ({
     };
   }, [isOpen]);
 
-  // Fecha o menu ao clicar em um arquivo
   const handleFileClick = (file: any) => {
     setIsOpen(false);
     onFileClick(file);
   };
   return (
     <>
-      {/* Botão hamburguer visível só em telas pequenas */}
       <button
         onClick={() => setIsOpen((v) => !v)}
         style={{
@@ -125,21 +122,21 @@ const Sidebar: React.FC<SidebarProps> = ({
           }}
         >
           <SocialLink
-            href="https://github.com/seuusuario"
+            href="https://github.com/abelardojr0"
             target="_blank"
             rel="noopener noreferrer"
           >
             <IconBrandGithub size={32} />
           </SocialLink>
           <SocialLink
-            href="https://linkedin.com/in/seuusuario"
+            href="https://www.linkedin.com/in/abelardo-junior/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <IconBrandLinkedin size={32} />
           </SocialLink>
           <SocialLink
-            href="https://instagram.com/seuusuario"
+            href="https://www.instagram.com/abel.jr_/"
             target="_blank"
             rel="noopener noreferrer"
           >

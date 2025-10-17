@@ -16,7 +16,6 @@ const Theme: React.FC = () => {
     useContext(AppThemeContext);
   const theme: any = useTheme();
 
-  // helper: convert rgb(...) to hex, fallback to provided default
   const rgbToHex = (c: string, fallback = "#000000") => {
     if (!c) return fallback;
     if (c.startsWith("#")) return c;

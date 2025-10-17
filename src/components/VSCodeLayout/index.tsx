@@ -17,7 +17,6 @@ const VSCodeLayout: React.FC<VSCodeLayoutProps> = ({ explorerTree }) => {
   const [activeTab, setActiveTab] = React.useState("");
   const navigate = useNavigate();
 
-  // Selecionar index.html ao carregar
   React.useEffect(() => {
     setOpenTabs([
       {

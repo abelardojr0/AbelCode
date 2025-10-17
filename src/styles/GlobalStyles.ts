@@ -1,4 +1,5 @@
 import styled, { createGlobalStyle } from "styled-components";
+import responsive, { breakpoints } from "../utils/responsive";
 
 export const GlobalStyles = createGlobalStyle`
   html, body, #root {
@@ -28,12 +29,15 @@ export const SubTitle = styled.h2`
   font-size: 48px;
   letter-spacing: 0.5px;
   color: ${({ theme }) => theme.text};
+  ${responsive(breakpoints.mobile)} {
+    text-align: center;
+  }
 `;
 
 export const ContainerPage = styled.div`
   display: flex;
   flex-direction: column;
-  max-width: 90vw;
+  max-width: 70vw;
   animation: fadeIn 0.7s;
   position: relative;
   padding-bottom: 20px;

@@ -28,10 +28,33 @@ import {
   TocList,
   TocItem,
   TocMobileToggle,
+  MobileTocWrapper,
   BadgesRow,
   GithubButton,
   SideArea,
 } from "./style";
+
+function useIsMobile(breakpoint = 920) {
+  const [isMobile, setIsMobile] = useState<boolean>(() => {
+    if (typeof window === "undefined") return false;
+    return window.matchMedia(`(max-width: ${breakpoint}px)`).matches;
+  });
+
+  useEffect(() => {
+    const mq = window.matchMedia(`(max-width: ${breakpoint}px)`);
+    const handler = (e: MediaQueryListEvent) => setIsMobile(e.matches);
+    if (mq.addEventListener) mq.addEventListener("change", handler as any);
+    else mq.addListener(handler as any);
+    setIsMobile(mq.matches);
+    return () => {
+      if (mq.removeEventListener)
+        mq.removeEventListener("change", handler as any);
+      else mq.removeListener(handler as any);
+    };
+  }, [breakpoint]);
+
+  return isMobile;
+}
 
 const themeMeta = {
   name: "portfolio",
@@ -57,6 +80,7 @@ const Readme: React.FC = () => {
   const sectionsRef = useRef<Record<string, HTMLElement | null>>({});
   const [active, setActive] = useState<string>("sobre");
   const [showTocMobile, setShowTocMobile] = useState<boolean>(false);
+  const isMobile = useIsMobile(920);
 
   useEffect(() => {
     const topOffset = 140;
@@ -124,9 +148,11 @@ const Readme: React.FC = () => {
   return (
     <ContainerPage>
       <SubTitle>README.md</SubTitle>
-      <TocMobileToggle onClick={() => setShowTocMobile((s) => !s)}>
-        Sumário
-      </TocMobileToggle>
+      {!isMobile && (
+        <TocMobileToggle onClick={() => setShowTocMobile((s) => !s)}>
+          Sumário
+        </TocMobileToggle>
+      )}
       <ReadmeWrapper>
         <DocContent>
           <BadgesRow>
@@ -143,7 +169,7 @@ const Readme: React.FC = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Ver no GitHub
+              GitHub
             </GithubButton>
           </BadgesRow>
 
@@ -399,8 +425,8 @@ const Readme: React.FC = () => {
           </p>
         </DocContent>
 
-        {showTocMobile && (
-          <div style={{ width: "100%", marginTop: 12 }}>
+        {!isMobile && showTocMobile && (
+          <MobileTocWrapper>
             <TocList>
               <TocItem className={active === "sobre" ? "active" : ""}>
                 <a
@@ -443,36 +469,38 @@ const Readme: React.FC = () => {
                 </a>
               </TocItem>
             </TocList>
-          </div>
+          </MobileTocWrapper>
         )}
-        <SideArea>
-          <JsonBlock ref={jsonRef}>
-            <CopyButton
-              onClick={copyJson}
-              data-state={jsonRef.current?.dataset.copied ? "copied" : ""}
-            >
-              {jsonRef.current?.dataset.copied ? "Copied!" : "Copy"}
-            </CopyButton>
-            {JSON.stringify(themeMeta, null, 2)}
-          </JsonBlock>
+        {!isMobile && (
+          <SideArea>
+            <JsonBlock ref={jsonRef}>
+              <CopyButton
+                onClick={copyJson}
+                data-state={jsonRef.current?.dataset.copied ? "copied" : ""}
+              >
+                {jsonRef.current?.dataset.copied ? "Copied!" : "Copy"}
+              </CopyButton>
+              {JSON.stringify(themeMeta, null, 2)}
+            </JsonBlock>
 
-          <TocContainer>
-            <TocList>
-              <TocItem className={active === "sobre" ? "active" : ""}>
-                <a onClick={() => goTo("sobre")}>Sobre</a>
-              </TocItem>
-              <TocItem className={active === "stack" ? "active" : ""}>
-                <a onClick={() => goTo("stack")}>Stack</a>
-              </TocItem>
-              <TocItem className={active === "features" ? "active" : ""}>
-                <a onClick={() => goTo("features")}>Funcionalidades</a>
-              </TocItem>
-              <TocItem className={active === "usage" ? "active" : ""}>
-                <a onClick={() => goTo("usage")}>Como usar</a>
-              </TocItem>
-            </TocList>
-          </TocContainer>
-        </SideArea>
+            <TocContainer>
+              <TocList>
+                <TocItem className={active === "sobre" ? "active" : ""}>
+                  <a onClick={() => goTo("sobre")}>Sobre</a>
+                </TocItem>
+                <TocItem className={active === "stack" ? "active" : ""}>
+                  <a onClick={() => goTo("stack")}>Stack</a>
+                </TocItem>
+                <TocItem className={active === "features" ? "active" : ""}>
+                  <a onClick={() => goTo("features")}>Funcionalidades</a>
+                </TocItem>
+                <TocItem className={active === "usage" ? "active" : ""}>
+                  <a onClick={() => goTo("usage")}>Como usar</a>
+                </TocItem>
+              </TocList>
+            </TocContainer>
+          </SideArea>
+        )}
       </ReadmeWrapper>
     </ContainerPage>
   );

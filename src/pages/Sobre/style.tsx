@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import responsive, { breakpoints } from "../../utils/responsive";
 
 export const PerfilPicture = styled.img`
   width: 100px;
@@ -9,5 +10,7 @@ export const PerfilPicture = styled.img`
   position: absolute;
   top: -5px;
   right: 0px;
+  ${responsive(breakpoints.mobile)} {
+    display: none;
+  }
 `;
-

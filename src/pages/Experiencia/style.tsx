@@ -1,5 +1,4 @@
 import styled from "styled-components";
-// use theme from ThemeProvider
 
 export const TimelineContainer = styled.div`
   position: relative;
@@ -60,9 +59,9 @@ export const TimelineTitle = styled.div`
 `;
 
 export const TimelineCompany = styled.div`
-  color: ${({ theme }) => theme.accentPurple || "#7c5dfa"};
+  color: ${({ theme }) => theme.accentCyan || "#7c5dfa"};
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 6px;
 `;
 

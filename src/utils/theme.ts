@@ -1,4 +1,3 @@
-// Tema centralizado para o sistema
 export const darkTheme = {
   background: "#282a36",
   backgroundSidebar: "#282a36",
@@ -30,7 +29,7 @@ export const darkTheme = {
 };
 
 export const lightTheme = {
-  background: "#f4f6f8", // softer off-white
+  background: "#f4f6f8",
   backgroundSidebar: "#f7f8fa",
   backgroundSidebarTitle: "#eef0f3",
   backgroundTabActive: "#f9fbfc",
@@ -50,7 +49,7 @@ export const lightTheme = {
   explorerFileBgHover: "#f2f4f8",
   explorerConfig: "#3a86c9",
   explorerConfigBg: "#ffffff",
-  text: "#22252a", // softer dark text
+  text: "#22252a",
   textSecondary: "#5f6b78",
   accent: "#3a86c9",
   accentBlue: "#3a86c9",
@@ -86,8 +85,7 @@ export const draculaTheme = {
   accentBlue: "#62e6f6",
   accentGreen: "#66ffab",
   accentPurple: "#9b7cff",
-  accentCyan: "#ff6ac1",
+  accentCyan: "#7a6fb0",
 };
 
-// Default export for backward compatibility
 export default darkTheme;

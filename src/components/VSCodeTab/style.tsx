@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import responsive, { breakpoints } from "../../utils/responsive";
-// use theme from ThemeProvider via props
 
 export const TabList = styled.div`
   display: flex;
