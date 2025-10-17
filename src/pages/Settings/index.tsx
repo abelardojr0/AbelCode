@@ -65,10 +65,10 @@ const themeMeta = {
     "Portfólio pessoal (React + TypeScript) com temática inspirada no VS Code — temas dinâmicos, personalização de cores e sidebar responsivo.",
   author: "Abelardo Júnior <abelardo.junior.181@gmail.com>",
   license: "MIT",
-  homepage: "https://seusite.com",
+  homepage: "https://abel-code.vercel.app/",
   repository: {
     type: "git",
-    url: "git+https://github.com/seu-usuario/seu-repo.git",
+    url: "https://github.com/abelardojr0/AbelCode",
   },
   keywords: ["portfolio", "react", "vite", "styled-components"],
   scripts: { dev: "vite", build: "tsc -b && vite build" },
