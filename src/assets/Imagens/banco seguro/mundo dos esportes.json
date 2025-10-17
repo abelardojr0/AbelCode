@@ -1,0 +1,2617 @@
+[
+  {
+    "id": 15,
+    "itens": [
+      {
+        "id": 57,
+        "dificuldade": "Fácil",
+        "nome": "Neymar JR",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 361,
+        "nome": "Agnes",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 32,
+        "nome": "Zé Ramalho",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Cris Cyborg",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "itens": [
+      {
+        "id": 1689,
+        "dificuldade": "Fácil",
+        "nome": "Popó",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 718,
+        "dificuldade": "Médio",
+        "nome": "Senhor das Estrelas",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 105,
+        "nome": "Prometheus",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 976,
+        "dificuldade": "Expert",
+        "nome": "Jaqueline Carvalho",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "itens": [
+      {
+        "id": 1209,
+        "dificuldade": "Fácil",
+        "nome": "Dona Benta",
+        "classificacao": "Personagem"
+      },
+
+      {
+        "id": 1783,
+        "dificuldade": "Médio",
+        "nome": "David Beckham",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 96,
+        "nome": "Mc Mirella",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 636,
+        "dificuldade": "Expert",
+        "nome": "Conor McGregor",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "itens": [
+      {
+        "id": 1501,
+        "dificuldade": "Fácil",
+        "nome": "Patrick",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 378,
+        "dificuldade": "Médio",
+        "nome": "Diego Maradona",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Barão Vermelho",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 380,
+        "dificuldade": "Expert",
+        "nome": "Pep Guardiola",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "itens": [
+      {
+        "id": 1190,
+        "dificuldade": "Fácil",
+        "nome": "Mike Tyson",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 666,
+        "dificuldade": "Médio",
+        "nome": "Pingu!",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 148,
+        "nome": "O Quinto Elemento",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 272,
+        "dificuldade": "Expert",
+        "nome": "José Mourinho",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Raul Seixas",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Grêmio",
+        "classificacao": "Time"
+      },
+      {
+        "id": 87,
+        "nome": "Os Irmãos Metralha",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1336,
+        "dificuldade": "Expert",
+        "nome": "Carlo Ancelotti",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "itens": [
+      {
+        "id": 1161,
+        "dificuldade": "Fácil",
+        "nome": "Deadpool",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gabriel Jesus",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Jorge Aragão",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Vanderlei Luxemburgo",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tocha Humana",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 250,
+        "nome": "Mc Lan",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 39,
+        "dificuldade": "Difícil",
+        "nome": "Mário Zagallo",
+        "classificacao": "Técnico"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Walter Casagrande",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "itens": [
+      {
+        "id": 809,
+        "dificuldade": "Fácil",
+        "nome": "Botafogo",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1786,
+        "dificuldade": "Médio",
+        "nome": "Soldado Invernal",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 177,
+        "nome": "Seu Creysson",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 900,
+        "dificuldade": "Expert",
+        "nome": "Rey Mysterio",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "id": 37,
+        "dificuldade": "Fácil",
+        "nome": "Ayrton Senna",
+        "classificacao": "Piloto"
+      },
+      {
+        "id": 1682,
+        "dificuldade": "Médio",
+        "nome": "Júnior Júnior",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 43,
+        "dificuldade": "Difícil",
+        "nome": "Raio Negro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 40,
+        "dificuldade": "Expert",
+        "nome": "Didier Deschamps",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "itens": [
+      {
+        "id": 278,
+        "dificuldade": "Fácil",
+        "nome": "Supergirl",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 91,
+        "nome": "MacGyver",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Jon Jones",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Carlos Alberto Parreira",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "itens": [
+      {
+        "id": 1653,
+        "dificuldade": "Fácil",
+        "nome": "Pericles",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1590,
+        "dificuldade": "Médio",
+        "nome": "Atlético Mineiro",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1591,
+        "dificuldade": "Difícil",
+        "nome": "Zico",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1040,
+        "dificuldade": "Expert",
+        "nome": "Que Delícia Cara",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "itens": [
+      {
+        "id": 1711,
+        "dificuldade": "Fácil",
+        "nome": "Gabriel Medina",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 1710,
+        "dificuldade": "Médio",
+        "nome": "Ludmilla",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 407,
+        "nome": "Eternos",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1712,
+        "dificuldade": "Expert",
+        "nome": "Muricy Ramalho",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "id": 166,
+        "nome": "Dedé",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 74,
+        "dificuldade": "Médio",
+        "nome": "Usain Bolt",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 75,
+        "dificuldade": "Difícil",
+        "nome": "Tite",
+        "classificacao": "Técnico"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Que Velocidade é Essa, Júnior!",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 1649,
+        "dificuldade": "Fácil",
+        "nome": "Capitão Nascimento",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 34,
+        "dificuldade": "Médio",
+        "nome": "Mulher Gavião",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 95,
+        "dificuldade": "Difícil",
+        "nome": "Abel Ferreira",
+        "classificacao": "Técnico"
+      },
+      {
+        "id": 96,
+        "dificuldade": "Expert",
+        "nome": "Simone Biles",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "itens": [
+      {
+        "id": 837,
+        "dificuldade": "Fácil",
+        "nome": "Taffarel",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 510,
+        "dificuldade": "Médio",
+        "nome": "Felícia",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 149,
+        "nome": "Black Jack",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 840,
+        "dificuldade": "Expert",
+        "nome": "Paris Saint-Germain",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "itens": [
+      {
+        "id": 1809,
+        "dificuldade": "Fácil",
+        "nome": "24 Horas",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1366,
+        "dificuldade": "Médio",
+        "nome": "Michael Phelps",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 1367,
+        "dificuldade": "Difícil",
+        "nome": "Chelsea",
+        "classificacao": "Time"
+      },
+      {
+        "id": 15,
+        "nome": "Uma Mão no Volante e Outra no Carinho",
+        "classificacao": "Meme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "itens": [
+      {
+        "id": 681,
+        "dificuldade": "Fácil",
+        "nome": "São Paulo",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1194,
+        "dificuldade": "Médio",
+        "nome": "Paul Walker",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 314,
+        "dificuldade": "Difícil",
+        "nome": "Senhor Fantástico",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 684,
+        "dificuldade": "Expert",
+        "nome": "Felipe Andreoli",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tá Chovendo Hambúrguer",
+        "classificacao": "Animação"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Morte Te Dá Parabéns",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 523,
+        "dificuldade": "Difícil",
+        "nome": "Arsenal",
+        "classificacao": "Time"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Fê Garay",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Indiana Jones",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 382,
+        "dificuldade": "Médio",
+        "nome": "John Lennon",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 363,
+        "dificuldade": "Difícil",
+        "nome": "Ricardinho",
+        "classificacao": "Jogador(a) de Vôlei"
+      },
+      {
+        "id": 364,
+        "dificuldade": "Expert",
+        "nome": "Bayern de Munique",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Michael Jordan",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 1374,
+        "dificuldade": "Médio",
+        "nome": "High School Musical",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1571,
+        "dificuldade": "Difícil",
+        "nome": "Juventus",
+        "classificacao": "Time"
+      },
+      {
+        "id": 13,
+        "dificuldade": "Expert",
+        "nome": "Carnificina",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "itens": [
+      {
+        "nome": "Deus é Brasileiro",
+        "classificacao": "Filme",
+        "dificuldade": "Fácil",
+        "id": 10016
+      },
+      {
+        "id": 114,
+        "dificuldade": "Médio",
+        "nome": "Among Us",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 115,
+        "dificuldade": "Difícil",
+        "nome": "Milan",
+        "classificacao": "Time"
+      },
+      {
+        "id": 116,
+        "dificuldade": "Expert",
+        "nome": "Fernando Alonso",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "itens": [
+      {
+        "id": 1241,
+        "dificuldade": "Fácil",
+        "nome": "Lionel Messi",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1242,
+        "dificuldade": "Médio",
+        "nome": "KLB",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1243,
+        "dificuldade": "Difícil",
+        "nome": "Atlético Paranaense",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1328,
+        "dificuldade": "Expert",
+        "nome": "Anne With an E",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "itens": [
+      {
+        "id": 1570,
+        "dificuldade": "Fácil",
+        "nome": "Vinícius Júnior",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Shenlong",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 124,
+        "dificuldade": "Difícil",
+        "nome": "Muhammad Ali",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 136,
+        "dificuldade": "Expert",
+        "nome": "BioShock",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chorão",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 194,
+        "dificuldade": "Médio",
+        "nome": "Fortaleza",
+        "classificacao": "Time"
+      },
+      {
+        "id": 195,
+        "dificuldade": "Difícil",
+        "nome": "Querida, Encolhi as Crianças",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 196,
+        "dificuldade": "Expert",
+        "nome": "Nelson Piquet",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "itens": [
+      {
+        "id": 234,
+        "nome": "Esqueleto",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 142,
+        "dificuldade": "Médio",
+        "nome": "Ceará",
+        "classificacao": "Time"
+      },
+      {
+        "id": 144,
+        "dificuldade": "Difícil",
+        "nome": "Lewis Hamilton",
+        "classificacao": "Piloto"
+      },
+      {
+        "id": 347,
+        "nome": "Green Book: O Guia",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "itens": [
+      {
+        "id": 1122,
+        "dificuldade": "Fácil",
+        "nome": "Falcão",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 16,
+        "dificuldade": "Médio",
+        "nome": "Dente de Sabre",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 27,
+        "dificuldade": "Difícil",
+        "nome": "Chapecoense",
+        "classificacao": "Time"
+      },
+      {
+        "id": 377,
+        "nome": "Loud em Casa",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "itens": [
+      {
+        "id": 1502,
+        "dificuldade": "Fácil",
+        "nome": "Marta",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 538,
+        "dificuldade": "Médio",
+        "nome": "A Vaca e o Frango",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 527,
+        "dificuldade": "Difícil",
+        "nome": "Coritiba",
+        "classificacao": "Time"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Cava Falta, Que é Gol",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Reginaldo Rossi",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 690,
+        "dificuldade": "Médio",
+        "nome": "Ponte Preta",
+        "classificacao": "Time"
+      },
+      {
+        "id": 691,
+        "dificuldade": "Difícil",
+        "nome": "Drama Total (Ilha dos Desafios)",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 692,
+        "dificuldade": "Expert",
+        "nome": "Magic Johnson",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "itens": [
+      {
+        "id": 1693,
+        "dificuldade": "Fácil",
+        "nome": "Galvão Bueno",
+        "classificacao": "Narrador/Comentarista"
+      },
+      {
+        "id": 1696,
+        "dificuldade": "Médio",
+        "nome": "Oscar Schmidt",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 1695,
+        "dificuldade": "Difícil",
+        "nome": "Miguel Falabella",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1528,
+        "dificuldade": "Expert",
+        "nome": "O Bebê de Rosemary",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Jackie Chan",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1826,
+        "dificuldade": "Médio",
+        "nome": "Rabicó",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 131,
+        "dificuldade": "Difícil",
+        "nome": "Benfica",
+        "classificacao": "Time"
+      },
+      {
+        "id": 164,
+        "dificuldade": "Expert",
+        "nome": "Max Verstappen",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "itens": [
+      {
+        "id": 162,
+        "dificuldade": "Fácil",
+        "nome": "Ronaldo Fenômeno",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1694,
+        "dificuldade": "Médio",
+        "nome": "Fiuk",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 132,
+        "dificuldade": "Difícil",
+        "nome": "Tiger Woods",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 17,
+        "nome": "Arreia a Mão na minha Cara, Arreia",
+        "classificacao": "Meme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "itens": [
+      {
+        "id": 693,
+        "dificuldade": "Fácil",
+        "nome": "Sexta-Feira 13",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Parangolé",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1483,
+        "dificuldade": "Difícil",
+        "nome": "Rafael Nadal",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 696,
+        "dificuldade": "Expert",
+        "nome": "Sheilla Castro",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "itens": [
+      {
+        "id": 493,
+        "dificuldade": "Fácil",
+        "nome": "As Branquelas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1274,
+        "dificuldade": "Médio",
+        "nome": "Porto",
+        "classificacao": "Time"
+      },
+      {
+        "id": 34,
+        "nome": "Flávia Alessandra",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1276,
+        "dificuldade": "Expert",
+        "nome": "Júnior Cigano",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "itens": [
+      {
+        "id": 1253,
+        "dificuldade": "Fácil",
+        "nome": "Dois Filhos de Francisco",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Real Madrid",
+        "classificacao": "Time"
+      },
+      {
+        "id": 138,
+        "nome": "BayMax",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1516,
+        "dificuldade": "Expert",
+        "nome": "Fernando Scherer",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "itens": [
+      {
+        "id": 373,
+        "dificuldade": "Fácil",
+        "nome": "Anderson Silva",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Psy",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 162,
+        "nome": "De Pernas pro Ar",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 708,
+        "dificuldade": "Expert",
+        "nome": "Larry Bird",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "itens": [
+      {
+        "id": 661,
+        "dificuldade": "Fácil",
+        "nome": "Minions",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1543,
+        "dificuldade": "Médio",
+        "nome": "Manchester United",
+        "classificacao": "Time"
+      },
+      {
+        "id": 664,
+        "dificuldade": "Difícil",
+        "nome": "Kevin Durant",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 19,
+        "nome": "Waldick Soriano",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "itens": [
+      {
+        "id": 1437,
+        "dificuldade": "Fácil",
+        "nome": "Corinthians",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1362,
+        "dificuldade": "Médio",
+        "nome": "Os Parças",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1787,
+        "dificuldade": "Difícil",
+        "nome": "André Matos",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1788,
+        "dificuldade": "Expert",
+        "nome": "CBum",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Luiz Gonzaga",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 198,
+        "dificuldade": "Médio",
+        "nome": "Roma",
+        "classificacao": "Time"
+      },
+      {
+        "id": 174,
+        "nome": "Tasha",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 80,
+        "dificuldade": "Expert",
+        "nome": "Sebastian Vettel",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "itens": [
+      {
+        "id": 20,
+        "dificuldade": "Fácil",
+        "nome": "Duas Caras",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gretchen",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Inter de Milão ",
+        "classificacao": "Time"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Alex Poatan",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "itens": [
+      {
+        "id": 39,
+        "dificuldade": "Fácil",
+        "nome": "Pinguim",
+        "classificacao": "Herói/Vilão"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Paolla Oliveira",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Ronda Rousey",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Cléber Machado",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Counter-Strike",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Internacional",
+        "classificacao": "Time"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bruno Gagliasso",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 592,
+        "dificuldade": "Expert",
+        "nome": "Milton Leite",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sininho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Rocky, Um Lutador",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1023,
+        "dificuldade": "Difícil",
+        "nome": "John Cena",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 56,
+        "dificuldade": "Expert",
+        "nome": "Olympique de Marseille",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 588,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Banguela",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Mbappé",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 163,
+        "dificuldade": "Difícil",
+        "nome": "Harrison Ford",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Los Angeles Dodgers",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sorriso Maroto",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 610,
+        "dificuldade": "Médio",
+        "nome": "As Visões da Raven",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Vitor Belfort",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Luís Roberto",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "itens": [
+      {
+        "id": 433,
+        "dificuldade": "Fácil",
+        "nome": "Bruce Lee",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 658,
+        "dificuldade": "Médio",
+        "nome": "Mel Maia",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 660,
+        "dificuldade": "Difícil",
+        "nome": "Kobe Bryant",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 23,
+        "nome": "Dr Dre",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "itens": [
+      {
+        "id": 501,
+        "dificuldade": "Fácil",
+        "nome": "Mad Max",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Barcelona",
+        "classificacao": "Time"
+      },
+      {
+        "id": 368,
+        "dificuldade": "Difícil",
+        "nome": "Thierry Henry",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 35,
+        "nome": "Tyler The Creator",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Palmeiras",
+        "classificacao": "Time"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Fresno",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1735,
+        "dificuldade": "Difícil",
+        "nome": "Battlefield",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 980,
+        "dificuldade": "Expert",
+        "nome": "Thaisa Menezes",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Patos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Fluminense",
+        "classificacao": "Time"
+      },
+
+      {
+        "id": 351,
+        "dificuldade": "Difícil",
+        "nome": "Serginho",
+        "classificacao": "Jogador(a) de Vôlei"
+      },
+      {
+        "id": 344,
+        "dificuldade": "Expert",
+        "nome": "Birl, Aqui é Bodybuilder!",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Legião Urbana",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Vasco da Gama",
+        "classificacao": "Time"
+      },
+      {
+        "id": 189,
+        "nome": "Gimli",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Charles do Bronx",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "itens": [
+      {
+        "id": 1401,
+        "dificuldade": "Fácil",
+        "nome": "Vin Diesel",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1523,
+        "dificuldade": "Médio",
+        "nome": "Giba",
+        "classificacao": "Jogador(a) de Vôlei"
+      },
+      {
+        "id": 394,
+        "nome": "Sob Pressão",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1468,
+        "dificuldade": "Expert",
+        "nome": "Emerson Fittipaldi",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "itens": [
+      {
+        "id": 1377,
+        "dificuldade": "Fácil",
+        "nome": "Flamengo",
+        "classificacao": "Time"
+      },
+
+      {
+        "id": 654,
+        "dificuldade": "Médio",
+        "nome": "Garota Safada",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 655,
+        "dificuldade": "Difícil",
+        "nome": "Community",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Mireya Luis",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "itens": [
+      {
+        "id": 261,
+        "dificuldade": "Fácil",
+        "nome": "O Pianista",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 262,
+        "dificuldade": "Médio",
+        "nome": "Dragão Branco de Olhos Azuis",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 331,
+        "dificuldade": "Difícil",
+        "nome": "Bernadinho",
+        "classificacao": "Técnico"
+      },
+      {
+        "id": 288,
+        "dificuldade": "Expert",
+        "nome": "Luka Modrić",
+        "classificacao": "Jogador(a) de Futebol"
+      }
+    ]
+  },
+  {
+    "id": 594,
+    "itens": [
+      {
+        "id": 1765,
+        "dificuldade": "Fácil",
+        "nome": "Jet Li",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Bird Box",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 387,
+        "dificuldade": "Difícil",
+        "nome": "Lucão",
+        "classificacao": "Jogador(a) de Vôlei"
+      },
+      {
+        "id": 384,
+        "dificuldade": "Expert",
+        "nome": "Floyd Mayweather Jr.",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "itens": [
+      {
+        "id": 1597,
+        "dificuldade": "Fácil",
+        "nome": "Bell Marques",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1598,
+        "dificuldade": "Médio",
+        "nome": "Peixonauta",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 347,
+        "dificuldade": "Difícil",
+        "nome": "Bruninho",
+        "classificacao": "Jogador(a) de Vôlei"
+      },
+      {
+        "id": 936,
+        "dificuldade": "Expert",
+        "nome": "Royce Gracie",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "itens": [
+      {
+        "id": 1301,
+        "dificuldade": "Fácil",
+        "nome": "Jay-Z",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Ronald McDonald",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "José Aldo",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 676,
+        "dificuldade": "Expert",
+        "nome": "Wallace de Souza",
+        "classificacao": "Jogador(a) de Vôlei"
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Resident Evil",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Princesa Jujuba",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Stephen Curry",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Amanda Nunes",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "itens": [
+      {
+        "id": 281,
+        "dificuldade": "Fácil",
+        "nome": "Mestre Yoda",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 282,
+        "dificuldade": "Médio",
+        "nome": "Eu, Robô",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 283,
+        "dificuldade": "Difícil",
+        "nome": "Rodrigo Minotauro",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Hortência Marcari",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Ronaldinho Gaúcho",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Lara Croft",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Lassie",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Lyoto Machida",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "itens": [
+      {
+        "id": 1425,
+        "dificuldade": "Fácil",
+        "nome": "Zé Pequeno",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "LeBron James",
+        "classificacao": "Jogador(a) de Basquete"
+      },
+      {
+        "id": 1427,
+        "dificuldade": "Difícil",
+        "nome": "Alessandra Negrini",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1428,
+        "dificuldade": "Expert",
+        "nome": "Israel Adesanya",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "itens": [
+      {
+        "id": 765,
+        "dificuldade": "Fácil",
+        "nome": "Dumbo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 166,
+        "dificuldade": "Médio",
+        "nome": "A Ilha do Medo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Maguila",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "James Harden",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Jogo da Velha",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cruzeiro",
+        "classificacao": "Time"
+      },
+      {
+        "id": 196,
+        "nome": "Soul",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 672,
+        "dificuldade": "Expert",
+        "nome": "Anderson Varejão",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "itens": [
+      {
+        "id": 1713,
+        "dificuldade": "Fácil",
+        "nome": "Squirtle",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1335,
+        "dificuldade": "Médio",
+        "nome": "Gustavo Kuerten (Guga)",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 417,
+        "nome": "N Sync",
+        "classificacao": "Banda",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Shaquille O'Neal",
+        "classificacao": "Jogador(a) de Basquete"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "itens": [
+      {
+        "id": 685,
+        "dificuldade": "Fácil",
+        "nome": "Banda Calypso",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Dida",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Difícil",
+        "nome": "Tamo Competindo, Tamo Competindo",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 688,
+        "dificuldade": "Expert",
+        "nome": "Evander Holyfield",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "itens": [
+      {
+        "id": 1625,
+        "dificuldade": "Fácil",
+        "nome": "Cristiano Ronaldo",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 39,
+        "nome": "Pokerface",
+        "classificacao": "Meme",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1839,
+        "dificuldade": "Difícil",
+        "nome": "Jared Leto",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Luiz Felipe Scolari",
+        "classificacao": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "id": 449,
+        "dificuldade": "Fácil",
+        "nome": "Mario Kart",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1575,
+        "dificuldade": "Médio",
+        "nome": "Cafu",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1219,
+        "dificuldade": "Difícil",
+        "nome": "Kung-Fu Futebol Clube",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 72,
+        "dificuldade": "Expert",
+        "nome": "Niki Lauda",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "itens": [
+      {
+        "id": 1629,
+        "dificuldade": "Fácil",
+        "nome": "Quarteto Fantástico",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 227,
+        "nome": "Iza",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Garrincha",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1632,
+        "dificuldade": "Expert",
+        "nome": "Galatasaray",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "itens": [
+      {
+        "id": 1265,
+        "dificuldade": "Fácil",
+        "nome": "Max Steel",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Onze Homens e Um Segredo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "River Plate",
+        "classificacao": "Time"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Caio Ribeiro",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "id": 509,
+        "dificuldade": "Fácil",
+        "nome": "Imagine Dragons",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 10,
+        "dificuldade": "Médio",
+        "nome": "Boca Juniors",
+        "classificacao": "Time"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Zlatan Ibrahimović",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 90,
+        "nome": "Profissão: Perigo",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "itens": [
+      {
+        "id": 81,
+        "dificuldade": "Fácil",
+        "nome": "Pelé",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Manoel Gomes",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Los Angeles Lakers",
+        "classificacao": "Time"
+      },
+      {
+        "id": 484,
+        "dificuldade": "Expert",
+        "nome": "Battlestar Galactica",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Romário",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1014,
+        "dificuldade": "Médio",
+        "nome": "Martinho da Vila",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "A Pequena Miss Sunshine",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Arnaldo Cezar Coelho",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "itens": [
+      {
+        "id": 1837,
+        "dificuldade": "Fácil",
+        "nome": "Hot Wheels",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1838,
+        "dificuldade": "Médio",
+        "nome": "Facção Central",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Felipe Massa",
+        "classificacao": "Piloto"
+      },
+      {
+        "id": 1764,
+        "dificuldade": "Expert",
+        "nome": "Boston Celtics",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Round 6 (Squid Game)",
+        "classificacao": "Série"
+      },
+      {
+        "id": 474,
+        "dificuldade": "Médio",
+        "nome": "Luigi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 475,
+        "dificuldade": "Difícil",
+        "nome": "Chicago Bulls",
+        "classificacao": "Time"
+      },
+      {
+        "id": 680,
+        "dificuldade": "Expert",
+        "nome": "Everton Luís",
+        "classificacao": "Narrador/Comentarista"
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "itens": [
+      {
+        "id": 1637,
+        "dificuldade": "Fácil",
+        "nome": "Nino",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1262,
+        "dificuldade": "Médio",
+        "nome": "Ó Pai, Ó",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1343,
+        "dificuldade": "Difícil",
+        "nome": "Rebeca Andrade",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 1640,
+        "dificuldade": "Expert",
+        "nome": "Golden State Warriors",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "itens": [
+      {
+        "id": 137,
+        "dificuldade": "Fácil",
+        "nome": "Pateta",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 271,
+        "dificuldade": "Médio",
+        "nome": "Rivaldo",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Ramon Dino",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 80,
+        "nome": "Machete",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "itens": [
+      {
+        "id": 1141,
+        "dificuldade": "Fácil",
+        "nome": "PES",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Adriano Imperador",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 451,
+        "dificuldade": "Difícil",
+        "nome": "Cesar Cielo",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Fleabag",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "itens": [
+      {
+        "id": 1509,
+        "dificuldade": "Fácil",
+        "nome": "Vida de Inseto",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 454,
+        "dificuldade": "Médio",
+        "nome": "Calcinha Preta",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 455,
+        "dificuldade": "Difícil",
+        "nome": "Thiago Silva",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Eddie Hall",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "itens": [
+      {
+        "id": 633,
+        "dificuldade": "Fácil",
+        "nome": "Vovó...zona",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 634,
+        "dificuldade": "Médio",
+        "nome": "Daniel Alves",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 28,
+        "dificuldade": "Difícil",
+        "nome": "Serena Willians",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 10003,
+        "dificuldade": "Expert",
+        "nome": "Championship Manager",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "itens": [
+      {
+        "id": 1309,
+        "dificuldade": "Fácil",
+        "nome": "O Planeta dos Macacos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1618,
+        "dificuldade": "Médio",
+        "nome": "O Segredo dos Animais",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 463,
+        "dificuldade": "Difícil",
+        "nome": "Endrick",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 1680,
+        "dificuldade": "Expert",
+        "nome": "Roger Federer",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Rambo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Bino",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1131,
+        "dificuldade": "Difícil",
+        "nome": "Felipe Franco",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Johan Cruyff",
+        "classificacao": "Jogador(a) de Futebol"
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "itens": [
+      {
+        "id": 938,
+        "dificuldade": "Fácil",
+        "nome": "Daiane dos Santos",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 1714,
+        "dificuldade": "Médio",
+        "nome": "O Pequeno Stuart Little",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 703,
+        "dificuldade": "Difícil",
+        "nome": "Vanessa da Mata",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "New York Yankees",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Robinho",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 942,
+        "dificuldade": "Médio",
+        "nome": "Comer, Rezar e Amar",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 828,
+        "dificuldade": "Difícil",
+        "nome": "Diego Hipólito",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Shadowhunters",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Gusttavo Lima",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 922,
+        "dificuldade": "Médio",
+        "nome": "Rayssa Leal",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 280,
+        "nome": "Eufrazino",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Boston Red Sox",
+        "classificacao": "Time"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "itens": [
+      {
+        "id": 641,
+        "dificuldade": "Fácil",
+        "nome": "Eu, a Patroa e as Crianças",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1358,
+        "dificuldade": "Médio",
+        "nome": "Kaká",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Robert Pattinson",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Bitelo",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Supernatural",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gabigol",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 103,
+        "dificuldade": "Difícil",
+        "nome": "A Família Buscapé",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 296,
+        "dificuldade": "Expert",
+        "nome": "Tom Brady",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "itens": [
+      {
+        "id": 829,
+        "dificuldade": "Fácil",
+        "nome": "Roberto Carlos",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 478,
+        "dificuldade": "Médio",
+        "nome": "Jon Snow",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 479,
+        "dificuldade": "Difícil",
+        "nome": "Turbo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 880,
+        "dificuldade": "Expert",
+        "nome": "Beatriz Souza",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Santos",
+        "classificacao": "Time"
+      },
+      {
+        "id": 1350,
+        "dificuldade": "Médio",
+        "nome": "NX Zero",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 160,
+        "dificuldade": "Difícil",
+        "nome": "Michael Schumacher",
+        "classificacao": "Piloto"
+      },
+      {
+        "id": 415,
+        "nome": "Que Horas Ela Volta?",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "itens": [
+      {
+        "id": 1477,
+        "dificuldade": "Fácil",
+        "nome": "Matuê",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1478,
+        "dificuldade": "Médio",
+        "nome": "Tiazinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1479,
+        "dificuldade": "Difícil",
+        "nome": "Juninho Pernambucano",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Fábio Giga",
+        "classificacao": "Atleta"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Duna",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 230,
+        "dificuldade": "Médio",
+        "nome": "Elton John",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 368,
+        "dificuldade": "Difícil",
+        "nome": "Zinedine Zidane",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Valentino Rossi",
+        "classificacao": "Piloto"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "id": 229,
+        "dificuldade": "Fácil",
+        "nome": "Homer",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1290,
+        "dificuldade": "Médio",
+        "nome": "Central do Brasil",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1035,
+        "dificuldade": "Difícil",
+        "nome": "Rubinho Barrichello",
+        "classificacao": "Piloto"
+      },
+      {
+        "id": 48,
+        "dificuldade": "Expert",
+        "nome": "Erling Haaland",
+        "classificacao": "Jogador(a) de Futebol"
+      }
+    ]
+  }
+]

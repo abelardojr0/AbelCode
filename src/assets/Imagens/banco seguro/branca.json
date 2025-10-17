@@ -1,0 +1,4354 @@
+[
+  {
+    "id": 1,
+    "itens": [
+      {
+        "id": 725,
+        "dificuldade": "Fácil",
+        "nome": "Os Caça-Fantasmas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 650,
+        "dificuldade": "Médio",
+        "nome": "Buzz Lightyear",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1731,
+        "dificuldade": "Difícil",
+        "nome": "Ozzy Osbourne",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 352,
+        "dificuldade": "Expert",
+        "nome": "Carolina Dieckmann",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "id": 169,
+        "dificuldade": "Fácil",
+        "nome": "Monstros S/A",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 46,
+        "dificuldade": "Médio",
+        "nome": "James Bond",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 35,
+        "dificuldade": "Difícil",
+        "nome": "Led Zeppelin",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 964,
+        "dificuldade": "Expert",
+        "nome": "Jiraya: O Incrível Ninja",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "id": 729,
+        "dificuldade": "Fácil",
+        "nome": "Divertida Mente",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 298,
+        "dificuldade": "Médio",
+        "nome": "Noturno",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1227,
+        "dificuldade": "Difícil",
+        "nome": "Gloria Groove",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 180,
+        "dificuldade": "Expert",
+        "nome": "O Fabuloso Destino de Amélie Poulain",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "id": 69,
+        "dificuldade": "Fácil",
+        "nome": "Os Simpsons",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 518,
+        "dificuldade": "Médio",
+        "nome": "Castlevânia",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 443,
+        "dificuldade": "Difícil",
+        "nome": "Pulp Fiction",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Homem Sereia e Mexilhãozinho",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "id": 905,
+        "dificuldade": "Fácil",
+        "nome": "Bob Marley",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1522,
+        "dificuldade": "Médio",
+        "nome": "Rango",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 651,
+        "dificuldade": "Difícil",
+        "nome": "Robocop - O Policial do Futuro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1480,
+        "dificuldade": "Expert",
+        "nome": "Black Myth: Wukong",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "id": 585,
+        "dificuldade": "Fácil",
+        "nome": "Os Smurfs",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 594,
+        "dificuldade": "Médio",
+        "nome": "The Sims",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 404,
+        "dificuldade": "Difícil",
+        "nome": "Kanye West",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 120,
+        "dificuldade": "Expert",
+        "nome": "Jack Nicholson",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "id": 33,
+        "dificuldade": "Fácil",
+        "nome": "Tom e Jerry",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 754,
+        "dificuldade": "Médio",
+        "nome": "Efeito Borboleta",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1707,
+        "dificuldade": "Difícil",
+        "nome": "Mariah Carey",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1384,
+        "dificuldade": "Expert",
+        "nome": "Left 4 Dead",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "id": 165,
+        "dificuldade": "Fácil",
+        "nome": "As Meninas Superpoderosas",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 670,
+        "dificuldade": "Médio",
+        "nome": "O Sexto Sentido",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1599,
+        "dificuldade": "Difícil",
+        "nome": "Olodum",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 816,
+        "dificuldade": "Expert",
+        "nome": "The Mandalorian",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "id": 157,
+        "dificuldade": "Fácil",
+        "nome": "Star Wars",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 578,
+        "dificuldade": "Médio",
+        "nome": "iCarly",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1647,
+        "dificuldade": "Difícil",
+        "nome": "Valeu Natalina",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 700,
+        "dificuldade": "Expert",
+        "nome": "Clash of Clans",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "id": 781,
+        "dificuldade": "Fácil",
+        "nome": "Tropa de Elite",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 902,
+        "dificuldade": "Médio",
+        "nome": "Grávida de Taubaté",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 439,
+        "dificuldade": "Difícil",
+        "nome": "ThunderCats",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 192,
+        "dificuldade": "Expert",
+        "nome": "The Umbrella Academy",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "id": 77,
+        "dificuldade": "Fácil",
+        "nome": "Frozen",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 762,
+        "dificuldade": "Médio",
+        "nome": "V de Vingança",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1527,
+        "dificuldade": "Difícil",
+        "nome": "The Black Eyed Peas",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 508,
+        "dificuldade": "Expert",
+        "nome": "Seinfeld",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chaves",
+        "classificacao": "Série"
+      },
+      {
+        "id": 118,
+        "dificuldade": "Médio",
+        "nome": "De Volta para o Futuro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 699,
+        "dificuldade": "Difícil",
+        "nome": "Van Helsing",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 580,
+        "dificuldade": "Expert",
+        "nome": "Fallout",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "id": 789,
+        "dificuldade": "Fácil",
+        "nome": "Ratatouille",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 406,
+        "dificuldade": "Médio",
+        "nome": "Snoop Dogg",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 547,
+        "dificuldade": "Difícil",
+        "nome": "Subway Surfers",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Cavaleiro da Lua (Moon Knight)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "itens": [
+      {
+        "id": 185,
+        "dificuldade": "Fácil",
+        "nome": "As Tartarugas Ninja",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1222,
+        "dificuldade": "Médio",
+        "nome": "Tomb Raider",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 219,
+        "dificuldade": "Difícil",
+        "nome": "Du, Dudu e Edu",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 876,
+        "dificuldade": "Expert",
+        "nome": "Jean-Claude Van Damme",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "itens": [
+      {
+        "id": 1149,
+        "dificuldade": "Fácil",
+        "nome": "Fuga das Galinhas",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 990,
+        "dificuldade": "Médio",
+        "nome": "Bomberman",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Marcelo D2",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 220,
+        "dificuldade": "Expert",
+        "nome": "Sons of Anarchy",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "itens": [
+      {
+        "id": 693,
+        "dificuldade": "Fácil",
+        "nome": "Lost",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Happy Feet",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 183,
+        "dificuldade": "Difícil",
+        "nome": "Final Fantasy",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Balrog",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Galinha Pintadinha",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Lex Luthor",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 567,
+        "dificuldade": "Difícil",
+        "nome": "Dirty Dancing - Ritmo Quente",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 208,
+        "dificuldade": "Expert",
+        "nome": "Dahmer: um Canibal Americano",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "id": 101,
+        "dificuldade": "Fácil",
+        "nome": "Popeye",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1238,
+        "dificuldade": "Médio",
+        "nome": "Bruce Willis",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 343,
+        "dificuldade": "Difícil",
+        "nome": "Gremlins",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 692,
+        "dificuldade": "Expert",
+        "nome": "Backstreet Boys",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "id": 597,
+        "dificuldade": "Fácil",
+        "nome": "Todo Mundo Odeia o Chris",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1126,
+        "dificuldade": "Médio",
+        "nome": "Pitty",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1407,
+        "dificuldade": "Difícil",
+        "nome": "Halo",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 520,
+        "dificuldade": "Expert",
+        "nome": "O Resgate do Soldado Ryan",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "id": 213,
+        "dificuldade": "Fácil",
+        "nome": "Peppa Pig",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1430,
+        "dificuldade": "Médio",
+        "nome": "Selton Mello",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 63,
+        "dificuldade": "Difícil",
+        "nome": "Psicose",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 276,
+        "dificuldade": "Expert",
+        "nome": "Rocket Raccoon",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "id": 733,
+        "dificuldade": "Fácil",
+        "nome": "Power Rangers",
+        "classificacao": "Série"
+      },
+      {
+        "id": 686,
+        "dificuldade": "Médio",
+        "nome": "Dr. Dolittle",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 311,
+        "dificuldade": "Difícil",
+        "nome": "Billie Eilish",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 544,
+        "dificuldade": "Expert",
+        "nome": "Robin Williams",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "itens": [
+      {
+        "id": 673,
+        "dificuldade": "Fácil",
+        "nome": "Aladdin",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 418,
+        "dificuldade": "Médio",
+        "nome": "Adam Sandler",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Creeper",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Curtindo a Vida Adoidado",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "itens": [
+      {
+        "id": 741,
+        "dificuldade": "Fácil",
+        "nome": "Mortal Kombat",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1614,
+        "dificuldade": "Médio",
+        "nome": "Magneto",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1375,
+        "dificuldade": "Difícil",
+        "nome": "Acertô Mizeravi",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Expert",
+        "nome": "Onde os Fracos Não Têm Vez",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 777,
+        "dificuldade": "Fácil",
+        "nome": "Procurando Nemo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 794,
+        "dificuldade": "Médio",
+        "nome": "E.T. O Extraterrestre",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 119,
+        "dificuldade": "Difícil",
+        "nome": "Assassin's Creed",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1008,
+        "dificuldade": "Expert",
+        "nome": "Irineu, Você não Sabe e nem Eu",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Carros",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1574,
+        "dificuldade": "Médio",
+        "nome": "Hellboy",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 15,
+        "dificuldade": "Difícil",
+        "nome": "Dark Souls",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 16,
+        "dificuldade": "Expert",
+        "nome": "2001: Uma Odisséia no Espaço",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "itens": [
+      {
+        "id": 5,
+        "dificuldade": "Fácil",
+        "nome": "Mickey",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 802,
+        "dificuldade": "Médio",
+        "nome": "American Pie",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 923,
+        "dificuldade": "Difícil",
+        "nome": "Cuphead",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1716,
+        "dificuldade": "Expert",
+        "nome": "Antônio Fagundes",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "itens": [
+      {
+        "id": 97,
+        "dificuldade": "Fácil",
+        "nome": "Homem de Ferro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Tá Dando Onda",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 459,
+        "dificuldade": "Difícil",
+        "nome": "Sandra Bullock",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 912,
+        "dificuldade": "Expert",
+        "nome": "XRL8",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "He-Man",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Robert Downey Jr.",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1019,
+        "dificuldade": "Difícil",
+        "nome": "Morre! Diabo!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 300,
+        "dificuldade": "Expert",
+        "nome": "Brilho Eterno de Uma Mente Sem Lembranças",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "itens": [
+      {
+        "id": 233,
+        "dificuldade": "Fácil",
+        "nome": "Brad Pitt",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Carmen Miranda",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 675,
+        "dificuldade": "Difícil",
+        "nome": "Young Sheldon",
+        "classificacao": "Série"
+      },
+      {
+        "id": 156,
+        "dificuldade": "Expert",
+        "nome": "Donnie Darko",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tio Patinhas",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 306,
+        "dificuldade": "Médio",
+        "nome": "Lilo & Stitch",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1371,
+        "dificuldade": "Difícil",
+        "nome": "Devil May Cry",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 712,
+        "dificuldade": "Expert",
+        "nome": "Lindsay Lohan",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "itens": [
+      {
+        "id": 545,
+        "dificuldade": "Fácil",
+        "nome": "Caverna do Dragão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 970,
+        "dificuldade": "Médio",
+        "nome": "Scorpions",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Capitão Pátria",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 728,
+        "dificuldade": "Expert",
+        "nome": "Minerva McGonagall",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "itens": [
+      {
+        "id": 73,
+        "dificuldade": "Fácil",
+        "nome": "Pica-Pau",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Eddie Murphy",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "How I Met Your Mother (Como Eu Conheci Sua Mãe)",
+        "classificacao": "Série"
+      },
+      {
+        "id": 316,
+        "nome": "Dr. Emmet Brown",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "itens": [
+      {
+        "id": 93,
+        "dificuldade": "Fácil",
+        "nome": "Shrek",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Kill Bill",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Julia Roberts",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 512,
+        "dificuldade": "Expert",
+        "nome": "Better Call Saul",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "itens": [
+      {
+        "id": 113,
+        "dificuldade": "Fácil",
+        "nome": "Game of Thrones",
+        "classificacao": "Série"
+      },
+      {
+        "id": 706,
+        "dificuldade": "Médio",
+        "nome": "O Massacre da Serra Elétrica",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 59,
+        "dificuldade": "Difícil",
+        "nome": "Rick and Morty",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Notorious B.I.G",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "itens": [
+      {
+        "id": 717,
+        "dificuldade": "Fácil",
+        "nome": "101 Dálmatas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 926,
+        "dificuldade": "Médio",
+        "nome": "Just Dance",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 75,
+        "dificuldade": "Difícil",
+        "nome": "Brooklyn Nine-Nine",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1308,
+        "dificuldade": "Expert",
+        "nome": "Ragnar Lothbrok",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "itens": [
+      {
+        "id": 1701,
+        "dificuldade": "Fácil",
+        "nome": "Pabllo Vittar",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1198,
+        "dificuldade": "Médio",
+        "nome": "Nirvana",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 783,
+        "dificuldade": "Difícil",
+        "nome": "CSI Investigação Criminal",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Os Embalos de Sábado à Noite",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "itens": [
+      {
+        "id": 65,
+        "dificuldade": "Fácil",
+        "nome": "Vingadores",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1186,
+        "dificuldade": "Médio",
+        "nome": "Megamente",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 247,
+        "dificuldade": "Difícil",
+        "nome": "Stevie Wonder",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1836,
+        "dificuldade": "Expert",
+        "nome": "Alf, o ETeimoso",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "itens": [
+      {
+        "id": 713,
+        "dificuldade": "Fácil",
+        "nome": "Barbie",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 442,
+        "dificuldade": "Médio",
+        "nome": "South Park",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Conan, o Bárbaro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Hollow Knight",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "itens": [
+      {
+        "id": 369,
+        "dificuldade": "Fácil",
+        "nome": "Lady Gaga",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 746,
+        "dificuldade": "Médio",
+        "nome": "Coraline",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Eu Sou a Lenda",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1260,
+        "dificuldade": "Expert",
+        "nome": "Orlando Bloom",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Ben 10",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 330,
+        "dificuldade": "Médio",
+        "nome": "Arnold Schwarzenegger",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 955,
+        "dificuldade": "Difícil",
+        "nome": "Slipknot",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1200,
+        "dificuldade": "Expert",
+        "nome": "Twisted Metal",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Rei Leão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1034,
+        "dificuldade": "Médio",
+        "nome": "Que Show da Xuxa é Esse?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1471,
+        "dificuldade": "Difícil",
+        "nome": "Space Jam",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 372,
+        "dificuldade": "Expert",
+        "nome": "Morpheus",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "itens": [
+      {
+        "id": 1705,
+        "dificuldade": "Fácil",
+        "nome": "Matrix",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 906,
+        "dificuldade": "Médio",
+        "nome": "Já Acabou Jéssica?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 71,
+        "dificuldade": "Difícil",
+        "nome": "Pretty Little Liars",
+        "classificacao": "Série"
+      },
+      {
+        "id": 560,
+        "dificuldade": "Expert",
+        "nome": "Brawl Stars",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "itens": [
+      {
+        "id": 337,
+        "dificuldade": "Fácil",
+        "nome": "Garfield",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 110,
+        "dificuldade": "Médio",
+        "nome": "Dexter",
+        "classificacao": "Série"
+      },
+      {
+        "id": 699,
+        "dificuldade": "Difícil",
+        "nome": "Senta lá, Claudia",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1804,
+        "dificuldade": "Expert",
+        "nome": "A Lenda dos Guardiões",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "itens": [
+      {
+        "id": 593,
+        "dificuldade": "Fácil",
+        "nome": "Corrida Maluca",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1726,
+        "dificuldade": "Médio",
+        "nome": "Demolidor",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 211,
+        "dificuldade": "Difícil",
+        "nome": "Scarlett Johansson",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 460,
+        "dificuldade": "Expert",
+        "nome": "Como Defender um Assassino(How to Get Away with Murder)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "itens": [
+      {
+        "id": 161,
+        "dificuldade": "Fácil",
+        "nome": "A Era do Gelo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 766,
+        "dificuldade": "Médio",
+        "nome": "The Boys",
+        "classificacao": "Série"
+      },
+      {
+        "id": 315,
+        "dificuldade": "Difícil",
+        "nome": "As Patricinhas de Beverly Hills",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1508,
+        "dificuldade": "Expert",
+        "nome": "Chris Hemsworth",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "itens": [
+      {
+        "id": 865,
+        "dificuldade": "Fácil",
+        "nome": "Ursinho Pooh",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 126,
+        "dificuldade": "Médio",
+        "nome": "Fortnite",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 719,
+        "dificuldade": "Difícil",
+        "nome": "Meu Nome é Júlia!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 656,
+        "dificuldade": "Expert",
+        "nome": "Ghost - Do Outro Lado da Vida",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "itens": [
+      {
+        "id": 1345,
+        "dificuldade": "Fácil",
+        "nome": "Peter Pan",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "The Last of Us",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1455,
+        "dificuldade": "Difícil",
+        "nome": "Scarface",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 284,
+        "dificuldade": "Expert",
+        "nome": "Matt Damon",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "itens": [
+      {
+        "id": 557,
+        "dificuldade": "Fácil",
+        "nome": "A Família Addams",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1630,
+        "dificuldade": "Médio",
+        "nome": "Paul McCartney",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 303,
+        "dificuldade": "Difícil",
+        "nome": "Garen",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 968,
+        "dificuldade": "Expert",
+        "nome": "Kamen Rider Black",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "itens": [
+      {
+        "id": 429,
+        "dificuldade": "Fácil",
+        "nome": "Jim Carrey",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Katy Perry",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 335,
+        "dificuldade": "Difícil",
+        "nome": "Os Jetsons",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Don Corleone",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "itens": [
+      {
+        "id": 1581,
+        "dificuldade": "Fácil",
+        "nome": "Bananas de Pijamas",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 959,
+        "dificuldade": "Médio",
+        "nome": "Zumbilândia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Avenged Sevenfold",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 684,
+        "dificuldade": "Expert",
+        "nome": "Jigsaw",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "itens": [
+      {
+        "id": 1313,
+        "dificuldade": "Fácil",
+        "nome": "Missão Impossível",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Metallica",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 415,
+        "dificuldade": "Difícil",
+        "nome": "Daenerys Targaryen",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Shaun, o Carneiro",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bruna Marquezine",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 854,
+        "dificuldade": "Médio",
+        "nome": "Freddy Krueger",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Animais Fantásticos e Onde Habitam",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 84,
+        "dificuldade": "Expert",
+        "nome": "As Aventuras de Timtim",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "itens": [
+      {
+        "id": 249,
+        "dificuldade": "Fácil",
+        "nome": "Anitta",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 694,
+        "dificuldade": "Médio",
+        "nome": "Spock",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Os Caçadores da Arca Perdida",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Shadow of the Colossus",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "itens": [
+      {
+        "id": 189,
+        "dificuldade": "Fácil",
+        "nome": "Cidade de Deus",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1454,
+        "dificuldade": "Médio",
+        "nome": "Visão",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 691,
+        "dificuldade": "Difícil",
+        "nome": "Chuck Norris",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "As Terríveis Aventuras de Billy e Mandy",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "itens": [
+      {
+        "id": 757,
+        "dificuldade": "Fácil",
+        "nome": "Kung Fu Panda",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 58,
+        "dificuldade": "Médio",
+        "nome": "Carandiru",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1355,
+        "dificuldade": "Difícil",
+        "nome": "Dollynho, Seu Amiguinho",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 340,
+        "dificuldade": "Expert",
+        "nome": "Whitney Houston",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "itens": [
+      {
+        "id": 1725,
+        "dificuldade": "Fácil",
+        "nome": "Seu Madruga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 254,
+        "dificuldade": "Médio",
+        "nome": "Groot",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 583,
+        "dificuldade": "Difícil",
+        "nome": "Teen Wolf",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Caminho para El Dorado",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "itens": [
+      {
+        "id": 257,
+        "dificuldade": "Fácil",
+        "nome": "Tarzan",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 506,
+        "dificuldade": "Médio",
+        "nome": "O Iluminado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 292,
+        "dificuldade": "Difícil",
+        "nome": "Joaquin Phoenix",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 56,
+        "dificuldade": "Expert",
+        "nome": "Elden Ring",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "itens": [
+      {
+        "id": 49,
+        "dificuldade": "Fácil",
+        "nome": "Minecraft",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1670,
+        "dificuldade": "Médio",
+        "nome": "O Exorcismo de Emily Rose",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 122,
+        "nome": "Pedro Pascal",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 620,
+        "dificuldade": "Expert",
+        "nome": "Rugrats: Os Anjinhos",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "itens": [
+      {
+        "id": 25,
+        "dificuldade": "Fácil",
+        "nome": "Toy Story",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 98,
+        "dificuldade": "Médio",
+        "nome": "Narcos",
+        "classificacao": "Série"
+      },
+      {
+        "id": 599,
+        "dificuldade": "Difícil",
+        "nome": "Alucard",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 216,
+        "dificuldade": "Expert",
+        "nome": "Os Goonies",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "itens": [
+      {
+        "id": 1037,
+        "dificuldade": "Fácil",
+        "nome": "O Poderoso Chefão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 354,
+        "dificuldade": "Médio",
+        "nome": "Aviões do Forró",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 83,
+        "dificuldade": "Difícil",
+        "nome": "Peaky Blinders",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "DuckTales",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "itens": [
+      {
+        "id": 377,
+        "dificuldade": "Fácil",
+        "nome": "Leonardo DiCaprio",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 246,
+        "dificuldade": "Médio",
+        "nome": "Dungeons and Dragons",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bolt - Supercão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Tudo em Todo Lugar ao Mesmo Tempo",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "itens": [
+      {
+        "id": 177,
+        "dificuldade": "Fácil",
+        "nome": "Homem-Aranha",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 86,
+        "dificuldade": "Médio",
+        "nome": "Corra!",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1567,
+        "dificuldade": "Difícil",
+        "nome": "O Corcunda de Notre Dame",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 48,
+        "dificuldade": "Expert",
+        "nome": "Overwatch",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "itens": [
+      {
+        "id": 141,
+        "dificuldade": "Fácil",
+        "nome": "Goku",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 130,
+        "dificuldade": "Médio",
+        "nome": "O Silêncio dos Inocentes",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1515,
+        "dificuldade": "Difícil",
+        "nome": "Detona Ralph",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 652,
+        "dificuldade": "Expert",
+        "nome": "Once Upon a Time",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "itens": [
+      {
+        "id": 529,
+        "dificuldade": "Fácil",
+        "nome": "Godzilla",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 170,
+        "dificuldade": "Médio",
+        "nome": "Guns N' Roses",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 407,
+        "dificuldade": "Difícil",
+        "nome": "Chris Evans",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 20,
+        "nome": "Mick Jagger",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "itens": [
+      {
+        "id": 625,
+        "dificuldade": "Fácil",
+        "nome": "Timão e Pumba",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "O Professor Aloprado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1655,
+        "dificuldade": "Difícil",
+        "nome": "Grazi Massafera",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 568,
+        "dificuldade": "Expert",
+        "nome": "Genshin Impact",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "itens": [
+      {
+        "id": 1333,
+        "dificuldade": "Fácil",
+        "nome": "007",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 150,
+        "dificuldade": "Médio",
+        "nome": "Vikings",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1535,
+        "dificuldade": "Difícil",
+        "nome": "Tom Hanks",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Carmen Sandiego",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "itens": [
+      {
+        "id": 129,
+        "dificuldade": "Fácil",
+        "nome": "Friends",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1818,
+        "dificuldade": "Médio",
+        "nome": "Bon Jovi",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 627,
+        "dificuldade": "Difícil",
+        "nome": "Django Livre",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "The Midnight Gospel",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "itens": [
+      {
+        "id": 825,
+        "dificuldade": "Fácil",
+        "nome": "Dona Florinda",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 814,
+        "dificuldade": "Médio",
+        "nome": "Top Gun",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1667,
+        "dificuldade": "Difícil",
+        "nome": "Tá Pegando Fogo Bicho",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1352,
+        "dificuldade": "Expert",
+        "nome": "The Chosen",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "itens": [
+      {
+        "id": 145,
+        "dificuldade": "Fácil",
+        "nome": "Piratas do Caribe",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1718,
+        "dificuldade": "Médio",
+        "nome": "Wagner Moura",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1775,
+        "dificuldade": "Difícil",
+        "nome": "KND: A Turma do Bairro",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "A Maldição da Residência Hill",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "itens": [
+      {
+        "id": 1297,
+        "dificuldade": "Fácil",
+        "nome": "The Rock",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1638,
+        "dificuldade": "Médio",
+        "nome": "Atividade Paranormal",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 747,
+        "dificuldade": "Difícil",
+        "nome": "Asa Noturna",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Os Croods",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "itens": [
+      {
+        "id": 61,
+        "dificuldade": "Fácil",
+        "nome": "Scooby-Doo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1254,
+        "dificuldade": "Médio",
+        "nome": "Ciclope",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 507,
+        "dificuldade": "Difícil",
+        "nome": "DOTA",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1188,
+        "dificuldade": "Expert",
+        "nome": "Os Muppets",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Chamado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Ultron",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 939,
+        "dificuldade": "Difícil",
+        "nome": "Deu a Louca na Chapéuzinho",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 468,
+        "dificuldade": "Expert",
+        "nome": "Meryl Streep",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "itens": [
+      {
+        "id": 1529,
+        "dificuldade": "Fácil",
+        "nome": "Pacman",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 642,
+        "dificuldade": "Médio",
+        "nome": "Up - Altas Aventuras",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1715,
+        "dificuldade": "Difícil",
+        "nome": "Massacration",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Deus e o Diabo na Terra do Sol",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "itens": [
+      {
+        "id": 193,
+        "dificuldade": "Fácil",
+        "nome": "Os Incríveis",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 234,
+        "dificuldade": "Médio",
+        "nome": "Mr. Catra",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 839,
+        "dificuldade": "Difícil",
+        "nome": "O Homem que Desafiou o Diabo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Daft Punk",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "itens": [
+      {
+        "id": 581,
+        "dificuldade": "Fácil",
+        "nome": "O Máskara",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 662,
+        "dificuldade": "Médio",
+        "nome": "Constantine",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1011,
+        "dificuldade": "Difícil",
+        "nome": "Para NOSSA Alegria",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 824,
+        "dificuldade": "Expert",
+        "nome": "Aslam",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "itens": [
+      {
+        "id": 1277,
+        "dificuldade": "Fácil",
+        "nome": "Click",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 186,
+        "dificuldade": "Médio",
+        "nome": "Jovens Titans",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 675,
+        "dificuldade": "Difícil",
+        "nome": "Pennywise",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1396,
+        "dificuldade": "Expert",
+        "nome": "Wild Rift",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "itens": [
+      {
+        "id": 565,
+        "dificuldade": "Fácil",
+        "nome": "Três Espiãs Demais",
+        "classificacao": "Animação"
+      },
+      {
+        "nome": "Perfume de Mulher",
+        "classificacao": "Filme",
+        "dificuldade": "Médio",
+        "id": 10010
+      },
+      {
+        "id": 683,
+        "dificuldade": "Difícil",
+        "nome": "Legolas",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1156,
+        "dificuldade": "Expert",
+        "nome": "Metal Slug",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "itens": [
+      {
+        "id": 1681,
+        "dificuldade": "Fácil",
+        "nome": "Queen",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sr. Miyagi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 695,
+        "dificuldade": "Difícil",
+        "nome": "Kingsman",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 408,
+        "dificuldade": "Expert",
+        "nome": "Sing - Quem Canta Seus Males Espanta",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "itens": [
+      {
+        "id": 761,
+        "dificuldade": "Fácil",
+        "nome": "Pernalonga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 62,
+        "dificuldade": "Médio",
+        "nome": "Greys Anatomy",
+        "classificacao": "Série"
+      },
+      {
+        "id": 663,
+        "dificuldade": "Difícil",
+        "nome": "Monster High",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1036,
+        "dificuldade": "Expert",
+        "nome": "Cyndi Lauper",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Breaking Bad",
+        "classificacao": "Série"
+      },
+      {
+        "id": 54,
+        "dificuldade": "Médio",
+        "nome": "Samara",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1799,
+        "dificuldade": "Difícil",
+        "nome": "Nicki Minaj",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1504,
+        "dificuldade": "Expert",
+        "nome": "Eu Sei o Que Vocês Fizeram no Verão Passado",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "itens": [
+      {
+        "id": 561,
+        "dificuldade": "Fácil",
+        "nome": "Jumanji",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 494,
+        "dificuldade": "Médio",
+        "nome": "Prison Break",
+        "classificacao": "Série"
+      },
+      {
+        "id": 142,
+        "nome": "Krusty",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1376,
+        "dificuldade": "Expert",
+        "nome": "Hearthstone",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "itens": [
+      {
+        "id": 45,
+        "dificuldade": "Fácil",
+        "nome": "O Senhor dos Anéis",
+        "classificacao": "Filme"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Terry Crews",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1631,
+        "dificuldade": "Difícil",
+        "nome": "Viva - A Vida é uma Festa",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Oruam",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "itens": [
+      {
+        "id": 873,
+        "dificuldade": "Fácil",
+        "nome": "Dora, A Aventureira",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Beetlejuice",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 15,
+        "nome": "Nazaré Confusa",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 792,
+        "dificuldade": "Expert",
+        "nome": "Akon",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Zorro",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 686,
+        "dificuldade": "Médio",
+        "nome": "Premonição",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Wesley Snipes",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "The Strokes",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "itens": [
+      {
+        "id": 9,
+        "dificuldade": "Fácil",
+        "nome": "The Beatles",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Calma, Calabreso",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 267,
+        "dificuldade": "Difícil",
+        "nome": "A Bruxa de Blair",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 388,
+        "dificuldade": "Expert",
+        "nome": "Nicole Kidman",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "itens": [
+      {
+        "id": 41,
+        "dificuldade": "Fácil",
+        "nome": "Jurassic Park",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1146,
+        "dificuldade": "Médio",
+        "nome": "Pink Floyd",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Amy Winehouse",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Doutor Manhattan",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "itens": [
+      {
+        "id": 297,
+        "dificuldade": "Fácil",
+        "nome": "Michael Jackson",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 806,
+        "dificuldade": "Médio",
+        "nome": "Racionais MC's",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 12,
+        "dificuldade": "Difícil",
+        "nome": "The Witcher",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Spirit: O Corcel Indomável",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Hora de Aventura",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 210,
+        "dificuldade": "Médio",
+        "nome": "Shazam",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 410,
+        "nome": "Oompa Loompa",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1720,
+        "dificuldade": "Expert",
+        "nome": "Grease - Nos Tempos da Brilhantina",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "itens": [
+      {
+        "id": 829,
+        "dificuldade": "Fácil",
+        "nome": "Tom Cruise",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Black Sabbath",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 707,
+        "dificuldade": "Difícil",
+        "nome": "Blade: O Caçador de Vampiros",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Lord Farquaad",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "itens": [
+      {
+        "id": 465,
+        "dificuldade": "Fácil",
+        "nome": "Beyoncé",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Hannah Montana",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Norbit",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Serjão Berranteiro",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Darth Vader",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Selena Gomez",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Phineas e Ferb",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 101,
+        "nome": "Mindhunter",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "itens": [
+      {
+        "id": 525,
+        "dificuldade": "Fácil",
+        "nome": "King Kong",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1294,
+        "dificuldade": "Médio",
+        "nome": "Como Treinar seu Dragão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1251,
+        "dificuldade": "Difícil",
+        "nome": "Evanescence",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 336,
+        "dificuldade": "Expert",
+        "nome": "Wanda Maximoff",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "itens": [
+      {
+        "id": 641,
+        "dificuldade": "Fácil",
+        "nome": "La Casa de Papel",
+        "classificacao": "Série"
+      },
+      {
+        "id": 430,
+        "dificuldade": "Médio",
+        "nome": "Os Padrinhos Mágicos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1835,
+        "dificuldade": "Difícil",
+        "nome": "Doutor Destino",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "GunBound",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "itens": [
+      {
+        "id": 645,
+        "dificuldade": "Fácil",
+        "nome": "Duro de Matar",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 530,
+        "dificuldade": "Médio",
+        "nome": "Sex Education",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1127,
+        "dificuldade": "Difícil",
+        "nome": "Crash Bandicoot",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 680,
+        "dificuldade": "Expert",
+        "nome": "Tribalistas",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "itens": [
+      {
+        "id": 1613,
+        "dificuldade": "Fácil",
+        "nome": "A Paixão de Cristo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Balão Mágico",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Anne Hathaway",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1592,
+        "dificuldade": "Expert",
+        "nome": "A Origem dos Guardiões",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "itens": [
+      {
+        "id": 601,
+        "dificuldade": "Fácil",
+        "nome": "Sítio do Picapau Amarelo",
+        "classificacao": "Série"
+      },
+      {
+        "id": 226,
+        "dificuldade": "Médio",
+        "nome": "O Diabo Veste Prada",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1224,
+        "dificuldade": "Difícil",
+        "nome": "Eita Giovana, o Forninho Caiu!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Os Backyardigans",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "itens": [
+      {
+        "id": 805,
+        "dificuldade": "Fácil",
+        "nome": "Transformers",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1402,
+        "dificuldade": "Médio",
+        "nome": "R2-D2",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1183,
+        "dificuldade": "Difícil",
+        "nome": "Invencível",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1688,
+        "dificuldade": "Expert",
+        "nome": "Margot Robbie",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "itens": [
+      {
+        "id": 541,
+        "dificuldade": "Fácil",
+        "nome": "A Lagoa Azul",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 798,
+        "dificuldade": "Médio",
+        "nome": "Chernobyl",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1831,
+        "dificuldade": "Difícil",
+        "nome": "8 Ball Pool",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 200,
+        "dificuldade": "Expert",
+        "nome": "Kim Possible",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "itens": [
+      {
+        "id": 417,
+        "dificuldade": "Fácil",
+        "nome": "Sherlock Holmes",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 830,
+        "dificuldade": "Médio",
+        "nome": "De Repente 30",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 262,
+        "nome": "Dale Márcio",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 363,
+        "nome": "Zac Efron",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "itens": [
+      {
+        "id": 949,
+        "dificuldade": "Fácil",
+        "nome": "Pânico",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1258,
+        "dificuldade": "Médio",
+        "nome": "A Casa Monstro",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 603,
+        "dificuldade": "Difícil",
+        "nome": "Henry Cavill",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 272,
+        "dificuldade": "Expert",
+        "nome": "Gossip Girl",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Frajola e Piu-piu",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 326,
+        "dificuldade": "Médio",
+        "nome": "Keanu Reeves",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1307,
+        "dificuldade": "Difícil",
+        "nome": "À Espera de um Milagre",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 396,
+        "dificuldade": "Expert",
+        "nome": "Dwight Schrute",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "itens": [
+      {
+        "id": 1793,
+        "dificuldade": "Fácil",
+        "nome": "Papa-Léguas e Coiote",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mestre Kame",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 267,
+        "nome": "Paramore",
+        "classificacao": "Banda",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1128,
+        "dificuldade": "Expert",
+        "nome": "Você Filma e Fala? Você é o Bichão Mesmo",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "itens": [
+      {
+        "id": 785,
+        "dificuldade": "Fácil",
+        "nome": "Shakira",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 682,
+        "dificuldade": "Médio",
+        "nome": "John Wick",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 639,
+        "dificuldade": "Difícil",
+        "nome": "Drake & Josh",
+        "classificacao": "Série"
+      },
+      {
+        "id": 428,
+        "dificuldade": "Expert",
+        "nome": "Hi Hi Puffy AmiYumi",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Liga da Justiça",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1150,
+        "dificuldade": "Médio",
+        "nome": "Cisne Negro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 735,
+        "dificuldade": "Difícil",
+        "nome": "Dominic Toretto",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 92,
+        "dificuldade": "Expert",
+        "nome": "Westworld",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "itens": [
+      {
+        "id": 973,
+        "dificuldade": "Fácil",
+        "nome": "Hello Kitty",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 566,
+        "dificuldade": "Médio",
+        "nome": "Chris Brown",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 278,
+        "nome": "Gamora",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1212,
+        "dificuldade": "Expert",
+        "nome": "Smallville: As Aventuras do Superboy",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "itens": [
+      {
+        "id": 705,
+        "dificuldade": "Fácil",
+        "nome": "Pantera-Cor-De-Rosa",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 18,
+        "dificuldade": "Médio",
+        "nome": "Doutor Octopus",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 276,
+        "nome": "Dante",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 188,
+        "nome": "Uncharted",
+        "classificacao": "Jogo",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "itens": [
+      {
+        "id": 1785,
+        "dificuldade": "Fácil",
+        "nome": "Os Ursinhos Carinhosos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 634,
+        "dificuldade": "Médio",
+        "nome": "Marilyn Monroe",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Os Anéis de Poder",
+        "classificacao": "Série"
+      },
+      {
+        "id": 76,
+        "dificuldade": "Expert",
+        "nome": "Dona Flor e Seus Dois Maridos",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "itens": [
+      {
+        "id": 657,
+        "dificuldade": "Fácil",
+        "nome": "Meu Malvado Favorito",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Bully",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "O Show de Truman",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 301,
+        "nome": "Bruce Dickinson",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "itens": [
+      {
+        "id": 1257,
+        "dificuldade": "Fácil",
+        "nome": "Anaconda",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1358,
+        "dificuldade": "Médio",
+        "nome": "Mafalda",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 288,
+        "nome": "Al Pacino",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1784,
+        "dificuldade": "Expert",
+        "nome": "Christina Aguilera",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Turma da Mônica",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1590,
+        "dificuldade": "Médio",
+        "nome": "Morgan Freeman",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 159,
+        "dificuldade": "Difícil",
+        "nome": "Kurt Cobain",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1124,
+        "dificuldade": "Expert",
+        "nome": "Under the Dome (O Domo)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "itens": [
+      {
+        "id": 317,
+        "dificuldade": "Fácil",
+        "nome": "Mulher-Maravilha",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 94,
+        "dificuldade": "Médio",
+        "nome": "Latino",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 355,
+        "dificuldade": "Difícil",
+        "nome": "American Horror Story",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1372,
+        "dificuldade": "Expert",
+        "nome": "A Forma da Água",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "itens": [
+      {
+        "id": 205,
+        "dificuldade": "Fácil",
+        "nome": "Moana",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Larissa Manoela",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 759,
+        "dificuldade": "Difícil",
+        "nome": "Village People",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 988,
+        "dificuldade": "Expert",
+        "nome": "Super Metroid",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "itens": [
+      {
+        "id": 349,
+        "dificuldade": "Fácil",
+        "nome": "Eminem",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 690,
+        "dificuldade": "Médio",
+        "nome": "Black Mirror",
+        "classificacao": "Série"
+      },
+      {
+        "id": 111,
+        "dificuldade": "Difícil",
+        "nome": "Fernanda Montenegro",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Klaus",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "itens": [
+      {
+        "id": 833,
+        "dificuldade": "Fácil",
+        "nome": "O Mágico de Oz",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1342,
+        "dificuldade": "Médio",
+        "nome": "Iron Maiden",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1663,
+        "dificuldade": "Difícil",
+        "nome": "Muttley",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Mel Gibson",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Lanterna Verde",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 778,
+        "dificuldade": "Médio",
+        "nome": "BTS",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1779,
+        "dificuldade": "Difícil",
+        "nome": "Rodrigo Santoro",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 248,
+        "dificuldade": "Expert",
+        "nome": "O Incrível Mundo de Gumball",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "itens": [
+      {
+        "id": 697,
+        "dificuldade": "Fácil",
+        "nome": "God of War",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 198,
+        "dificuldade": "Médio",
+        "nome": "Hannibal",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1143,
+        "dificuldade": "Difícil",
+        "nome": "Os Sete Monstrinhos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1616,
+        "dificuldade": "Expert",
+        "nome": "Belchior",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "itens": [
+      {
+        "id": 881,
+        "dificuldade": "Fácil",
+        "nome": "Zeca Pagodinho",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Bee Movie",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 727,
+        "dificuldade": "Difícil",
+        "nome": "The King of Fighters",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 156,
+        "nome": "Anthony Hopkins",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "itens": [
+      {
+        "id": 769,
+        "dificuldade": "Fácil",
+        "nome": "Chucky",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Arcane",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1199,
+        "dificuldade": "Difícil",
+        "nome": "Ain Pai Para",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 488,
+        "dificuldade": "Expert",
+        "nome": "Jim Morrison",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Marília Mendonça",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Lázaro Ramos",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "World of Warcraft",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 656,
+        "dificuldade": "Expert",
+        "nome": "A Vida e Aventuras de Juniper Lee",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chiclete com Banana",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 582,
+        "dificuldade": "Médio",
+        "nome": "Candy Crush",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "O Livro de Eli",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "A Mansão Foster para Amigos Imaginários",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "itens": [
+      {
+        "id": 29,
+        "dificuldade": "Fácil",
+        "nome": "Harry Potter",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 266,
+        "dificuldade": "Médio",
+        "nome": "Donkey Kong",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1167,
+        "dificuldade": "Difícil",
+        "nome": "Elvira: A Rainha das Trevas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Duck Dodgers",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "itens": [
+      {
+        "id": 553,
+        "dificuldade": "Fácil",
+        "nome": "Free Fire",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 66,
+        "dificuldade": "Médio",
+        "nome": "Mestre Splinter",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "A Nova Onda do Imperador",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1464,
+        "dificuldade": "Expert",
+        "nome": "Os Bons Companheiros (GoodFellas)",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "itens": [
+      {
+        "id": 1569,
+        "dificuldade": "Fácil",
+        "nome": "Drácula",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "O Clube das Winx",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Miley Cyrus",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Demi Moore",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "itens": [
+      {
+        "id": 677,
+        "dificuldade": "Fácil",
+        "nome": "Jogos Mortais",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1494,
+        "dificuldade": "Médio",
+        "nome": "Coldplay",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1359,
+        "dificuldade": "Difícil",
+        "nome": "Princesa Peach",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1828,
+        "dificuldade": "Expert",
+        "nome": "Agents of S.H.I.E.L.D",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Alcione",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 590,
+        "dificuldade": "Médio",
+        "nome": "Looney Tunes",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1303,
+        "dificuldade": "Difícil",
+        "nome": "Red Hot Chili Peppers",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Barney e Seus Amigos",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "itens": [
+      {
+        "id": 385,
+        "dificuldade": "Fácil",
+        "nome": "X-Men",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1174,
+        "dificuldade": "Médio",
+        "nome": "Natiruts",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 375,
+        "dificuldade": "Difícil",
+        "nome": "Caetano Veloso",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1004,
+        "dificuldade": "Expert",
+        "nome": "Luiza do Canadá",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "itens": [
+      {
+        "id": 1233,
+        "dificuldade": "Fácil",
+        "nome": "Coringa",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 366,
+        "dificuldade": "Médio",
+        "nome": "Bruno Mars",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 31,
+        "dificuldade": "Difícil",
+        "nome": "Os Batutinhas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Grand Chase",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "itens": [
+      {
+        "id": 53,
+        "dificuldade": "Fácil",
+        "nome": "Titanic",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Ney Matogrosso",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 723,
+        "dificuldade": "Difícil",
+        "nome": "Tekken",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 187,
+        "dificuldade": "Expert",
+        "nome": "Orange Is the New Black",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "itens": [
+      {
+        "id": 1121,
+        "dificuldade": "Fácil",
+        "nome": "A Dama e o Vagabundo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 799,
+        "dificuldade": "Médio",
+        "nome": "Bumblebee",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 171,
+        "dificuldade": "Difícil",
+        "nome": "Mr. Robot",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1272,
+        "dificuldade": "Expert",
+        "nome": "David Bowie",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "itens": [
+      {
+        "id": 109,
+        "dificuldade": "Fácil",
+        "nome": "Hulk",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 154,
+        "dificuldade": "Médio",
+        "nome": "Coragem, o Cão Covarde",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 7,
+        "dificuldade": "Difícil",
+        "nome": "A Origem",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 480,
+        "dificuldade": "Expert",
+        "nome": "Kendrick Lamar",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "The Walking Dead",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "The Rolling Stones",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 427,
+        "dificuldade": "Difícil",
+        "nome": "George Clooney",
+        "classificacao": "Ator/Atriz"
+      },
+
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Caillou",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Pikachu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 862,
+        "dificuldade": "Médio",
+        "nome": "Alien vs Predador",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 39,
+        "dificuldade": "Difícil",
+        "nome": "Call of Duty",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1172,
+        "dificuldade": "Expert",
+        "nome": "Caçadores de Trolls",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 2006,
+    "itens": [
+      {
+        "id": 589,
+        "dificuldade": "Fácil",
+        "nome": "Karate Kid",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 559,
+        "dificuldade": "Médio",
+        "nome": "Smilingüido",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 703,
+        "dificuldade": "Difícil",
+        "nome": "John Travolta",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 448,
+        "dificuldade": "Expert",
+        "nome": "Judas Priest",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 2007,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Stranger Things",
+        "classificacao": "Série"
+      },
+      {
+        "id": 586,
+        "dificuldade": "Médio",
+        "nome": "Grand Theft Auto (GTA)",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 227,
+        "dificuldade": "Difícil",
+        "nome": "Uma Família da Pesada (Family Guy)",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1536,
+        "dificuldade": "Expert",
+        "nome": "Ara Ketu",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 2008,
+    "itens": [
+      {
+        "id": 225,
+        "dificuldade": "Fácil",
+        "nome": "Batman",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 702,
+        "dificuldade": "Médio",
+        "nome": "Jogos Vorazes",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1175,
+        "dificuldade": "Difícil",
+        "nome": "Xena: A Princesa Guerreira",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Cachorro? Que Cachorro o Que? Eu Não Sou Cachorro Não",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 2009,
+    "itens": [
+      {
+        "id": 89,
+        "dificuldade": "Fácil",
+        "nome": "Superman",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Carrie - A Estranha",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1007,
+        "dificuldade": "Difícil",
+        "nome": "Valorant",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1208,
+        "dificuldade": "Expert",
+        "nome": "Bates Motel",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 2010,
+    "itens": [
+      {
+        "id": 105,
+        "dificuldade": "Fácil",
+        "nome": "Velozes e Furiosos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1582,
+        "dificuldade": "Médio",
+        "nome": "Ryu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 287,
+        "dificuldade": "Difícil",
+        "nome": "Sabrina, Aprendiz de Feiticeira",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Wallace e Gromit",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "itens": [
+      {
+        "id": 102,
+        "dificuldade": "Fácil",
+        "nome": "League of Legends",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1778,
+        "dificuldade": "Médio",
+        "nome": "Um Tira da Pesada",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 651,
+        "dificuldade": "Difícil",
+        "nome": "Gollum",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 916,
+        "dificuldade": "Expert",
+        "nome": "Meu Deus do Céu Berg",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 2012,
+    "itens": [
+      {
+        "id": 421,
+        "dificuldade": "Fácil",
+        "nome": "Angelina Jolie",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mogli: O Menino Lobo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 32,
+        "dificuldade": "Difícil",
+        "nome": "The Legend Of Zelda",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1268,
+        "dificuldade": "Expert",
+        "nome": "C é Louco Cachoeira?",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 2013,
+    "itens": [
+      {
+        "id": 21,
+        "dificuldade": "Fácil",
+        "nome": "Bob Esponja",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 687,
+        "dificuldade": "Médio",
+        "nome": "Britney Spears",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "nome": "Perdido em Marte",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1140,
+        "dificuldade": "Expert",
+        "nome": "LazyTown",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "itens": [
+      {
+        "id": 1273,
+        "dificuldade": "Fácil",
+        "nome": "Crepúsculo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Caio Castro",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Heisenberg",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "MC Poze do Rodo",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "itens": [
+      {
+        "id": 1173,
+        "dificuldade": "Fácil",
+        "nome": "O Auto da Compadecida",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 638,
+        "dificuldade": "Médio",
+        "nome": "Capitão Caverna",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bombardino Crocodilo",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1180,
+        "dificuldade": "Expert",
+        "nome": "Ramona Flowers",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "itens": [
+      {
+        "id": 269,
+        "dificuldade": "Fácil",
+        "nome": "Thor",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "It - A Coisa",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 615,
+        "dificuldade": "Difícil",
+        "nome": "Kenan & Kel",
+        "classificacao": "Série"
+      },
+      {
+        "id": 24,
+        "dificuldade": "Expert",
+        "nome": "Bloodbourne",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 3004,
+    "itens": [
+      {
+        "id": 797,
+        "dificuldade": "Fácil",
+        "nome": "Madagascar",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1390,
+        "dificuldade": "Médio",
+        "nome": "Parasita",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Beto Barbosa",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 35,
+        "dificuldade": "Expert",
+        "nome": "Namor",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 3005,
+    "itens": [
+      {
+        "id": 985,
+        "dificuldade": "Fácil",
+        "nome": "Mamonas Assassinas",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 710,
+        "dificuldade": "Médio",
+        "nome": "O Exterminador do Futuro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "DDTank",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 392,
+        "dificuldade": "Expert",
+        "nome": "Daryl Dixon",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 3006,
+    "itens": [
+      {
+        "id": 1245,
+        "dificuldade": "Fácil",
+        "nome": "Wolverine",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 950,
+        "dificuldade": "Médio",
+        "nome": "Rebeldes",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1356,
+        "dificuldade": "Difícil",
+        "nome": "Cyberpunk 2077",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1832,
+        "dificuldade": "Expert",
+        "nome": "Hellraiser - Renascido do Inferno",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 3007,
+    "itens": [
+      {
+        "id": 929,
+        "dificuldade": "Fácil",
+        "nome": "Tetris",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 750,
+        "dificuldade": "Médio",
+        "nome": "Interestelar",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Canarinho Pistola",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 840,
+        "dificuldade": "Expert",
+        "nome": "Mary Poppins",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 3008,
+    "itens": [
+      {
+        "id": 181,
+        "dificuldade": "Fácil",
+        "nome": "Os Flintstones",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 994,
+        "dificuldade": "Médio",
+        "nome": "Silent Hill",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 291,
+        "dificuldade": "Difícil",
+        "nome": "Taylor Swift",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 732,
+        "dificuldade": "Expert",
+        "nome": "Leatherface",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 3009,
+    "itens": [
+      {
+        "id": 701,
+        "dificuldade": "Fácil",
+        "nome": "Jason",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "The Office",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1135,
+        "dificuldade": "Difícil",
+        "nome": "O Labirinto do Fauno",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1640,
+        "dificuldade": "Expert",
+        "nome": "O Galinho Chicken Little",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 3010,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Exorcista",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 42,
+        "dificuldade": "Médio",
+        "nome": "The Big Bang Theory",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "O Estranho Mundo de Jack",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1148,
+        "dificuldade": "Expert",
+        "nome": "Jessica Rabbit",
+        "classificacao": "Personagem"
+      }
+    ]
+  }
+]

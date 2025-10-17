@@ -1,0 +1,760 @@
+[
+  {
+    "id": 1,
+    "itens": [
+      {
+        "id": 331,
+        "nome": "Satoru Gojo",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 329,
+        "nome": "Okarun",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 286,
+        "nome": "Gear Fifth",
+        "classificacao": "Habilidade/Poder",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 282,
+        "nome": "Katekyo Hitman Reborn",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "id": 376,
+        "nome": "Sasuke Uchiha",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 11,
+        "nome": "Vinland Saga",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 325,
+        "nome": "Yusuke Urameshi",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 287,
+        "nome": "MaXXXine",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "id": 403,
+        "nome": "Itachi Uchiha",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 71,
+        "nome": "Dinoassauro Rei",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 70,
+        "nome": "Highschool of the Dead",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 131,
+        "nome": "Kagurabachi",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Killua",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 106,
+        "nome": "Dungeon Meshi",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "nome": "Diários de uma Apotecária",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 268,
+        "nome": "Elfen Lied",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Appa",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "Túmulo dos Vagalumes",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Ichigo Kurosaki",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 204,
+        "nome": "Ghost in the Shell",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bulma",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 239,
+        "nome": "Parasyte",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 176,
+        "nome": "Akame ga Kill!",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Expert",
+        "nome": "Soul Eater",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Gon",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 235,
+        "nome": "Monster",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 13,
+        "nome": "No Game No Life",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Gundam Wing",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Madara Uchiha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Gamabunta",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 272,
+        "nome": "Tokyo Revengers",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Code Geass",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Todoroki",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Médio",
+        "nome": "Velha Turbo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 251,
+        "nome": "Charlotte",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Steins;Gate",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Tanjirō",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Médio",
+        "nome": "Minato Namikaze",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 213,
+        "nome": "Your Name",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Saiki Kusuo no Psi-nan",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Fácil",
+        "nome": "Guts",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Médio",
+        "nome": "Aldebaran",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 13,
+        "nome": "Hell's Paradise",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 15,
+        "nome": "Samurai Warriors",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Escanor",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 245,
+        "nome": "Hellsing",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Violet Evergarden",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "O Peixe Grande & Begônia",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "id": 203,
+        "nome": "O Castelo no Céu",
+        "classificacao": "Anime",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 190,
+        "nome": "O Mundo dos Pequeninos",
+        "classificacao": "Anime",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Vidas ao Vento",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Bubble",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Chainsaw Man",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Médio",
+        "nome": "O Serviço de Entregas da Kiki",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sussuros dos Coração",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Suzume",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Fácil",
+        "nome": "Baki - O Campeão",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Médio",
+        "nome": "Frieren e a Jornada para o Além",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Difícil",
+        "nome": "Dr. Slump",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "As Memórias de Marnie",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Fácil",
+        "nome": "Avatar: A Lenda de  Korra",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Médio",
+        "nome": "Blue Exorcist",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Difícil",
+        "nome": "Fire Force",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Mary e a Flor da Feiticeira",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Fácil",
+        "nome": "Boku no Pico",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Re:Zero",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Difícil",
+        "nome": "Black Lagoon",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "O Tempo com Você",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Exódia",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 181,
+        "nome": "Chidori",
+        "classificacao": "Habilidade/Poder",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Difícil",
+        "nome": "Ao no Exorcist",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Da Colina Kokuriko",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "id": 256,
+        "nome": "Expansão de Domínio",
+        "classificacao": "Habilidade/Poder",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 258,
+        "nome": "Red Hawk",
+        "classificacao": "Habilidade/Poder",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Difícil",
+        "nome": "Sanji",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "Devilman Crybaby",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "id": 1031,
+        "dificuldade": "Fácil",
+        "nome": "Dr. Stone",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Olhos de Gato",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Difícil",
+        "nome": "Trigun",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "Nagato",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Fácil",
+        "nome": "Solo Leveling",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Médio",
+        "nome": "Mikasa Ackerman",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Difícil",
+        "nome": "Kaido",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Porco Rosso: O Último Româtico",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "itens": [
+      {
+        "id": 584,
+        "dificuldade": "Fácil",
+        "nome": "Eren Yeager",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Médio",
+        "nome": "Shikamaru",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 99,
+        "nome": "Videl",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "Naquele Tempo, Reencarnei como um Slime(Tensei Shitara Slime Datta Ken)",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Fácil",
+        "nome": "Sakura",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Médio",
+        "nome": "Edward Elric",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Difícil",
+        "nome": "Tao Pai Pai",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 99,
+        "nome": "The Rising of the Shield Hero",
+        "classificacao": "Anime",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 99,
+        "nome": "Roronoa Zoro",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Médio",
+        "nome": "Tony Chopper",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Difícil",
+        "nome": "Mr. Popo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "Mirai Nikki",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 648,
+        "dificuldade": "Expert",
+        "nome": "Sword Art Online",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 99,
+        "nome": "Kuririn",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Médio",
+        "nome": "Sword Art Online",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 7,
+        "nome": "Reino dos Gatos",
+        "classificacao": "Anime",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 21,
+        "nome": "Zangetsu",
+        "classificacao": "Objeto da Ficção",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 99,
+        "nome": "A",
+        "classificacao": "A",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Médio",
+        "nome": "A",
+        "classificacao": "A"
+      },
+      {
+        "id": 400,
+        "dificuldade": "A",
+        "nome": "A",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "A",
+        "classificacao": "A"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2145 @@
+[
+  {
+    "id": 703,
+    "itens": [
+      {
+        "id": 281,
+        "nome": "Rogério Vilela",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 291,
+        "nome": "Seu Lobato",
+        "classificacao": "Música",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Guerra dos Sexos",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 726,
+        "dificuldade": "Misto",
+        "nome": "Kama-Sutra",
+        "classificacao": "Livro"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "itens": [
+      {
+        "id": 323,
+        "nome": "Cruz e Sousa",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+
+      {
+        "id": 317,
+        "nome": "Jajá e Juju",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 318,
+        "nome": "Felipe Castanhari",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Calígula",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "itens": [
+      {
+        "id": 319,
+        "nome": "Mario Quintana",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Boyceta",
+        "classificacao": "+18"
+      },
+      {
+        "id": 324,
+        "nome": "Pequenas Empresas Grandes Negócios",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Beleza Fatal",
+        "classificacao": "Novela"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Andrea Pirlo",
+        "classificacao": "Jogador(a) de Futebol"
+      },
+      {
+        "id": 353,
+        "nome": "Bolofofos",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 356,
+        "nome": "Steam",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 338,
+        "nome": "Erico Verissimo",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Família Sacana",
+        "classificacao": "+18"
+      },
+      {
+        "id": 304,
+        "nome": "Tulla Luana",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 364,
+        "nome": "AliExpress",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "5-Minute Crafts",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "itens": [
+      {
+        "id": 366,
+        "nome": "Dig-Dig-Joy",
+        "classificacao": "Música",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Kinechan",
+        "classificacao": "+18"
+      },
+      {
+        "id": 360,
+        "nome": "Kwai",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Boate Kiss",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "itens": [
+      {
+        "id": 384,
+        "nome": "CapCut",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 386,
+        "nome": "Teresa",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Tony Hawk",
+        "classificacao": "Atleta"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Luciana Gimenez",
+        "classificacao": "Apresentador(a)"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "As Aventuras de Poliana",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 74,
+        "nome": "Vicky Vanilla",
+        "classificacao": "Religioso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 390,
+        "nome": "Vidas Secas",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 392,
+        "nome": "Shein",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Marimar",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 398,
+        "dificuldade": "Misto",
+        "nome": "Amor & Sexo",
+        "classificacao": "+18"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Leandro Lo",
+        "classificacao": "Lutador(a)"
+      },
+      {
+        "id": 396,
+        "nome": "Pinterest",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "itens": [
+      {
+        "id": 397,
+        "nome": "Castro Alves",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 401,
+        "nome": "Evaristo Costa",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Carinha de Anjo",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 388,
+        "nome": "Canva",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "itens": [
+      {
+        "id": 411,
+        "nome": "Menina da Bota",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Floribella",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Celso Russomanno",
+        "classificacao": "Política"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "itens": [
+      {
+        "id": 24,
+        "nome": "Bianca Andrade",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 42,
+        "nome": "Pobre Louco",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 51,
+        "nome": "Aqueles Caras",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Mica Galvão",
+        "classificacao": "Lutador(a)"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "itens": [
+      {
+        "id": 95,
+        "nome": "Brian Shaw",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 76,
+        "nome": "La Fenix",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 83,
+        "nome": "Quilimanjaro",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+
+      {
+        "id": 105,
+        "nome": "Brasileirinhas",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Celbit",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 58,
+        "nome": "Meridiano de Greenwich",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 97,
+        "nome": "BRKsEdu",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Striptease",
+        "classificacao": "+18"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "itens": [
+      {
+        "id": 94,
+        "nome": "Mark Felix",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 102,
+        "nome": "Privacy",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 82,
+        "nome": "Cracolandia",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Pileto",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Arthur Schopenhauer",
+        "classificacao": "Filósofo"
+      },
+      {
+        "id": 6,
+        "nome": "São Cipriano",
+        "classificacao": "Religião",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Matinta Pereira",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 28,
+        "nome": "Titela",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "itens": [
+      {
+        "id": 296,
+        "nome": "Rasga Mortalha",
+        "classificacao": "Folclore",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 34,
+        "nome": "Roberta Close",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 40,
+        "nome": "Gabriel Monteiro",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Henrique Fogaça",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Homero",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "100 Homens vs 1 Gorila",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 77,
+        "nome": "Lívia Andrade",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 872,
+        "dificuldade": "Misto",
+        "nome": "Rodolfo e ET",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "1984",
+        "classificacao": "Livro"
+      },
+      {
+        "id": 1384,
+        "dificuldade": "Misto",
+        "nome": "Immanuel Kant",
+        "classificacao": "Filósofo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "John F. Kennedy",
+        "classificacao": "Política"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "itens": [
+      {
+        "id": 439,
+        "dificuldade": "Misto",
+        "nome": "Júlio César",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Ártemis",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 156,
+        "dificuldade": "Misto",
+        "nome": "Como Eu Era Antes de Você",
+        "classificacao": "Livro"
+      },
+      {
+        "id": 1624,
+        "dificuldade": "Misto",
+        "nome": "Confúcio",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Rachel Sheherazade",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Charges.com.br",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Marcius Melhem",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Anjo Mau",
+        "classificacao": "Novela"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "itens": [
+      {
+        "id": 788,
+        "dificuldade": "Misto",
+        "nome": "Roque Santeiro",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Sandra Annenberg",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Manias de Você",
+        "classificacao": "+18"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Mahatma Gandhi",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Kid Bengala",
+        "classificacao": "+18"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Obedece a La Morsa",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Juninho Afram",
+        "classificacao": "Músico"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Coca Cola Espumante",
+        "classificacao": "Música"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "itens": [
+      {
+        "id": 811,
+        "dificuldade": "Misto",
+        "nome": "Área 51",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Vera Verão",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Sanduíche de B*c3t@",
+        "classificacao": "+18"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Kiko Loureiro",
+        "classificacao": "Músico"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "A Festa da Salsisha",
+        "classificacao": "+18"
+      },
+      {
+        "id": 3,
+        "nome": "Pedro Sampaio",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Calvo do Campari",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Cine Privê",
+        "classificacao": "+18"
+      },
+      {
+        "id": 231,
+        "nome": "Avast",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Gabriela, Cravo e Canela",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Tutancâmon",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "itens": [
+      {
+        "id": 1384,
+        "dificuldade": "Misto",
+        "nome": "Assassino do Zodíaco",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 6,
+        "nome": "Janja Lula da Silva",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Alexandre Frota",
+        "classificacao": "+18"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Otávio Mesquita",
+        "classificacao": "Apresentador(a)"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "itens": [
+      {
+        "id": 650,
+        "dificuldade": "Misto",
+        "nome": "Banheira do Gugu",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Abadon",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 104,
+        "nome": "Tigresa Vip",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "itens": [
+      {
+        "id": 78,
+        "nome": "Maju Coutinho",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 84,
+        "nome": "Guerra e Paz",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 86,
+        "nome": "Enéas Carneiro",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 102,
+        "nome": "Irmãos Wright",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "itens": [
+      {
+        "id": 100,
+        "nome": "O Nome da Flor",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 108,
+        "nome": "Hipócrates",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Larissa Riquelme",
+        "classificacao": "+18"
+      },
+      {
+        "id": 29,
+        "nome": "Jake Paul",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "itens": [
+      {
+        "id": 123,
+        "nome": "Nikolas Ferreira",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 124,
+        "nome": "Robinson Crusoe",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 103,
+        "nome": "Lana Rhodes",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Nicole Bahls",
+        "classificacao": "Famoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "itens": [
+      {
+        "id": 136,
+        "nome": "Dr. Rey",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 155,
+        "nome": "Maria Antonieta",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 202,
+        "nome": "Faker",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 159,
+        "nome": "Topa Tudo Por Dinheiro",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "itens": [
+      {
+        "id": 160,
+        "nome": "O Meu Pé de Laranja Lima",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 165,
+        "nome": "Tio Sam",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 236,
+        "nome": "Mulher Samambaia",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 191,
+        "nome": "Olavo Bilac",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Hachiko",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Isaac Asimov",
+        "classificacao": "Escritor(a)"
+      },
+      {
+        "id": 193,
+        "nome": "Fidel Castro",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 132,
+        "nome": "Édipo",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "itens": [
+      {
+        "id": 221,
+        "nome": "Ada Lovelace",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 229,
+        "nome": "Vinte Mil Léguas Submarinas",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Júlio Verne",
+        "classificacao": "Escritor(a)"
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "itens": [
+      {
+        "id": 187,
+        "nome": "Mario de Andrade",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Chespirito",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "José Dirceu",
+        "classificacao": "Política"
+      },
+      {
+        "id": 808,
+        "dificuldade": "Misto",
+        "nome": "Josef Stalin",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "itens": [
+      {
+        "id": 551,
+        "dificuldade": "Misto",
+        "nome": "Nelson Mandela",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 236,
+        "nome": "Dani Bolina",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 243,
+        "nome": "Omeleteve",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Alexandre de Moraes",
+        "classificacao": "Política"
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "itens": [
+      {
+        "id": 17,
+        "nome": "Playboy",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 47,
+        "nome": "Darlan",
+        "classificacao": "Jogador(a) de Vôlei",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 54,
+        "nome": "Muca Muriçoca",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "itens": [
+      {
+        "id": 20,
+        "nome": "G Magazine",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 236,
+        "nome": "Tigas",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "nome": "Werdum",
+        "classificacao": "Lutador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cabeça de Gelo",
+        "classificacao": "Música"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "itens": [
+      {
+        "id": 771,
+        "dificuldade": "Misto",
+        "nome": "Nicolau Maquiavel",
+        "classificacao": "Escritor(a)"
+      },
+      {
+        "id": 8,
+        "nome": "Hilda Furacão",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 14,
+        "nome": "Mephisto",
+        "classificacao": "Mitologia",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1824,
+        "dificuldade": "Misto",
+        "nome": "Catalendas",
+        "classificacao": "Programa"
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "American Idol",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 25,
+        "nome": "Marco Luque",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 26,
+        "nome": "Akupara",
+        "classificacao": "Mitologia",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "itens": [
+      {
+        "id": 374,
+        "dificuldade": "Misto",
+        "nome": "Esporte Espetacular",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1751,
+        "dificuldade": "Misto",
+        "nome": "Casa do Pedrinho",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 27,
+        "nome": "Ruyter",
+        "classificacao": "Influencer",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 33,
+        "nome": "Jade Barbosa",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "itens": [
+      {
+        "id": 1267,
+        "dificuldade": "Misto",
+        "nome": "Tieta",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1162,
+        "dificuldade": "Misto",
+        "nome": "Show do Tom",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 34,
+        "nome": "Flávia Saraiva",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 42,
+        "nome": "Faixa de Gaza",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Telecurso 2000",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 45,
+        "nome": "Nishida",
+        "classificacao": "Jogador(a) de Vôlei",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 452,
+        "dificuldade": "Misto",
+        "nome": "Monte Vesúvio",
+        "classificacao": "Local/Construção"
+      },
+
+      {
+        "id": 49,
+        "nome": "Bolachinha",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "itens": [
+      {
+        "id": 46,
+        "nome": "N'Gapeth",
+        "classificacao": "Jogador(a) de Vôlei",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 55,
+        "nome": "TET",
+        "classificacao": "Influencer",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Esquadrão da Moda",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 56,
+        "nome": "Cariúcha",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "itens": [
+      {
+        "id": 40,
+        "nome": "De Frente com Gabi",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 59,
+        "nome": "Gio Lisboa",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 68,
+        "nome": "MrBeast",
+        "classificacao": "YouTube",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1615,
+        "dificuldade": "Médio",
+        "nome": "Quadradinho de 8",
+        "classificacao": "Música"
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "itens": [
+      {
+        "id": 70,
+        "nome": "Estevam Nabote",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 71,
+        "nome": "Roberto Baggio",
+        "classificacao": "Jogador(a) de Futebol",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 74,
+        "nome": "Mau Mau",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 80,
+        "nome": "C.S. Lewis",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "itens": [
+      {
+        "id": 76,
+        "nome": "Luis Suárez",
+        "classificacao": "Jogador(a) de Futebol",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 78,
+        "nome": "Padre do Balão",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 78,
+        "nome": "Camilla de Lucas",
+        "classificacao": "Influencer",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 78,
+        "nome": "Jim Lee",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "itens": [
+      {
+        "nome": "Júlíus Björnsson",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Senhor Lunga",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "O Menino de Vó Vai Deixar Vovó",
+        "classificacao": "Música",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "X Factor",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "nome": "Júlio Balestrin",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Big Ed",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Christina Rocha",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Eragon",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "nome": "Magnus Carlsen",
+        "classificacao": "Atleta",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Carol Dias",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Poesia Acustica",
+        "classificacao": "Música",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Comadre Fulozinha",
+        "classificacao": "Folclore",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "nome": "Aryane Steinkopf",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Ragatanga",
+        "classificacao": "Música",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Hermes e Renato",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "O Assassinato no Expresso do Oriente",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "nome": "A Escolinha do Golias",
+        "classificacao": "Programa",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Iracema",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Zangbeto",
+        "classificacao": "Folclore",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Khaby Lame",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "nome": "As Mil e Uma Noites",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Papa Figo",
+        "classificacao": "Folclore",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Baianinho de Mauá",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Laerte Coutinho",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "nome": "Ricardo Corbucci",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "José Saramago",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Fera Ferida",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Ticiane Pinheiro",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "nome": "HumorTadela",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Euclides da Cunha",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Cobras e Lagartos",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Olha a Faca!",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "nome": "Rei do Kuduru",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Laços de Família",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Telegram",
+        "classificacao": "Aplicativo",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "nome": "Gordox",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Irmãos Grimm",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Tieta do Agreste",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Antônio Conselheiro",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "nome": "Mamma Bruschetta",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Putinhas Aborteiras",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1364,
+        "dificuldade": "Misto",
+        "nome": "Fukushima",
+        "classificacao": "Histórico"
+      },
+      {
+        "nome": "Ramessés",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "nome": "Joaquim José da Silva Xavier",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Vídeo Cassetadas",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Mia Khalifa",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Fabiano Cambota",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "nome": "Andressa Urach",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Italo Sena",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Vivaldi",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Silvio Luiz",
+        "classificacao": "Narrador/Comentarista",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "itens": [
+      {
+        "nome": "Sasha Grey",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Helio de la Penã",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "KL Jay",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Arrakis",
+        "classificacao": "Lugar da Ficção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "itens": [
+      {
+        "nome": "Luiza Ambiel",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Mução",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Marshmello",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Linhas de Nazca",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "itens": [
+      {
+        "nome": "Eliza Sanches",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Espanta",
+        "classificacao": "Comediante",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Max Cavalera",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "InGen",
+        "classificacao": "Organização da Ficção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "itens": [
+      {
+        "nome": "Pompeia",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Big Show",
+        "classificacao": "Lutador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Chupa C* de Goianinha",
+        "classificacao": "Lenda Urbana",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Máquina do Mistério",
+        "classificacao": "Objeto da Ficção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "nome": "Big Mouth",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Adesanya",
+        "classificacao": "Lutador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Doppelgänger",
+        "classificacao": "Lenda Urbana",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Luciano Hang",
+        "classificacao": "Empresário(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "nome": "Senor Abravanel",
+        "classificacao": "Empresário(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Bluezão",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Scotland Yard",
+        "classificacao": "Lugar da Ficção",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "O Apartheid",
+        "classificacao": "Histórico",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "nome": "Ogum",
+        "classificacao": "Religião",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Brazinno",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Matheus e Kauan",
+        "classificacao": "Dupla",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Tancredo Neves",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "nome": "Hugo Chávez",
+        "classificacao": "Política",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Nostradamus",
+        "classificacao": "Cientista",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "2 Girls 1 Cup",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Soco de Massa Infinita",
+        "classificacao": "Habilidade/Poder",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "itens": [
+      {
+        "nome": "Diguinho",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 232,
+        "nome": "Rodtang",
+        "classificacao": "Lutador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Boris Casoy",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "XVideos",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "nome": "Clodovil",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Liminha",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Bruna Biancardi",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "A Cabana",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "nome": "Richard Rasmussen",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Leónidas de Esparta",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Eloy Casagrande",
+        "classificacao": "Músico",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Pranchana Jack",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "nome": "Oprah Winfrey",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "?????????????????",
+        "classificacao": "??????????",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Graciliano Ramos",
+        "classificacao": "Escritor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "nome": "Nyvi Estephan",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "A Hora da Estrela",
+        "classificacao": "Livro",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Átila, o Huno",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Xangô",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "nome": "Tadalafellas",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Barão de Mauá",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Monte Fuji",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "OnlyFans",
+        "classificacao": "+18",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "nome": "Zumbi dos Palmares",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Carreta Furacão",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Fernanda Lacerda (Mendigata)",
+        "classificacao": "Famoso(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "nome": "Grand M",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Tiago Leifert",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Pollo",
+        "classificacao": "Cantor",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Amin Khader",
+        "classificacao": "Televisão",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "nome": "Marina Joyce",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 232,
+        "nome": "Ti Ti Ti",
+        "classificacao": "Novela",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Caco Barcellos",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Setealém",
+        "classificacao": "Lugar da Ficção",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "nome": "DeepWeb",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Chacrinha",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Machu Picchu",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Marco Polo",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "nome": "Fernanda Gentil",
+        "classificacao": "Apresentador(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Stonehenge",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Menzinho",
+        "classificacao": "Internet",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Princesa Diana",
+        "classificacao": "Personalidade Histórica",
+        "dificuldade": "Misto"
+      }
+    ]
+  }
+]

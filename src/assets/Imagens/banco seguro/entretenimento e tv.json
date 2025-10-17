@@ -1,0 +1,2620 @@
+[
+  {
+    "id": 297,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Show do Milhão",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Chamas da Vida",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 97,
+        "nome": "Sagat",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 209,
+        "nome": "O Mar Não Está Pra Peixe",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "itens": [
+      {
+        "id": 237,
+        "dificuldade": "Fácil",
+        "nome": "A Fazenda",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 1274,
+        "dificuldade": "Médio",
+        "nome": "Bruce Wayne",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 339,
+        "dificuldade": "Difícil",
+        "nome": "Vale a Pena Ver de Novo",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 197,
+        "nome": "Tina Turner",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Teletubbies",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 77,
+        "nome": "Prince",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 139,
+        "nome": "Garu",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 36,
+        "dificuldade": "Expert",
+        "nome": "RuPaul’s Drag Race",
+        "classificacao": "Reality Show"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "itens": [
+      {
+        "id": 1553,
+        "dificuldade": "Fácil",
+        "nome": "Os Dez Mandamentos",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 182,
+        "dificuldade": "Médio",
+        "nome": "Gelado",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 511,
+        "dificuldade": "Difícil",
+        "nome": "Muquiranas",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 98,
+        "nome": "Os Thundermans",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "itens": [
+      {
+        "id": 1717,
+        "dificuldade": "Fácil",
+        "nome": "Mano Brown",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Casa dos Artistas",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 18,
+        "nome": "Época",
+        "classificacao": "Revista",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 800,
+        "dificuldade": "Expert",
+        "nome": "Bastardos Inglórios",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Altas Horas",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 146,
+        "dificuldade": "Médio",
+        "nome": "Vespa",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Creed",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 280,
+        "dificuldade": "Expert",
+        "nome": "90 Dias Para Casar",
+        "classificacao": "Reality Show"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "itens": [
+      {
+        "id": 17,
+        "dificuldade": "Fácil",
+        "nome": "Big Brother Brasil",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 838,
+        "dificuldade": "Médio",
+        "nome": "Spartacus",
+        "classificacao": "Série"
+      },
+      {
+        "id": 18,
+        "nome": "Capricho",
+        "classificacao": "Revista",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 556,
+        "dificuldade": "Expert",
+        "nome": "Ultraje a Rigor",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "itens": [
+      {
+        "id": 953,
+        "dificuldade": "Fácil",
+        "nome": "Maisa Silva",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 143,
+        "nome": "Gabriela",
+        "classificacao": "Novela",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Eurotrip",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 265,
+        "nome": "Raya e o Último Dragão",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Hulk Magrelo",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Xica da Silva",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Poxa Crush Por Que Não Me Nota",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 269,
+        "nome": "Beavis and Butt-Head",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bozo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pantanal",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 371,
+        "dificuldade": "Difícil",
+        "nome": "No Limite",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 42,
+        "dificuldade": "Expert",
+        "nome": "Emma Frost",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "itens": [
+      {
+        "id": 889,
+        "dificuldade": "Fácil",
+        "nome": "MasterChef Brasil",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 242,
+        "dificuldade": "Médio",
+        "nome": "Globo Rural",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1723,
+        "dificuldade": "Difícil",
+        "nome": "Ravena",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 244,
+        "dificuldade": "Expert",
+        "nome": "Champions: Return to Arms",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Pesadelo na Cozinha",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1822,
+        "dificuldade": "Médio",
+        "nome": "U2",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 887,
+        "dificuldade": "Difícil",
+        "nome": "Mutantes: Caminhos do Coração",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 270,
+        "nome": "Aya e a Bruxa",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "itens": [
+      {
+        "id": 1829,
+        "dificuldade": "Fácil",
+        "nome": "Yudi",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "De Férias com o Ex",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 167,
+        "nome": "Paulinho da Viola",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 168,
+        "dificuldade": "Expert",
+        "nome": "R.E.M.",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "itens": [
+      {
+        "id": 1749,
+        "dificuldade": "Fácil",
+        "nome": "Pé na Jaca",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 294,
+        "dificuldade": "Médio",
+        "nome": "Cyborg",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 23,
+        "nome": "Recreio",
+        "classificacao": "Revista",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 21,
+        "nome": "O Enigma De Outro Mundo",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "itens": [
+      {
+        "id": 1473,
+        "dificuldade": "Fácil",
+        "nome": "Duende Verde",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "América",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Leo Dias",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 310,
+        "nome": "Mr. Magoo",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "itens": [
+      {
+        "id": 333,
+        "dificuldade": "Fácil",
+        "nome": "Avenida Brasil",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 334,
+        "dificuldade": "Médio",
+        "nome": "Amizade Colorida",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 751,
+        "dificuldade": "Difícil",
+        "nome": "Zeca Camargo",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 206,
+        "nome": "Agatha Desde Sempre",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "itens": [
+      {
+        "id": 617,
+        "dificuldade": "Fácil",
+        "nome": "Ratinho",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1410,
+        "dificuldade": "Médio",
+        "nome": "Kung-Fusão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1331,
+        "dificuldade": "Difícil",
+        "nome": "Mobile Legends",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1332,
+        "dificuldade": "Expert",
+        "nome": "Zoboomafoo",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tempestade",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 390,
+        "dificuldade": "Médio",
+        "nome": "Rodrigo Faro",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 391,
+        "dificuldade": "Difícil",
+        "nome": "Profissão Repórter",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Andrea Bocelli",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Olívia Palito",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Roda Viva",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Edu Guedes",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 400,
+        "dificuldade": "Expert",
+        "nome": "Malu Mader",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "itens": [
+      {
+        "id": 397,
+        "dificuldade": "Fácil",
+        "nome": "Johnny Depp",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1226,
+        "dificuldade": "Médio",
+        "nome": "Os Trapalhões",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Siqueira Júnior",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1228,
+        "dificuldade": "Expert",
+        "nome": "Cthulhu",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "itens": [
+      {
+        "id": 1153,
+        "dificuldade": "Fácil",
+        "nome": "Silvio Santos",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1154,
+        "dificuldade": "Médio",
+        "nome": "Eleven (Onze)",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1155,
+        "dificuldade": "Difícil",
+        "nome": "Supernanny",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 300,
+        "nome": "Palworld",
+        "classificacao": "Jogo",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Geppetto",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 918,
+        "dificuldade": "Médio",
+        "nome": "Glória Maria",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 471,
+        "dificuldade": "Difícil",
+        "nome": "Vídeo Show",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 93,
+        "nome": "Priscila Fantin",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "itens": [
+      {
+        "id": 933,
+        "dificuldade": "Fácil",
+        "nome": "Tv Globinho",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 946,
+        "dificuldade": "Médio",
+        "nome": "Casamento a Cegas",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 648,
+        "dificuldade": "Difícil",
+        "nome": "Sex and the City",
+        "classificacao": "Série"
+      },
+      {
+        "id": 125,
+        "nome": "Bozena",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bonde do Tigrão",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pôneis Malditos",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Marcelo Tas",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 632,
+        "dificuldade": "Expert",
+        "nome": "Humpty Dumpty",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "itens": [
+      {
+        "id": 47,
+        "nome": "Mc Bin Laden",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Patrícia Abravanel",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 279,
+        "dificuldade": "Difícil",
+        "nome": "Choque de Cultura",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 236,
+        "dificuldade": "Expert",
+        "nome": "Light Yagami",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "itens": [
+      {
+        "id": 669,
+        "dificuldade": "Fácil",
+        "nome": "Chocolate com Pimenta",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Hebe Camargo",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1451,
+        "dificuldade": "Difícil",
+        "nome": "McLovin",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 147,
+        "nome": "Milton Nascimento",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "itens": [
+      {
+        "id": 7,
+        "dificuldade": "Fácil",
+        "nome": "Batgirl",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1314,
+        "dificuldade": "Médio",
+        "nome": "Zombie Tsunami",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Gominho",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 424,
+        "dificuldade": "Expert",
+        "nome": "CQC (Custe o Que Custar)",
+        "classificacao": "Programa"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "itens": [
+      {
+        "id": 1229,
+        "dificuldade": "Fácil",
+        "nome": "Tony Stark",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 362,
+        "dificuldade": "Médio",
+        "nome": "Fernanda Lima",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bilbo Bolseiro",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 660,
+        "dificuldade": "Expert",
+        "nome": "Alexandre Moreno",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "itens": [
+      {
+        "id": 669,
+        "dificuldade": "Fácil",
+        "nome": "Ace Ventura",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 670,
+        "dificuldade": "Médio",
+        "nome": "Quilos Mortais",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 671,
+        "dificuldade": "Difícil",
+        "nome": "Sinhá Moça",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 672,
+        "dificuldade": "Expert",
+        "nome": "Mr. Pickles",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Jurassic World",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 986,
+        "dificuldade": "Médio",
+        "nome": "Betty, a Feia",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 5,
+        "nome": "Professor Pardal",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 540,
+        "dificuldade": "Expert",
+        "nome": "Miriam Ficher",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "itens": [
+      {
+        "id": 1585,
+        "dificuldade": "Fácil",
+        "nome": "2012",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 706,
+        "dificuldade": "Médio",
+        "nome": "Raul Gil",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1587,
+        "dificuldade": "Difícil",
+        "nome": "Bonde da Stronda",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 39,
+        "nome": "Marco Ribeiro",
+        "classificacao": "Dublador(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Riquinho",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Globo Repórter",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 26,
+        "nome": "Maria do Carmo",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Mel Blanc",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "itens": [
+      {
+        "id": 1205,
+        "dificuldade": "Fácil",
+        "nome": "Mc Melody",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Belíssima",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 591,
+        "dificuldade": "Difícil",
+        "nome": "Carlos Alberto de Nobrega",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 208,
+        "nome": "Aggretsuko",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Clone",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1562,
+        "dificuldade": "Médio",
+        "nome": "Marina Ruy Barbosa",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 631,
+        "dificuldade": "Difícil",
+        "nome": "Tico Santa Cruz",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Marília Gabriela",
+        "classificacao": "Apresentador(a)"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Cravo e a Rosa",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sam Winchester",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Marquito",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 22,
+        "nome": "Vera Fischer",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "itens": [
+      {
+        "id": 1617,
+        "dificuldade": "Fácil",
+        "nome": "Ana Hickmann",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Nego do Borel",
+        "classificacao": "Cantor(a)"
+      },
+
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Verdades Secretas",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 71,
+        "nome": "Will Ferrell",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "itens": [
+      {
+        "id": 1357,
+        "dificuldade": "Fácil",
+        "nome": "Fátima Bernardes",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 642,
+        "dificuldade": "Médio",
+        "nome": "Super Choque",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 644,
+        "dificuldade": "Difícil",
+        "nome": "JackAss",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 1452,
+        "dificuldade": "Expert",
+        "nome": "Paul Rudd",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "itens": [
+      {
+        "id": 709,
+        "dificuldade": "Fácil",
+        "nome": "Jô Soares",
+        "classificacao": "Apresentador(a)"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Natanzinho",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 635,
+        "dificuldade": "Difícil",
+        "nome": "Mastruz Com Leite",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Queer Eye",
+        "classificacao": "Reality Show"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "itens": [
+      {
+        "id": 633,
+        "dificuldade": "Fácil",
+        "nome": "Rei do Gado",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 634,
+        "dificuldade": "Médio",
+        "nome": "Matilda",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 169,
+        "nome": "Luka",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Úrsula Bezerra",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "itens": [
+      {
+        "id": 857,
+        "dificuldade": "Fácil",
+        "nome": "Roupa Nova",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 678,
+        "dificuldade": "Médio",
+        "nome": "Largados E Pelados",
+        "classificacao": "Reality Show"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Fofocalizando",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 207,
+        "nome": "O Lorax: Em Busca da Trúfula Perdida",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "itens": [
+      {
+        "id": 1429,
+        "dificuldade": "Fácil",
+        "nome": "Ana Maria Braga",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Piccolo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1668,
+        "dificuldade": "Difícil",
+        "nome": "Wendel Bezerra",
+        "classificacao": "Dublador(a)"
+      },
+      {
+        "id": 1164,
+        "dificuldade": "Expert",
+        "nome": "Thomas e Seus Amigos",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Charlie Brown Jr.",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 302,
+        "dificuldade": "Médio",
+        "nome": "Regina Casé",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Terra Nostra",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1500,
+        "dificuldade": "Expert",
+        "nome": "Desventuras em Série",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "itens": [
+      {
+        "id": 457,
+        "dificuldade": "Fácil",
+        "nome": "Luciano Huck",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1550,
+        "dificuldade": "Médio",
+        "nome": "Rainha de Copas",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 915,
+        "dificuldade": "Difícil",
+        "nome": "A Usurpadora",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 328,
+        "dificuldade": "Expert",
+        "nome": "Manto & Adaga",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "itens": [
+      {
+        "id": 325,
+        "dificuldade": "Fácil",
+        "nome": "Bart",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 914,
+        "dificuldade": "Médio",
+        "nome": "Legalmente Loira",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 327,
+        "dificuldade": "Difícil",
+        "nome": "Casos de Família",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1656,
+        "dificuldade": "Expert",
+        "nome": "Guilherme Briggs",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Zootopia",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1794,
+        "dificuldade": "Médio",
+        "nome": "Da Cor do Pecado",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 895,
+        "dificuldade": "Difícil",
+        "nome": "Abelardo Barbosa",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1796,
+        "dificuldade": "Expert",
+        "nome": "Soraka",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Datena",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Karol Conká",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Balanço Geral",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 128,
+        "nome": "Alcatraz - Fuga Impossível",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "itens": [
+      {
+        "id": 425,
+        "dificuldade": "Fácil",
+        "nome": "Roberto Carlos",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 426,
+        "dificuldade": "Médio",
+        "nome": "A Praça É Nossa",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1191,
+        "dificuldade": "Difícil",
+        "nome": "Kubanacan",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 339,
+        "nome": "Peixe Grande e Suas Maravilhosas Histórias",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cabeção",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1662,
+        "dificuldade": "Médio",
+        "nome": "Marcos Mion",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Casseta e Planeta",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 324,
+        "dificuldade": "Expert",
+        "nome": "Yin Yang Yo!",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "itens": [
+      {
+        "id": 1657,
+        "dificuldade": "Fácil",
+        "nome": "Cascão",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 386,
+        "dificuldade": "Médio",
+        "nome": "A Escrava Isaura",
+        "classificacao": "Novela"
+      },
+
+      {
+        "id": 1539,
+        "dificuldade": "Difícil",
+        "nome": "A Culpa é do Cabral",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 313,
+        "nome": "Daniel Zukerman",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "itens": [
+      {
+        "id": 345,
+        "dificuldade": "Fácil",
+        "nome": "Will Smith",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Freddie Mercury Prateado",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Cúmplices de um Resgate",
+        "classificacao": "Novela"
+      },
+
+      {
+        "id": 348,
+        "dificuldade": "Expert",
+        "nome": "Jesse Pinkman",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "William Bonner",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 346,
+        "dificuldade": "Médio",
+        "nome": "Encontro com Fátima Bernardes",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sob Nova Direção",
+        "classificacao": "Série"
+      },
+      {
+        "id": 297,
+        "nome": "Howard Wolowitz",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Castelo Rá-Tim-Bum",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 626,
+        "dificuldade": "Médio",
+        "nome": "Maria do Bairro",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 38,
+        "nome": "Kurama",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 628,
+        "dificuldade": "Expert",
+        "nome": "Toma Lá, Dá Cá",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "itens": [
+      {
+        "id": 1533,
+        "dificuldade": "Fácil",
+        "nome": "O Poderoso Chefinho",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1534,
+        "dificuldade": "Médio",
+        "nome": "O Gordo e o Magro",
+        "classificacao": "Televisão"
+      },
+
+      {
+        "id": 79,
+        "dificuldade": "Difícil",
+        "nome": "Serginho Groisman",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 23,
+        "dificuldade": "Expert",
+        "nome": "Age of Empires",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "itens": [
+      {
+        "id": 997,
+        "dificuldade": "Fácil",
+        "nome": "Chiquititas",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 19,
+        "nome": "Veja",
+        "classificacao": "Revista",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 365,
+        "nome": "Duda Beat",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 311,
+        "nome": "Rupert",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tony Ramos",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Seiya",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Nas Garras da Patrulha",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 644,
+        "dificuldade": "Expert",
+        "nome": "Garcia Júnior",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chapolin Colorado",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 21,
+        "nome": "Caras",
+        "classificacao": "Revista",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1163,
+        "dificuldade": "Difícil",
+        "nome": "Cine Holliúdy",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 320,
+        "dificuldade": "Expert",
+        "nome": "Márcio Seixas",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "itens": [
+      {
+        "id": 681,
+        "dificuldade": "Fácil",
+        "nome": "50 Cent",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 394,
+        "dificuldade": "Médio",
+        "nome": "Gato Félix",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 987,
+        "dificuldade": "Difícil",
+        "nome": "Palmirinha",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 18,
+        "nome": "IstoÉ",
+        "classificacao": "Revista",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "itens": [
+      {
+        "id": 245,
+        "dificuldade": "Fácil",
+        "nome": "Caldeirão do Huck",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1730,
+        "dificuldade": "Médio",
+        "nome": "João Kleber",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 24,
+        "nome": "Ricky Martin",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 395,
+        "nome": "Legends Of Tomorrow",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "itens": [
+      {
+        "id": 489,
+        "dificuldade": "Fácil",
+        "nome": "Domingo Legal",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 64,
+        "nome": "Se Vira nos 30",
+        "classificacao": "Televisão",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 263,
+        "nome": "Pequena Grande Vida",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Hilda",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "itens": [
+      {
+        "id": 941,
+        "dificuldade": "Fácil",
+        "nome": "Louro José",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Escolinha do Professor Raimundo",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 667,
+        "dificuldade": "Difícil",
+        "nome": "Tio Paulo",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "William Waak",
+        "classificacao": "Apresentador(a)"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "itens": [
+      {
+        "id": 393,
+        "dificuldade": "Fácil",
+        "nome": "Jornal Nacional",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1378,
+        "dificuldade": "Médio",
+        "nome": "Senhora? Senhora?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 147,
+        "dificuldade": "Difícil",
+        "nome": "Adriane Galisteu",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 375,
+        "nome": "Departamento de Conspirações",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "itens": [
+      {
+        "id": 321,
+        "dificuldade": "Fácil",
+        "nome": "Justin Bieber",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 322,
+        "dificuldade": "Médio",
+        "nome": "Zorra Total",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 323,
+        "dificuldade": "Difícil",
+        "nome": "Emma Watson",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1748,
+        "dificuldade": "Expert",
+        "nome": "Dudu Camargo",
+        "classificacao": "Apresentador(a)"
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "itens": [
+      {
+        "id": 1757,
+        "dificuldade": "Fácil",
+        "nome": "Pedro Bial",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1322,
+        "dificuldade": "Médio",
+        "nome": "Quero Café!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1411,
+        "dificuldade": "Difícil",
+        "nome": "Michel Teló",
+        "classificacao": "Cantor(a)"
+      },
+
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Charles Henriquepédia",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "itens": [
+      {
+        "id": 1001,
+        "dificuldade": "Fácil",
+        "nome": "Eliana",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1030,
+        "dificuldade": "Médio",
+        "nome": "Legendários",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 623,
+        "dificuldade": "Difícil",
+        "nome": "PUBG Mobile",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 406,
+        "nome": "Oldboy",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Esquenta!",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 886,
+        "dificuldade": "Médio",
+        "nome": "Celso Portiolli",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 337,
+        "nome": "Madame Teia",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Jéssica Jones",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "itens": [
+      {
+        "id": 485,
+        "dificuldade": "Fácil",
+        "nome": "Cosmo e Wanda",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 486,
+        "dificuldade": "Médio",
+        "nome": "Turma do Didi",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 271,
+        "nome": "Paulo Ricardo",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 360,
+        "dificuldade": "Expert",
+        "nome": "Orlando Drummond",
+        "classificacao": "Dublador(a)"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "itens": [
+      {
+        "id": 1433,
+        "dificuldade": "Fácil",
+        "nome": "Mais Você",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1642,
+        "dificuldade": "Médio",
+        "nome": "A Casa das Sete Mulheres",
+        "classificacao": "Série"
+      },
+
+      {
+        "id": 1435,
+        "dificuldade": "Difícil",
+        "nome": "Bruce Banner",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1436,
+        "dificuldade": "Expert",
+        "nome": "Ultimate Beastmaster",
+        "classificacao": "Reality Show"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "id": 1525,
+        "dificuldade": "Fácil",
+        "nome": "Gugu Liberato",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 502,
+        "dificuldade": "Médio",
+        "nome": "Cobra Kai",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Macaulay Culkin",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 8,
+        "dificuldade": "Expert",
+        "nome": "Survivor",
+        "classificacao": "Reality Show"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "itens": [
+      {
+        "id": 1673,
+        "dificuldade": "Fácil",
+        "nome": "The Voice Brasil",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 674,
+        "dificuldade": "Médio",
+        "nome": "Fina Estampa",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Crazy Frog",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 416,
+        "nome": "Usher",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "itens": [
+      {
+        "id": 1009,
+        "dificuldade": "Fácil",
+        "nome": "Angélica",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 222,
+        "dificuldade": "Médio",
+        "nome": "Irmão do Jorel",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1812,
+        "dificuldade": "Difícil",
+        "nome": "Vila Sésamo",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Viviane Araújo",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Jequiti",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mc Daleste",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 22,
+        "nome": "People",
+        "classificacao": "Revista",
+        "dificuldade": "Difícil"
+      },
+
+      {
+        "id": 1440,
+        "dificuldade": "Expert",
+        "nome": "Wakfu",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "itens": [
+      {
+        "id": 1833,
+        "dificuldade": "Fácil",
+        "nome": "Criança Esperança",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 1834,
+        "dificuldade": "Médio",
+        "nome": "Manda-Chuva",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1807,
+        "dificuldade": "Difícil",
+        "nome": "Organizações Tabajara",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 113,
+        "nome": "Enola Holmes",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "itens": [
+      {
+        "id": 1005,
+        "dificuldade": "Fácil",
+        "nome": "Xuxa",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 63,
+        "nome": "Vai Dar Namoro",
+        "classificacao": "Televisão",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Eduardo Costa",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 367,
+        "nome": "Gilmore Girls",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "itens": [
+      {
+        "id": 533,
+        "dificuldade": "Fácil",
+        "nome": "Beijo do Vampiro",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 224,
+        "nome": "Foguinho",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Poupançudos da Caixa",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 1512,
+        "dificuldade": "Expert",
+        "nome": "Spawn -  O Soldado do Inferno",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Teleton",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Alma Gêmea",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 643,
+        "dificuldade": "Difícil",
+        "nome": "Smeagol",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 184,
+        "dificuldade": "Expert",
+        "nome": "Pedra Letícia",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "itens": [
+      {
+        "id": 821,
+        "dificuldade": "Fácil",
+        "nome": "Cinquenta Tons de Cinza",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1806,
+        "dificuldade": "Médio",
+        "nome": "Tapas e Beijos",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1791,
+        "dificuldade": "Difícil",
+        "nome": "Lombardi",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 37,
+        "nome": "Art Attack",
+        "classificacao": "Programa",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Grinch",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cocoricó",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Tekpix",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Comichão e Coçadinha",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "itens": [
+      {
+        "nome": "Soletrando",
+        "classificacao": "Televisão",
+        "dificuldade": "Fácil"
+      },
+
+      {
+        "id": 30,
+        "dificuldade": "Médio",
+        "nome": "Danilo Gentili",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 27,
+        "dificuldade": "Difícil",
+        "nome": "Menudos",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Arrested Development (Caindo na Real)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "itens": [
+      {
+        "id": 413,
+        "dificuldade": "Fácil",
+        "nome": "Domingão do Faustão",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 554,
+        "dificuldade": "Médio",
+        "nome": "Gasparzinho, o Fantasminha Camarada",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Érick Jacquin",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 92,
+        "nome": "Bingo: O Rei Das Manhãs",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "itens": [
+      {
+        "id": 1221,
+        "dificuldade": "Fácil",
+        "nome": "MIB: Homens de Preto",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Poderoso Castiga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rubi",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1588,
+        "dificuldade": "Expert",
+        "nome": "De Onde Vem?",
+        "classificacao": "Programa"
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "itens": [
+      {
+        "id": 1385,
+        "dificuldade": "Fácil",
+        "nome": "Perigo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 184,
+        "nome": "Portal",
+        "classificacao": "Jogo",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1431,
+        "dificuldade": "Difícil",
+        "nome": "Shark Tank",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Confuso Sobrinho",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "itens": [
+      {
+        "id": 409,
+        "dificuldade": "Fácil",
+        "nome": "Pânico na TV",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 438,
+        "dificuldade": "Médio",
+        "nome": "Caminho das Índias",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 203,
+        "dificuldade": "Difícil",
+        "nome": "Alien: O Oitavo Passageiro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "My Chemical Romance",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "itens": [
+      {
+        "id": 877,
+        "dificuldade": "Fácil",
+        "nome": "Globeleza",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 882,
+        "dificuldade": "Médio",
+        "nome": "Linha Direta",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Dua Lipa",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1288,
+        "dificuldade": "Expert",
+        "nome": "Clash Royale",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "itens": [
+      {
+        "id": 637,
+        "dificuldade": "Fácil",
+        "nome": "Plantão da Globo",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Senhora do Destino",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 85,
+        "nome": "Lupin",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 163,
+        "nome": "Jung-kook",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "itens": [
+      {
+        "id": 1213,
+        "dificuldade": "Fácil",
+        "nome": "Carrossel",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1754,
+        "dificuldade": "Médio",
+        "nome": "Sessão da Tarde",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 1423,
+        "dificuldade": "Difícil",
+        "nome": "George: O Rei da Floresta",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1488,
+        "dificuldade": "Expert",
+        "nome": "Exterminadores do Além contra a Loira do Banheiro",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sabrina Sato",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 1386,
+        "dificuldade": "Médio",
+        "nome": "Pixels",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 571,
+        "dificuldade": "Difícil",
+        "nome": "Salve Jorge",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 1388,
+        "dificuldade": "Expert",
+        "nome": "Rayman Legends",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "itens": [
+      {
+        "id": 437,
+        "dificuldade": "Fácil",
+        "nome": "Fantástico",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Passa ou Repassa",
+        "classificacao": "Televisão"
+      },
+      {
+        "id": 1255,
+        "dificuldade": "Difícil",
+        "nome": "Capitão Planeta",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1820,
+        "dificuldade": "Expert",
+        "nome": "Jake Peralta",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bom Dia e Companhia",
+        "classificacao": "Programa"
+      },
+      {
+        "id": 542,
+        "dificuldade": "Médio",
+        "nome": "Mulheres de Areia",
+        "classificacao": "Novela"
+      },
+      {
+        "id": 843,
+        "dificuldade": "Difícil",
+        "nome": "Yasuo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 412,
+        "nome": "Ne Zha",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sr. Cabeça de Batata",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 178,
+        "dificuldade": "Médio",
+        "nome": "Super Amigos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 307,
+        "dificuldade": "Difícil",
+        "nome": "Marcelo Rezende",
+        "classificacao": "Apresentador(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Aracy da Top Therm",
+        "classificacao": "Televisão"
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Mãozinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 89,
+        "nome": "Celebridade",
+        "classificacao": "Novela",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 18,
+        "nome": "Exame",
+        "classificacao": "Revista",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 20,
+        "nome": "Zohan: O Agente Bom de Corte",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  }
+]

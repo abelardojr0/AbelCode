@@ -1,0 +1,2612 @@
+[
+  {
+    "id": 223,
+    "itens": [
+      {
+        "id": 1813,
+        "dificuldade": "Fácil",
+        "nome": "Luluzinha",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 370,
+        "nome": "Bafo de Onça",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1531,
+        "dificuldade": "Difícil",
+        "nome": "Maníaco do Parque",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Robert Oppenheimer",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Receba",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pablo Escobar",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 1511,
+        "dificuldade": "Difícil",
+        "nome": "Edna Moda",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Colosso de Rodes",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tiradentes",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 34,
+        "dificuldade": "Médio",
+        "nome": "Grande Pirâmide de Gizé",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 141,
+        "nome": "Eu Sou Rica!!!!",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1752,
+        "dificuldade": "Expert",
+        "nome": "Omni-Man",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Lampião",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 1346,
+        "dificuldade": "Médio",
+        "nome": "Rei do Crime",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1,
+        "nome": "Pitbull",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 768,
+        "dificuldade": "Expert",
+        "nome": "Palácio de Versalhes",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "itens": [
+      {
+        "id": 423,
+        "nome": "Gary",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 350,
+        "dificuldade": "Médio",
+        "nome": "Estátua da Liberdade",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Mercúrio",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1628,
+        "dificuldade": "Expert",
+        "nome": "Sun Tzu",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "itens": [
+      {
+        "id": 989,
+        "dificuldade": "Fácil",
+        "nome": "Kelly Key",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 402,
+        "dificuldade": "Médio",
+        "nome": "Steve Jobs",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 25,
+        "nome": "Gambit",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "René Descartes",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "As Torres Gêmeas",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1702,
+        "dificuldade": "Médio",
+        "nome": "Leôncio",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 358,
+        "nome": "Sabe de Nada Inocente",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 408,
+        "dificuldade": "Expert",
+        "nome": "Nabucodonosor",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Coronavírus",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 48,
+        "nome": "Rio Tietê",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Godínez",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Chris Tucker",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "itens": [
+      {
+        "id": 673,
+        "dificuldade": "Fácil",
+        "nome": "Monte Everest",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1206,
+        "dificuldade": "Médio",
+        "nome": "Ghostface",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1291,
+        "dificuldade": "Difícil",
+        "nome": "Hera Venenosa",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1484,
+        "dificuldade": "Expert",
+        "nome": "George Foreman",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Hebert Richards",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 37,
+        "dificuldade": "Médio",
+        "nome": "Nick Fury",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 158,
+        "nome": "Vai Que Cola",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 908,
+        "dificuldade": "Expert",
+        "nome": "Benjamin Franklin",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Dom Pedro I",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Marina Silva",
+        "classificacao": "Política"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Os Infiltados",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 178,
+        "nome": "Baldur’s Gate",
+        "classificacao": "Jogo",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "itens": [
+      {
+        "id": 42,
+        "nome": "FormiguinhaZ",
+        "classificacao": "Animação",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Fernandinho Beira-Mar",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Midnight Club",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Yuri Gagarin",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Isaac Newton",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 851,
+        "dificuldade": "Médio",
+        "nome": "As Aventuras de Pi",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 53,
+        "nome": "The Crown",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 784,
+        "dificuldade": "Expert",
+        "nome": "Neil Armstrong",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Jack Sparrow",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Meu Amigo da Escola é um Macaco",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1403,
+        "dificuldade": "Difícil",
+        "nome": "Ônibus 174",
+        "classificacao": "Caso"
+      },
+      {
+        "id": 816,
+        "dificuldade": "Expert",
+        "nome": "Farol de Alexandria",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "itens": [
+      {
+        "id": 1521,
+        "dificuldade": "Fácil",
+        "nome": "As Panteras",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 734,
+        "dificuldade": "Médio",
+        "nome": "My Little Pony",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Muro das Lamentações",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1524,
+        "dificuldade": "Expert",
+        "nome": "Eliza Samudio",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "itens": [
+      {
+        "id": 813,
+        "dificuldade": "Fácil",
+        "nome": "Segunda Guerra Mundial",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 233,
+        "nome": "Woody",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1395,
+        "dificuldade": "Difícil",
+        "nome": "Lázaro Barbosa",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Se7en - Os Sete Crimes Capitais",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "itens": [
+      {
+        "id": 421,
+        "nome": "Liza",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1706,
+        "dificuldade": "Médio",
+        "nome": "Anne Frank",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 755,
+        "dificuldade": "Difícil",
+        "nome": "Aristóteles",
+        "classificacao": "Filósofo"
+      },
+      {
+        "id": 1708,
+        "dificuldade": "Expert",
+        "nome": "Cory na Casa Branca",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "itens": [
+      {
+        "id": 649,
+        "dificuldade": "Fácil",
+        "nome": "Torre de Pisa",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Thomas Edison",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "A Pele que Habito",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "The Legend of Vox Machina",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "itens": [
+      {
+        "id": 1417,
+        "dificuldade": "Fácil",
+        "nome": "Guerra Mundial Z",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1742,
+        "dificuldade": "Médio",
+        "nome": "Roberto Justus",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Helen Ganzarolli",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 736,
+        "dificuldade": "Expert",
+        "nome": "Nicolau Copérnico",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Barack Obama",
+        "classificacao": "Política"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "MC Livinho",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "O Touro Ferdinando",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Galileu Galilei",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "itens": [
+      {
+        "id": 749,
+        "dificuldade": "Fácil",
+        "nome": "Soneca",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1526,
+        "dificuldade": "Médio",
+        "nome": "Valente",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 259,
+        "dificuldade": "Difícil",
+        "nome": "Taj Mahal",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 260,
+        "dificuldade": "Expert",
+        "nome": "Simone de Beauvoir",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "itens": [
+      {
+        "id": 1185,
+        "dificuldade": "Fácil",
+        "nome": "Macaco Louco",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 62,
+        "nome": "O Corvo",
+        "classificacao": "Filme",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1503,
+        "dificuldade": "Difícil",
+        "nome": "Nicolás Maduro",
+        "classificacao": "Política"
+      },
+      {
+        "id": 528,
+        "dificuldade": "Expert",
+        "nome": "Burj Khalifa",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "itens": [
+      {
+        "id": 1709,
+        "dificuldade": "Fácil",
+        "nome": "Didi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Diário de Uma Paixão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Roberto Marinho",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Leandro Karnal",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "itens": [
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Guardiões da Galáxia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 152,
+        "nome": "Leon",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Saddam Hussein",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 1420,
+        "dificuldade": "Expert",
+        "nome": "Mausoléu de Halicarnasso",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "itens": [
+      {
+        "id": 1481,
+        "dificuldade": "Fácil",
+        "nome": "Steve",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 158,
+        "dificuldade": "Médio",
+        "nome": "Sócrates",
+        "classificacao": "Filósofo"
+      },
+      {
+        "id": 695,
+        "dificuldade": "Difícil",
+        "nome": "George Bush",
+        "classificacao": "Política"
+      },
+      {
+        "id": 72,
+        "nome": "Kingdom Hearts",
+        "classificacao": "Jogo",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "itens": [
+      {
+        "id": 977,
+        "dificuldade": "Fácil",
+        "nome": "Osama Bin Laden",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 462,
+        "dificuldade": "Médio",
+        "nome": "Limão com Mel",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1619,
+        "dificuldade": "Difícil",
+        "nome": "Sérgio Moro",
+        "classificacao": "Política"
+      },
+      {
+        "id": 308,
+        "nome": "Um Diabo Diferente",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "itens": [
+      {
+        "id": 1789,
+        "dificuldade": "Fácil",
+        "nome": "Mr. Bean",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1790,
+        "dificuldade": "Médio",
+        "nome": "Os Mercenários",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Joe Biden",
+        "classificacao": "Política"
+      },
+      {
+        "id": 1792,
+        "dificuldade": "Expert",
+        "nome": "Amarildo Pedreiro",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "itens": [
+      {
+        "id": 1497,
+        "dificuldade": "Fácil",
+        "nome": "Illuminati",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1498,
+        "dificuldade": "Médio",
+        "nome": "Che Guevara",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Quem É Você, Alaska?",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 67,
+        "nome": "Owen Wilson",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Princesa Leia",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1762,
+        "dificuldade": "Médio",
+        "nome": "Mundo Bita",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1439,
+        "dificuldade": "Difícil",
+        "nome": "Pedrinho Matador",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 440,
+        "dificuldade": "Expert",
+        "nome": "Giorgio Armani",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "itens": [
+      {
+        "id": 605,
+        "dificuldade": "Fácil",
+        "nome": "Escola de Rock",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 606,
+        "dificuldade": "Médio",
+        "nome": "Supergêmeos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 607,
+        "dificuldade": "Difícil",
+        "nome": "Edifício Joelma",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 608,
+        "dificuldade": "Expert",
+        "nome": "Estátua de Zeus em Olímpia",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "itens": [
+      {
+        "id": 1225,
+        "dificuldade": "Fácil",
+        "nome": "Raça Negra",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cristóvão Colombo",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 336,
+        "nome": "Noel Rosa",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Flordelis",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "itens": [
+      {
+        "id": 521,
+        "dificuldade": "Fácil",
+        "nome": "Dr. House",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1558,
+        "dificuldade": "Médio",
+        "nome": "Jack, o Estripador",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 807,
+        "dificuldade": "Difícil",
+        "nome": "Frank Castle",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Genghis Khan",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Ivete Sangalo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 834,
+        "dificuldade": "Médio",
+        "nome": "Donald Trump",
+        "classificacao": "Política"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Museu do Louvre",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 355,
+        "nome": "Hitch - O Conselheiro Amoroso",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tico e Teco",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 250,
+        "dificuldade": "Médio",
+        "nome": "Ciro Gomes",
+        "classificacao": "Política"
+      },
+      {
+        "id": 1215,
+        "dificuldade": "Difícil",
+        "nome": "Vampiro: A Máscara",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 496,
+        "dificuldade": "Expert",
+        "nome": "Al Capone",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Alexandre, o Grande",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 1210,
+        "dificuldade": "Médio",
+        "nome": "Getúlio Vargas",
+        "classificacao": "Política"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Lionel Richie",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 636,
+        "dificuldade": "Expert",
+        "nome": "Popcorn and Ice Cream Cilios",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "itens": [
+      {
+        "id": 861,
+        "dificuldade": "Fácil",
+        "nome": "Família Dinossauros",
+        "classificacao": "Série"
+      },
+      {
+        "id": 890,
+        "dificuldade": "Médio",
+        "nome": "Michel Temer",
+        "classificacao": "Política"
+      },
+      {
+        "id": 787,
+        "dificuldade": "Difícil",
+        "nome": "Emilia Clarke",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Charles Manson",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Voldemort",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Coração Valente",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "George Washington",
+        "classificacao": "Política"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Suzane Von Richthofen",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "itens": [
+      {
+        "id": 909,
+        "dificuldade": "Fácil",
+        "nome": "Jair Bolsonaro",
+        "classificacao": "Política"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "M3GAN",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 731,
+        "dificuldade": "Difícil",
+        "nome": "Charles Darwin",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 676,
+        "dificuldade": "Expert",
+        "nome": "Nem Quem Ganhar Nem Quem Perder Vai Ganhar ou Perder, Vai Todo Mundo Perder",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Grande Família",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Velocidade Máxima",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1159,
+        "dificuldade": "Difícil",
+        "nome": "Eike Batista",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "A Queda Da Bastilha",
+        "classificacao": "Histórico"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "itens": [
+      {
+        "id": 653,
+        "dificuldade": "Fácil",
+        "nome": "Luiz Inácio Lula da Silva",
+        "classificacao": "Política"
+      },
+      {
+        "id": 327,
+        "nome": "Elektra",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Meu Nome É Radio",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Jeffrey Dahmer",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "itens": [
+      {
+        "id": 117,
+        "dificuldade": "Fácil",
+        "nome": "Chiquinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pé na Cova",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Jardins Suspensos da Babilônia",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Alexander Graham Bell",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Vingador",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Médio",
+        "nome": "Michelle Bolsonaro",
+        "classificacao": "Política"
+      },
+      {
+        "id": 951,
+        "dificuldade": "Difícil",
+        "nome": "Marielle Franco",
+        "classificacao": "Caso"
+      },
+      {
+        "id": 74,
+        "nome": "Incubus",
+        "classificacao": "Banda",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Exaltasamba",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1510,
+        "dificuldade": "Médio",
+        "nome": "Guerra dos Canudos",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 999,
+        "dificuldade": "Difícil",
+        "nome": "Vladimir Putin",
+        "classificacao": "Política"
+      },
+      {
+        "id": 230,
+        "nome": "Marcello Novaes",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "itens": [
+      {
+        "id": 1305,
+        "dificuldade": "Fácil",
+        "nome": "Cristo Redentor",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1306,
+        "dificuldade": "Médio",
+        "nome": "Gartic",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Juscelino Kubitschek",
+        "classificacao": "Política"
+      },
+      {
+        "id": 335,
+        "nome": "Falling Skies",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Adolf Hitler",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Latrell",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1507,
+        "dificuldade": "Difícil",
+        "nome": "Fernando Henrique Cardoso",
+        "classificacao": "Política"
+      },
+      {
+        "id": 171,
+        "nome": "Halle Berry",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "itens": [
+      {
+        "id": 537,
+        "dificuldade": "Fácil",
+        "nome": "Elon Musk",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 1486,
+        "dificuldade": "Médio",
+        "nome": "Hiroshima e Nagasaki",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1487,
+        "dificuldade": "Difícil",
+        "nome": "Vis a Vis",
+        "classificacao": "Série"
+      },
+      {
+        "id": 172,
+        "dificuldade": "Expert",
+        "nome": "Rock & Roll Racing",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Dilma Rousseff",
+        "classificacao": "Política"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Deserto do Saara",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "One Direction",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 293,
+        "nome": "Meu Nome Não é Johnny",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "itens": [
+      {
+        "id": 577,
+        "dificuldade": "Fácil",
+        "nome": "Albert Einstein",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Jão",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 579,
+        "dificuldade": "Difícil",
+        "nome": "Revolução Francesa",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1244,
+        "dificuldade": "Expert",
+        "nome": "Padre Quemedo e o Filho do Capeta",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Estados Unidos",
+        "classificacao": "País"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sandy Bochechas",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 120,
+        "nome": "Cosmos",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Mario Sergio Cortella",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "itens": [
+      {
+        "id": 681,
+        "dificuldade": "Fácil",
+        "nome": "O Poço",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 682,
+        "dificuldade": "Médio",
+        "nome": "Napoleão Bonaparte",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 683,
+        "dificuldade": "Difícil",
+        "nome": "Falamansa",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1248,
+        "dificuldade": "Expert",
+        "nome": "Cataratas do Iguaçu",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "itens": [
+      {
+        "id": 1417,
+        "dificuldade": "Fácil",
+        "nome": "França",
+        "classificacao": "País"
+      },
+      {
+        "id": 1418,
+        "dificuldade": "Médio",
+        "nome": "Cidade Invisível",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1419,
+        "dificuldade": "Difícil",
+        "nome": "Grand Canyon",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 173,
+        "nome": "Zoolander",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Muro de Berlim",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mc Pedrinho",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bhaskara",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 192,
+        "nome": "Archer",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Adele",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 410,
+        "dificuldade": "Médio",
+        "nome": "Alex",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 863,
+        "dificuldade": "Difícil",
+        "nome": "Beto Carrero World",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 764,
+        "dificuldade": "Expert",
+        "nome": "Bonnie e Clyde",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Deborah Secco",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Banda Eva",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Malcolm X",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Eloá Pimentel",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "itens": [
+      {
+        "id": 1361,
+        "dificuldade": "Fácil",
+        "nome": "Torre Eiffel",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gripe Espanhola",
+        "classificacao": "Histórico"
+      },
+      {
+        "nome": "Absolute Cinema",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1364,
+        "dificuldade": "Expert",
+        "nome": "Alabama Shakes",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Xadrez",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 738,
+        "dificuldade": "Médio",
+        "nome": "Rio Nilo",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 219,
+        "nome": "Cersei Lannister",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Neil deGrasse Tyson",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Big Ben",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 570,
+        "dificuldade": "Médio",
+        "nome": "Fênix Negra",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1387,
+        "dificuldade": "Difícil",
+        "nome": "A Entidade",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 572,
+        "dificuldade": "Expert",
+        "nome": "Clóvis de Barros Filho",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "itens": [
+      {
+        "id": 1457,
+        "dificuldade": "Fácil",
+        "nome": "Chico Bento",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1458,
+        "dificuldade": "Médio",
+        "nome": "Avril Lavigne",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1623,
+        "dificuldade": "Difícil",
+        "nome": "Ilha de Páscoa",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1460,
+        "dificuldade": "Expert",
+        "nome": "Sérgio Sacani",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "itens": [
+      {
+        "id": 613,
+        "dificuldade": "Fácil",
+        "nome": "Pinky e o Cérebro",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 614,
+        "dificuldade": "Médio",
+        "nome": "Disney World",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 855,
+        "dificuldade": "Difícil",
+        "nome": "Ku Klux Klan",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 108,
+        "dificuldade": "Expert",
+        "nome": "The Who",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "itens": [
+      {
+        "id": 573,
+        "dificuldade": "Fácil",
+        "nome": "Narizinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 790,
+        "dificuldade": "Médio",
+        "nome": "Furacão Katrina",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1203,
+        "dificuldade": "Difícil",
+        "nome": "Os Sem-Floresta",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 576,
+        "dificuldade": "Expert",
+        "nome": "Marie Curie",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "itens": [
+      {
+        "id": 641,
+        "dificuldade": "Fácil",
+        "nome": "Itália",
+        "classificacao": "País"
+      },
+      {
+        "id": 218,
+        "nome": "Clover",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1639,
+        "dificuldade": "Difícil",
+        "nome": "Tarcísio do Acordeon",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1344,
+        "dificuldade": "Expert",
+        "nome": "Massacre de Columbine",
+        "classificacao": "Histórico"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "itens": [
+      {
+        "id": 43,
+        "nome": "Pérola",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 978,
+        "dificuldade": "Médio",
+        "nome": "Jeff Bezos",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 667,
+        "dificuldade": "Difícil",
+        "nome": "Brumadinho e Mariana",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1456,
+        "dificuldade": "Expert",
+        "nome": "O Mundo de Greg",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "itens": [
+      {
+        "id": 1397,
+        "dificuldade": "Fácil",
+        "nome": "Triângulo das Bermudas",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1398,
+        "dificuldade": "Médio",
+        "nome": "Ele",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1679,
+        "dificuldade": "Difícil",
+        "nome": "Claudia Raia",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Jean Wyllys",
+        "classificacao": "Política"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "itens": [
+      {
+        "id": 1133,
+        "dificuldade": "Fácil",
+        "nome": "Robin Hood",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Peste Negra",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 46,
+        "nome": "Sidoka",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1136,
+        "dificuldade": "Expert",
+        "nome": "Carl Sagan",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "itens": [
+      {
+        "id": 1721,
+        "dificuldade": "Fácil",
+        "nome": "Japão",
+        "classificacao": "País"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Centopeia Humana",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sia",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 920,
+        "dificuldade": "Expert",
+        "nome": "Abraham Lincoln",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Primeira Guerra Mundial",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 135,
+        "nome": "Leo",
+        "classificacao": "Animação",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 903,
+        "dificuldade": "Difícil",
+        "nome": "O Jogo da Imitação",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1324,
+        "dificuldade": "Expert",
+        "nome": "Isabella Nardoni",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "itens": [
+      {
+        "id": 1369,
+        "dificuldade": "Fácil",
+        "nome": "Muralha da China",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 1370,
+        "dificuldade": "Médio",
+        "nome": "Chicó",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1207,
+        "dificuldade": "Difícil",
+        "nome": "Prince of Persia",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1372,
+        "dificuldade": "Expert",
+        "nome": "Henry Ford",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "itens": [
+      {
+        "id": 1381,
+        "dificuldade": "Fácil",
+        "nome": "Coliseu",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Tom Holland",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 743,
+        "dificuldade": "Difícil",
+        "nome": "Tratado de Tordesilhas",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 65,
+        "nome": "Pneu Assassino",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cleópatra",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 534,
+        "dificuldade": "Médio",
+        "nome": "O Mentiroso",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 52,
+        "nome": "Galo Cego",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1292,
+        "dificuldade": "Expert",
+        "nome": "Erwin Schrödinger",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "itens": [
+      {
+        "id": 59,
+        "nome": "Linha do Equador",
+        "classificacao": "Local/Construção",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1382,
+        "dificuldade": "Médio",
+        "nome": "Tio Chico",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1383,
+        "dificuldade": "Difícil",
+        "nome": "Dulce María",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Buzz Aldrin",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "itens": [
+      {
+        "id": 665,
+        "dificuldade": "Fácil",
+        "nome": "Pato Donald",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 370,
+        "dificuldade": "Médio",
+        "nome": "A Morte Pede Carona",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Cordilheira dos Andes",
+        "classificacao": "Local/Construção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Marechal Deodoro da Fonseca",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "itens": [
+      {
+        "id": 821,
+        "dificuldade": "Fácil",
+        "nome": "Brasil",
+        "classificacao": "País"
+      },
+      {
+        "id": 550,
+        "dificuldade": "Médio",
+        "nome": "Elite",
+        "classificacao": "Série"
+      },
+      {
+        "id": 823,
+        "dificuldade": "Difícil",
+        "nome": "Santos Dumont",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 260,
+        "nome": "Wish: O Poder dos Desejos",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Fera",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Reino Unido",
+        "classificacao": "País"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Nikola Tesla",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 932,
+        "dificuldade": "Expert",
+        "nome": "Footloose - Ritmo Louco",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "itens": [
+      {
+        "id": 601,
+        "dificuldade": "Fácil",
+        "nome": "China",
+        "classificacao": "País"
+      },
+      {
+        "id": 602,
+        "dificuldade": "Médio",
+        "nome": "Stephen Hawking",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 266,
+        "nome": "Elba Ramalho",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1316,
+        "dificuldade": "Expert",
+        "nome": "Animais Unidos Jamais Serão Vencidos",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "itens": [
+      {
+        "id": 1753,
+        "dificuldade": "Fácil",
+        "nome": "Princesa Isabel",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 246,
+        "nome": "Kakashi",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "K-9: Um Policial Bom pra Cachorro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Karl Marx",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "itens": [
+      {
+        "id": 1493,
+        "dificuldade": "Fácil",
+        "nome": "Guerra Fria",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 1514,
+        "dificuldade": "Médio",
+        "nome": "Visconde de Sabugosa",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 299,
+        "nome": "Arquivo Morto",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Pero Vaz de Caminha",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Maria Bonita",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "P. Diddy",
+        "classificacao": "Caso"
+      },
+      {
+        "id": 1495,
+        "dificuldade": "Difícil",
+        "nome": "Tio Barnabé",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 385,
+        "nome": "Min e as Mãozinhas",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "B1 e B2",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mark Zuckerberg",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 679,
+        "dificuldade": "Difícil",
+        "nome": "Os Fantasmas se Divertem",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Templo de Ártemis",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "itens": [
+      {
+        "id": 1697,
+        "dificuldade": "Fácil",
+        "nome": "Magali",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1394,
+        "dificuldade": "Médio",
+        "nome": "Amnésia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 715,
+        "dificuldade": "Difícil",
+        "nome": "Joana d'Arc",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 1700,
+        "dificuldade": "Expert",
+        "nome": "Elize Matsunaga",
+        "classificacao": "Caso"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "itens": [
+      {
+        "id": 521,
+        "dificuldade": "Fácil",
+        "nome": "Alemanha",
+        "classificacao": "País"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pitágoras",
+        "classificacao": "Cientista"
+      },
+      {
+        "id": 399,
+        "dificuldade": "Difícil",
+        "nome": "Capim Cubano",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1184,
+        "dificuldade": "Expert",
+        "nome": "Gran Turismo",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "itens": [
+      {
+        "id": 541,
+        "dificuldade": "Fácil",
+        "nome": "Austrália",
+        "classificacao": "País"
+      },
+      {
+        "id": 698,
+        "dificuldade": "Médio",
+        "nome": "Antonio Bandeiras",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 543,
+        "dificuldade": "Difícil",
+        "nome": "Martin Luther King",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 1348,
+        "dificuldade": "Expert",
+        "nome": "Maze Runner: Correr ou Morrer",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "itens": [
+      {
+        "id": 1657,
+        "dificuldade": "Fácil",
+        "nome": "COVID-19",
+        "classificacao": "Histórico"
+      },
+      {
+        "id": 562,
+        "dificuldade": "Médio",
+        "nome": "Riverdale",
+        "classificacao": "Série"
+      },
+      {
+        "id": 179,
+        "dificuldade": "Difícil",
+        "nome": "Foo Fighters",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 472,
+        "dificuldade": "Expert",
+        "nome": "Billy The Kid",
+        "classificacao": "Criminoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "itens": [
+      {
+        "id": 497,
+        "dificuldade": "Fácil",
+        "nome": "Pedro Alvares Cabral",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 498,
+        "dificuldade": "Médio",
+        "nome": "Truque de Mestre",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 499,
+        "dificuldade": "Difícil",
+        "nome": "Rasputcha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 420,
+        "dificuldade": "Expert",
+        "nome": "Coco Chanel",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "itens": [
+      {
+        "id": 417,
+        "dificuldade": "Fácil",
+        "nome": "Índia",
+        "classificacao": "País"
+      },
+      {
+        "id": 526,
+        "dificuldade": "Médio",
+        "nome": "Amy Lee",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 307,
+        "nome": "Aragorn",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 844,
+        "dificuldade": "Expert",
+        "nome": "Martinho Lutero",
+        "classificacao": "Personalidade Histórica"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "itens": [
+      {
+        "id": 133,
+        "dificuldade": "Fácil",
+        "nome": "Aang",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Esposa de Mentirinha",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 819,
+        "dificuldade": "Difícil",
+        "nome": "Dráuzio Varella",
+        "classificacao": "Cientista"
+      },
+
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Dana White",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "itens": [
+      {
+        "id": 629,
+        "dificuldade": "Fácil",
+        "nome": "Bill Gates",
+        "classificacao": "Empresário(a)"
+      },
+      {
+        "id": 490,
+        "dificuldade": "Médio",
+        "nome": "Os Farofeiros",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 491,
+        "dificuldade": "Difícil",
+        "nome": "The Weeknd",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 492,
+        "dificuldade": "Expert",
+        "nome": "Deserto de Atacama",
+        "classificacao": "Local/Construção"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "itens": [
+      {
+        "id": 1665,
+        "dificuldade": "Fácil",
+        "nome": "Julius",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 630,
+        "dificuldade": "Médio",
+        "nome": "Plants vs. Zombies",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1195,
+        "dificuldade": "Difícil",
+        "nome": "João de Deus",
+        "classificacao": "Criminoso(a)"
+      },
+      {
+        "id": 1568,
+        "dificuldade": "Expert",
+        "nome": "Alan Turing",
+        "classificacao": "Cientista"
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Xaropinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Platão",
+        "classificacao": "Filósofo"
+      },
+      {
+        "id": 350,
+        "nome": "Flow",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Larry Page",
+        "classificacao": "Empresário(a)"
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cassino",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 658,
+        "dificuldade": "Médio",
+        "nome": "Goleiro Bruno",
+        "classificacao": "Caso"
+      },
+      {
+        "id": 151,
+        "nome": "Arthur Aguiar",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 804,
+        "dificuldade": "Expert",
+        "nome": "Sigmund Freud",
+        "classificacao": "Filósofo"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Rainha Elizabeth",
+        "classificacao": "Personalidade Histórica"
+      },
+      {
+        "id": 58,
+        "nome": "Injustice",
+        "classificacao": "Jogo",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Marjorie Estiano",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Césio-137",
+        "classificacao": "Histórico"
+      }
+    ]
+  }
+]

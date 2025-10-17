@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cuscuz",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pão de alho",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Coxinha",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Pastel",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "id": 5,
+        "dificuldade": "Fácil",
+        "nome": "Açaí",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 6,
+        "dificuldade": "Médio",
+        "nome": "Bolo de Aniversário",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 7,
+        "dificuldade": "Difícil",
+        "nome": "Feijoada",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 8,
+        "dificuldade": "Expert",
+        "nome": "Brigadeiro",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "id": 9,
+        "dificuldade": "Fácil",
+        "nome": "Pudim",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 10,
+        "dificuldade": "Médio",
+        "nome": "Panetone",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 11,
+        "dificuldade": "Difícil",
+        "nome": "Churros",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 12,
+        "dificuldade": "Expert",
+        "nome": "Rabanada",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "id": 14,
+        "dificuldade": "Médio",
+        "nome": "Walkman",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 15,
+        "dificuldade": "Difícil",
+        "nome": "MP3 player",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "id": 17,
+        "dificuldade": "Fácil",
+        "nome": "DVD",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 18,
+        "dificuldade": "Médio",
+        "nome": "Vitrola",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 19,
+        "dificuldade": "Difícil",
+        "nome": "VHS",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 20,
+        "dificuldade": "Expert",
+        "nome": "Relógio",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "id": 21,
+        "dificuldade": "Fácil",
+        "nome": "Bicicleta",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 22,
+        "dificuldade": "Médio",
+        "nome": "Skate",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 23,
+        "dificuldade": "Difícil",
+        "nome": "Patins",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 24,
+        "dificuldade": "Expert",
+        "nome": "Slackline",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "id": 25,
+        "dificuldade": "Fácil",
+        "nome": "Patinete",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 26,
+        "dificuldade": "Médio",
+        "nome": "Hoverboard",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 28,
+        "dificuldade": "Expert",
+        "nome": "Pião",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "id": 31,
+        "dificuldade": "Difícil",
+        "nome": "Big Mac",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 32,
+        "dificuldade": "Expert",
+        "nome": "Doritos",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "id": 35,
+        "dificuldade": "Difícil",
+        "nome": "Kinder Ovo",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 36,
+        "dificuldade": "Expert",
+        "nome": "Danoninho",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "id": 41,
+        "dificuldade": "Fácil",
+        "nome": "Máquina de escrever",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 42,
+        "dificuldade": "Médio",
+        "nome": "Fax",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "id": 45,
+        "dificuldade": "Fácil",
+        "nome": "Controle remoto",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 46,
+        "dificuldade": "Médio",
+        "nome": "Micro-ondas",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 47,
+        "dificuldade": "Difícil",
+        "nome": "Chaleira",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 48,
+        "dificuldade": "Expert",
+        "nome": "Cafeteira",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "id": 49,
+        "dificuldade": "Fácil",
+        "nome": "Aspirador de pó",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 50,
+        "dificuldade": "Médio",
+        "nome": "Secador de cabelo",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "itens": [
+      {
+        "id": 61,
+        "dificuldade": "Fácil",
+        "nome": "Bússola",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 64,
+        "dificuldade": "Expert",
+        "nome": "Régua",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "itens": [
+      {
+        "id": 66,
+        "dificuldade": "Médio",
+        "nome": "Calculadora",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "id": 69,
+        "dificuldade": "Fácil",
+        "nome": "Lápis de cor",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 70,
+        "dificuldade": "Médio",
+        "nome": "Giz de cera",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "id": 73,
+        "dificuldade": "Fácil",
+        "nome": "Milkshake",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 75,
+        "dificuldade": "Difícil",
+        "nome": "Cappuccino",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "id": 79,
+        "dificuldade": "Difícil",
+        "nome": "Água de coco",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "id": 83,
+        "dificuldade": "Difícil",
+        "nome": "Crocs",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "itens": [
+      {
+        "id": 89,
+        "dificuldade": "Fácil",
+        "nome": "Gravata borboleta",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 93,
+        "dificuldade": "Fácil",
+        "nome": "Palito de fósforo",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 96,
+        "dificuldade": "Expert",
+        "nome": "Catraca de ônibus",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "itens": [
+      {
+        "id": 97,
+        "dificuldade": "Fácil",
+        "nome": "Caixa Registradora",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 98,
+        "dificuldade": "Médio",
+        "nome": "Cofre de Porquinho",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "itens": [
+      {
+        "id": 103,
+        "dificuldade": "Difícil",
+        "nome": "Colchão inflável",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "itens": [
+      {
+        "id": 105,
+        "dificuldade": "Fácil",
+        "nome": "Almofada de pescoço",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 106,
+        "dificuldade": "Médio",
+        "nome": "Ventilador de teto",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 108,
+        "dificuldade": "Expert",
+        "nome": "Escova de cabelo",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "itens": [
+      {
+        "id": 111,
+        "dificuldade": "Difícil",
+        "nome": "Panela de pressão",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "itens": [
+      {
+        "id": 115,
+        "dificuldade": "Difícil",
+        "nome": "Tábua de corte",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 116,
+        "dificuldade": "Expert",
+        "nome": "Escorredor de macarrão",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "itens": [
+      {
+        "id": 117,
+        "dificuldade": "Fácil",
+        "nome": "Ralador de queijo",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 118,
+        "dificuldade": "Médio",
+        "nome": "Airfryer",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 120,
+        "dificuldade": "Expert",
+        "nome": "Batedeira",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "itens": [
+      {
+        "id": 121,
+        "dificuldade": "Fácil",
+        "nome": "Caixa de som Bluetooth",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 123,
+        "dificuldade": "Difícil",
+        "nome": "Antena parabólica",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "itens": [
+      {
+        "id": 129,
+        "dificuldade": "Fácil",
+        "nome": "Pendrive",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 130,
+        "dificuldade": "Médio",
+        "nome": "HD externo",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 131,
+        "dificuldade": "Difícil",
+        "nome": "Guarda-chuva",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "itens": [
+      {
+        "id": 137,
+        "dificuldade": "Fácil",
+        "nome": "Cachecol",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "itens": [
+      {
+        "id": 145,
+        "dificuldade": "Fácil",
+        "nome": "Pé de moleque",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 146,
+        "dificuldade": "Médio",
+        "nome": "Cocada",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "itens": [
+      {
+        "id": 150,
+        "dificuldade": "Médio",
+        "nome": "Maria-mole",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 152,
+        "dificuldade": "Expert",
+        "nome": "Caminhão-pipa",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "itens": [
+      {
+        "id": 156,
+        "dificuldade": "Expert",
+        "nome": "Teleférico",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "itens": [
+      {
+        "id": 157,
+        "dificuldade": "Fácil",
+        "nome": "Jet ski",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 159,
+        "dificuldade": "Difícil",
+        "nome": "Submarino",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 160,
+        "dificuldade": "Expert",
+        "nome": "Avião de papel",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "itens": [
+      {
+        "id": 161,
+        "dificuldade": "Fácil",
+        "nome": "Bumerangue",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 163,
+        "dificuldade": "Difícil",
+        "nome": "Estilingue",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 164,
+        "dificuldade": "Expert",
+        "nome": "Peteca",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "itens": [
+      {
+        "id": 173,
+        "dificuldade": "Fácil",
+        "nome": "Cola Super Bonder",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 175,
+        "dificuldade": "Difícil",
+        "nome": "Pilha AA",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 176,
+        "dificuldade": "Expert",
+        "nome": "Tomada T",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "itens": [
+      {
+        "id": 177,
+        "dificuldade": "Fácil",
+        "nome": "Extensão elétrica",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 179,
+        "dificuldade": "Difícil",
+        "nome": "Lâmpada fluorescente",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "itens": [
+      {
+        "id": 182,
+        "dificuldade": "Médio",
+        "nome": "Shampoo anticaspa",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 184,
+        "dificuldade": "Expert",
+        "nome": "Fio dental",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "itens": [
+      {
+        "id": 187,
+        "dificuldade": "Difícil",
+        "nome": "Protetor solar",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 188,
+        "dificuldade": "Expert",
+        "nome": "Loção pós-barba",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "itens": [
+      {
+        "id": 189,
+        "dificuldade": "Fácil",
+        "nome": "Água micelar",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 190,
+        "dificuldade": "Médio",
+        "nome": "Lenço umedecido",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 191,
+        "dificuldade": "Difícil",
+        "nome": "Cotonete",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 192,
+        "dificuldade": "Expert",
+        "nome": "Caixa de correio",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "itens": [
+      {
+        "id": 195,
+        "dificuldade": "Difícil",
+        "nome": "Telefone público (orelhão)",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "itens": [
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Calendário",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Massagem",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Garrafa térmica",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Cinto de segurança",
+        "classificacao": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "itens": [
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Post-it",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Contra-baixo",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Palete",
+        "classificacao": "Misto"
+      },
+      {
+        "id": 197,
+        "dificuldade": "Fácil",
+        "nome": "Jujuba",
+        "classificacao": "Misto"
+      }
+    ]
+  }
+]

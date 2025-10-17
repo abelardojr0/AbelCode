@@ -1,0 +1,3990 @@
+[
+  {
+    "id": 1,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "La La Land",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Roda do Tempo",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Mari Fernandes",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "As Épicas Aventuras do Capitão Cueca",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Sombras e Ossos",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Independence Day",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Luana Piovani",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Rocket League",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itens": [
+      {
+        "id": 2,
+        "nome": "Gênio Indomável",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Ruptura",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Lady Kate",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Além da Imaginação",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Lola Bunny",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Five Nights at Freddy’s (FNAF)",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "id": 152,
+        "dificuldade": "Misto",
+        "nome": "Whiplash: Em Busca da Perfeição",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 943,
+        "dificuldade": "Misto",
+        "nome": "No Céu Tem Pão?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Marty McFly",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Mad Men",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "itens": [
+      {
+        "id": 260,
+        "dificuldade": "Misto",
+        "nome": "Bellatrix Lestrange",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Clarêncio, O Otimista",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Tony Montana",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Marcos Pasquim",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "The O.C",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Shania Twain",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Contágio",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Capitão Kirk",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Luis Fernando Guimarães",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Spice Ghost",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "CODA",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "The Borgias",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Valéria e Janette",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Nomadland",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Domiguinhos",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Shameless",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Apertem os Cintos... O Piloto Sumiu",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Heloísa Périssé",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Arthur e os Minimoys",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Você Nunca Esteve Sozinha",
+        "classificacao": "Filme"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Tera Online",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Miguelito",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Edward Norton",
+        "classificacao": "Ator/Atriz"
+      },
+
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Shao Kahn",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Orion e o Escuro",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Três Homens em Conflito",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Maui",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Anastasia",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Borderlands",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "A Mosca",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Pacificador",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Love, Death & Robots",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 255,
+        "nome": "Souja Boy",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Anos Incríveis",
+        "classificacao": "Série"
+      },
+      {
+        "id": 305,
+        "nome": "Michael Scott",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Amor, Sublime Amor",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "itens": [
+      {
+        "id": 306,
+        "nome": "Norman Bates",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Mu Online",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 356,
+        "dificuldade": "Misto",
+        "nome": "Jason Statham",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Apocalypse Now",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Baby do Brasil",
+        "classificacao": "Cantor(a)"
+      },
+
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Os Caras de Pau",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Kirby",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Bacurau",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Draco Malfoy",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Nier Automata",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Rodriguinho",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Amanda Bynes",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Operação Cupido",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1595,
+        "dificuldade": "Misto",
+        "nome": "Fagner",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 351,
+        "nome": "Peter Griffin",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "itens": [
+      {
+        "id": 212,
+        "nome": "Flo Rida",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1024,
+        "dificuldade": "Misto",
+        "nome": "Ricardo Milos",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Mickey 17",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Irmãos de Guerra",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "João Canabrava",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Um Estranho no Ninho",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "iZombie",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Marcynho Sensação",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "The Offspring",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Point Blank",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Querô",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Antônio Nunes",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "CJ",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Fabio Brazza",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Shadow of Mordor",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "itens": [
+      {
+        "id": 432,
+        "dificuldade": "Misto",
+        "nome": "Tainá - Uma Aventura na Amazônia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Van Halen",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 640,
+        "dificuldade": "Misto",
+        "nome": "Orphan Black",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "MD Chefe",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "George, o Curioso",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "12 Homens e uma Sentença",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Djonga",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Letícia Spiller",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Nocivo Shomon",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Jellystone",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Canguru Jack",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Três é Demais",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "A Chegada",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Sarah Connor",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Hawaii Five-0",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Eu Sou o Máximo",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Freakazoid!",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Negra Li",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Sexta-Feira Muito Louca",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Novos Baianos",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "MV Bill",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Invasor Zim",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Boa Sorte, Charlie!",
+        "classificacao": "Série"
+      },
+      {
+        "id": 10012,
+        "dificuldade": "Misto",
+        "nome": "Fuga de Alcatraz",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "itens": [
+      {
+        "id": 1279,
+        "dificuldade": "Misto",
+        "nome": "Paola Bracho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 56,
+        "nome": "Vem Tranquilo",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Abutre",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 395,
+        "dificuldade": "Misto",
+        "nome": "Jennifer Lawrence",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "itens": [
+      {
+        "id": 55,
+        "nome": "Ticolé",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 10,
+        "nome": "Um Amor Pra Recordar",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1171,
+        "dificuldade": "Misto",
+        "nome": "Danni Suzuki",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 11,
+        "dificuldade": "Misto",
+        "nome": "House of Cards",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Olivia Rodrigo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 373,
+        "nome": "Bluey",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 359,
+        "nome": "Babidi",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Spice Girls",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "itens": [
+      {
+        "id": 6,
+        "dificuldade": "Misto",
+        "nome": "Bane",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 631,
+        "dificuldade": "Misto",
+        "nome": "Muriel",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 919,
+        "dificuldade": "Misto",
+        "nome": "Me Dê Papai",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 763,
+        "dificuldade": "Misto",
+        "nome": "O Fantástico Mundo de Bob",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "itens": [
+      {
+        "id": 1620,
+        "dificuldade": "Misto",
+        "nome": "Aves de Rapina",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 319,
+        "dificuldade": "Misto",
+        "nome": "Sai de Baixo",
+        "classificacao": "Série"
+      },
+      {
+        "id": 503,
+        "dificuldade": "Misto",
+        "nome": "Vector",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 12,
+        "nome": "DoJa Cat",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "itens": [
+      {
+        "id": 15,
+        "nome": "É verdade esse bilhete",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 25,
+        "dificuldade": "Misto",
+        "nome": "Jaqueta Amarela",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1571,
+        "dificuldade": "Misto",
+        "nome": "Pinball",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 343,
+        "nome": "Saruman",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "itens": [
+      {
+        "id": 455,
+        "dificuldade": "Misto",
+        "nome": "Ben Affleck",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1239,
+        "dificuldade": "Misto",
+        "nome": "Tupac",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 90,
+        "dificuldade": "Misto",
+        "nome": "Mama",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 531,
+        "dificuldade": "Misto",
+        "nome": "Lux",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "itens": [
+      {
+        "id": 523,
+        "dificuldade": "Misto",
+        "nome": "Ellie",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Show de Vizinha",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Ursos em Curso",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "L7nnon",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Zoë Saldaña",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Marvin, o Marciano",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Clube dos Cinco",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "The Rain",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Abu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Nasce uma Estrela",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Bones",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Mutante Rex",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "itens": [
+      {
+        "id": 40,
+        "dificuldade": "Misto",
+        "nome": "Professor Zoom",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "nome": "A Proposta",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10022
+      },
+      {
+        "nome": "Naldo Benny",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto",
+        "id": 10006
+      },
+      {
+        "id": 4,
+        "nome": "Isis Valverde",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "itens": [
+      {
+        "id": 835,
+        "dificuldade": "Misto",
+        "nome": "WandaVision",
+        "classificacao": "Série"
+      },
+      {
+        "id": 99,
+        "nome": "Sharknado",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 223,
+        "dificuldade": "Misto",
+        "nome": "Denzel Washington",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Nem que a Vaca Tussa",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Como Você É Burro, Cara",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1351,
+        "dificuldade": "Misto",
+        "nome": "Divergente",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 367,
+        "dificuldade": "Misto",
+        "nome": "Robert De Niro",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Axl Rose",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "itens": [
+      {
+        "id": 127,
+        "dificuldade": "Misto",
+        "nome": "Hum, Chega a Manteiga Derrete",
+        "classificacao": "Meme"
+      },
+      {
+        "nome": "Meu Namorado é um Zumbi",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10004
+      },
+      {
+        "id": 13,
+        "nome": "Fabio Assunção",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Rugal",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "itens": [
+      {
+        "id": 32,
+        "nome": "Calor do Djabo",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 383,
+        "nome": "Homem-Libélula",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1795,
+        "dificuldade": "Misto",
+        "nome": "Sidney Magal",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 400,
+        "nome": "Fuja",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "itens": [
+      {
+        "id": 663,
+        "dificuldade": "Misto",
+        "nome": "Sense8",
+        "classificacao": "Série"
+      },
+
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Apocalipse",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 399,
+        "nome": "Meliodas",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 859,
+        "dificuldade": "Misto",
+        "nome": "Humm, Bolo de Murango",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "itens": [
+      {
+        "id": 25,
+        "nome": "Edu Falaschi",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 145,
+        "nome": "Capybara",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Nada de Novo no Front",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10009
+      },
+      {
+        "id": 1815,
+        "dificuldade": "Misto",
+        "nome": "Betty Boop",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Era Meu Sonho",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1363,
+        "dificuldade": "Misto",
+        "nome": "Master Yi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1259,
+        "dificuldade": "Misto",
+        "nome": "Angra",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Poltergeist",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "itens": [
+      {
+        "id": 515,
+        "dificuldade": "Misto",
+        "nome": "O Gambito da Rainha",
+        "classificacao": "Série"
+      },
+      {
+        "id": 60,
+        "nome": "Vecna",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1295,
+        "dificuldade": "Misto",
+        "nome": "Tati Quebra Barraco",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 639,
+        "dificuldade": "Misto",
+        "nome": "Um Sonho de Liberdade",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "itens": [
+      {
+        "id": 231,
+        "dificuldade": "Misto",
+        "nome": "O Laboratório de Dexter",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 283,
+        "dificuldade": "Misto",
+        "nome": "Drake",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 67,
+        "dificuldade": "Misto",
+        "nome": "Arctic Monkeys",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1367,
+        "dificuldade": "Misto",
+        "nome": "Ela é o Cara",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "itens": [
+      {
+        "id": 95,
+        "dificuldade": "Misto",
+        "nome": "Hannibal Lecter",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Sanduíche-iche",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 803,
+        "dificuldade": "Misto",
+        "nome": "Need For Speed",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 475,
+        "dificuldade": "Misto",
+        "nome": "Jogador Nº 1",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Jaden Smith",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1479,
+        "dificuldade": "Misto",
+        "nome": "Por Água Abaixo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 51,
+        "dificuldade": "Misto",
+        "nome": "Forrest Gump - O Contador de Histórias",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1336,
+        "dificuldade": "Misto",
+        "nome": "Sandman",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Ainda Estou Aqui",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1003,
+        "dificuldade": "Misto",
+        "nome": "Camila Cabello",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 81,
+        "nome": "Jake Frost",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Independente Irmão",
+        "classificacao": "Meme",
+        "dificuldade": "Misto",
+        "id": 10001
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "itens": [
+      {
+        "id": 151,
+        "dificuldade": "Misto",
+        "nome": "Samurai Jack",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 121,
+        "nome": "Papa Capim",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 831,
+        "dificuldade": "Misto",
+        "nome": "Cruella de Vil",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Clarice Falcão",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "O Discurso do Rei",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Twin Peaks",
+        "classificacao": "Série"
+      },
+      {
+        "id": 86,
+        "nome": "Nossa Titia, que Maneiro",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1491,
+        "dificuldade": "Misto",
+        "nome": "Anakin Skywalker",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Crash - No Limite",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "The Originals",
+        "classificacao": "Série"
+      },
+      {
+        "id": 21,
+        "dificuldade": "Misto",
+        "nome": "Fanático",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 157,
+        "nome": "Você Trabalha de Guê?",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "itens": [
+      {
+        "id": 1687,
+        "dificuldade": "Misto",
+        "nome": "Chewbacca",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "Encontro Marcado",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10008
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cardi B",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 69,
+        "nome": "Celemetério",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "itens": [
+      {
+        "id": 54,
+        "nome": "Nego Ney",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 341,
+        "nome": "Mavis",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Downton Abbey",
+        "classificacao": "Série"
+      },
+      {
+        "id": 539,
+        "dificuldade": "Misto",
+        "nome": "Lisbela e o Prisioneiro",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "itens": [
+      {
+        "id": 1519,
+        "dificuldade": "Misto",
+        "nome": "Zendaya",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "nome": "O Irlandês",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10011
+      },
+      {
+        "id": 527,
+        "dificuldade": "Misto",
+        "nome": "Perfect World",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 100,
+        "nome": "Mãe de Bebê Reborn",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "itens": [
+      {
+        "id": 30,
+        "dificuldade": "Misto",
+        "nome": "Máquina de Combate",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Orca: A Baleia Assassina",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Selvagens à Procura de Lei",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 635,
+        "dificuldade": "Misto",
+        "nome": "Doug Funnie",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "itens": [
+      {
+        "id": 10,
+        "dificuldade": "Misto",
+        "nome": "Canário Negro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cão de Briga",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 555,
+        "dificuldade": "Misto",
+        "nome": "Zack & Cody: Gêmeos em Ação",
+        "classificacao": "Série"
+      },
+      {
+        "id": 947,
+        "dificuldade": "Misto",
+        "nome": "Cássia Eller",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Ben-Hur",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Olhos que Condenam",
+        "classificacao": "Série"
+      },
+      {
+        "id": 143,
+        "dificuldade": "Misto",
+        "nome": "Operação Big Hero",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "System of a Down",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "YellowStone",
+        "classificacao": "Série"
+      },
+      {
+        "nome": "Texugo",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto",
+        "id": 10005
+      },
+      {
+        "id": 19,
+        "dificuldade": "Misto",
+        "nome": "Drax",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "nome": "Birdman",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10014
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Shaolin do Sertão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 463,
+        "dificuldade": "Misto",
+        "nome": "Suits",
+        "classificacao": "Série"
+      },
+      {
+        "id": 321,
+        "nome": "Zuko",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 61,
+        "nome": "Carai Biridin",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Art, o Palhaço",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 12,
+        "dificuldade": "Misto",
+        "nome": "Capuz Vermelho",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 115,
+        "dificuldade": "Misto",
+        "nome": "AC/DC",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Um Drink no Inferno",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Máquina Mortífera",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 11,
+        "dificuldade": "Misto",
+        "nome": "Capitão Átomo",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 671,
+        "dificuldade": "Misto",
+        "nome": "Barões da Pisadinha",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 36,
+        "nome": "Emily e Alexander",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "itens": [
+      {
+        "id": 322,
+        "nome": "Midoriya",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 26,
+        "dificuldade": "Misto",
+        "nome": "Jubileu",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "nome": "As Duas Faces de Um Crime",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10013
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Adolepeixes",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "itens": [
+      {
+        "id": 1684,
+        "dificuldade": "Misto",
+        "nome": "Didi Quer Ser Criança",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1499,
+        "dificuldade": "Misto",
+        "nome": "Nazaré Tedesco",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 263,
+        "dificuldade": "Misto",
+        "nome": "Apenas um Show",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Wando",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Sempre Ao Seu Lado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "The Good Doctor",
+        "classificacao": "Série"
+      },
+      {
+        "id": 62,
+        "nome": "Dona Bizantina",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 304,
+        "dificuldade": "Misto",
+        "nome": "Rod Stewart",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "itens": [
+      {
+        "id": 612,
+        "dificuldade": "Misto",
+        "nome": "Danny Phantom",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1312,
+        "dificuldade": "Misto",
+        "nome": "Bruxa Keka",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "10 Coisas Que Eu Odeio em Você",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10021
+      },
+      {
+        "id": 1284,
+        "dificuldade": "Misto",
+        "nome": "A Banda Mais Bonita da Cidade",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Seu Geraldo Que é Dono do Carro Azul",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 40,
+        "dificuldade": "Misto",
+        "nome": "Blade Runner 2049",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Filipe Ret",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Bidu",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "itens": [
+      {
+        "id": 1380,
+        "dificuldade": "Misto",
+        "nome": "Stardew Valley",
+        "classificacao": "Jogo"
+      },
+      {
+        "nome": "Nimona",
+        "classificacao": "Animação",
+        "dificuldade": "Misto",
+        "id": 10017
+      },
+      {
+        "id": 89,
+        "nome": "Raio Laser Bala de Icekiss",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 252,
+        "dificuldade": "Misto",
+        "nome": "O Grande Lebowski",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "itens": [
+      {
+        "id": 103,
+        "nome": "As Árvores Somos Nozes",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Michael Myers",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "O Diário de Bridget Jones",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10023
+      },
+      {
+        "nome": "Departamento de Conspirações?",
+        "classificacao": "Animação",
+        "dificuldade": "Misto",
+        "id": 10018
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "itens": [
+      {
+        "id": 100,
+        "dificuldade": "Misto",
+        "nome": "Geralt de Rívia",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "Quando seu cabelo tiver ESSE movimento, a gente conversa",
+        "classificacao": "Meme",
+        "dificuldade": "Misto",
+        "id": 10000
+      },
+      {
+        "id": 1600,
+        "dificuldade": "Misto",
+        "nome": "Não é Mais um Besteirol Americano",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 17,
+        "dificuldade": "Misto",
+        "nome": "Dormammu",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "itens": [
+      {
+        "id": 940,
+        "dificuldade": "Misto",
+        "nome": "Iori Yagami",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1544,
+        "dificuldade": "Misto",
+        "nome": "Sam & Cat",
+        "classificacao": "Série"
+      },
+      {
+        "id": 8,
+        "nome": "Uma blusa amarrada, com uma bota. E meu cabelo solto de prancha",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1428,
+        "dificuldade": "Misto",
+        "nome": "Jake Long: O Dragão Ocidental",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "itens": [
+      {
+        "id": 176,
+        "dificuldade": "Misto",
+        "nome": "The Elder Scrolls V: Skyrim",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1240,
+        "dificuldade": "Misto",
+        "nome": "Hancock",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 38,
+        "nome": "Bruxa Onilda",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 73,
+        "nome": "Bill Murray",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "itens": [
+      {
+        "id": 36,
+        "dificuldade": "Misto",
+        "nome": "Nebulosa",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 408,
+        "nome": "Miyamoto Musashi",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1492,
+        "dificuldade": "Misto",
+        "nome": "O Babadook",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Noivo Neurótico, Noiva Nervosa",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 9,
+        "dificuldade": "Misto",
+        "nome": "Brainiac",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Draculaura",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Homeland - Segurança Nacional",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "itens": [
+      {
+        "id": 22,
+        "nome": "Pullscat Dolls",
+        "classificacao": "Banda",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 744,
+        "dificuldade": "Misto",
+        "nome": "Zathura: Uma Aventura Espacial",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 5,
+        "dificuldade": "Misto",
+        "nome": "Arraia Negro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1632,
+        "dificuldade": "Misto",
+        "nome": "Os Feiticeiros de Waverly Place",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "itens": [
+      {
+        "id": 63,
+        "nome": "Entrando Numa Fria",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 899,
+        "dificuldade": "Misto",
+        "nome": "A Noviça Rebelde",
+        "classificacao": "Filme"
+      },
+
+      {
+        "id": 146,
+        "nome": "Sou Eu de Novo",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Adam Warlock",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Brandon Lee",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "nome": "Eu Tô Passada, Chocada",
+        "classificacao": "Meme",
+        "dificuldade": "Misto",
+        "id": 10002
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "O Gabinete de Curiosidades de Guillermo del Toro",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1264,
+        "dificuldade": "Misto",
+        "nome": "Bonnie Tyler",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "itens": [
+      {
+        "id": 999,
+        "nome": "Pescotapa",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 391,
+        "nome": "Epaminondas",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Como Perder um Homem em 10 Dias",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10019
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "F is for Family",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Rogerinho do Ingá",
+        "classificacao": "Personagem"
+      },
+
+      {
+        "id": 1532,
+        "dificuldade": "Misto",
+        "nome": "Marilyn Manson",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 72,
+        "dificuldade": "Difícil",
+        "nome": "Red Dead Redemption",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "itens": [
+      {
+        "id": 688,
+        "dificuldade": "Misto",
+        "nome": "Monk: Um Detetive Diferente",
+        "classificacao": "Série"
+      },
+      {
+        "id": 371,
+        "nome": "Tonho da Lua",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 288,
+        "dificuldade": "Misto",
+        "nome": "Bradley Cooper",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 963,
+        "dificuldade": "Médio",
+        "nome": "Joe e as Baratas",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "itens": [
+      {
+        "id": 1712,
+        "dificuldade": "Misto",
+        "nome": "Ingrid Guimarães",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Chrono Trigger",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 228,
+        "dificuldade": "Misto",
+        "nome": "Post Malone",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Coerência",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Rosa João?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 52,
+        "dificuldade": "Misto",
+        "nome": "Michael Scofield",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "Um Lugar Chamado Nothing Hill",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10020
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Adão Negro",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Uma Mente Brilhante",
+        "classificacao": "Filme"
+      },
+
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Viola Davis",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1368,
+        "dificuldade": "Misto",
+        "nome": "Nerso da Capitinga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 38,
+        "dificuldade": "Misto",
+        "nome": "O Doutrinador",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "itens": [
+      {
+        "id": 1404,
+        "dificuldade": "Misto",
+        "nome": "Skins - Juventude à Flor da Pele",
+        "classificacao": "Série"
+      },
+      {
+        "id": 201,
+        "nome": "Armageddon",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1012,
+        "dificuldade": "Misto",
+        "nome": "Miraculous: As Aventuras de Ladybug",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1032,
+        "dificuldade": "Misto",
+        "nome": "Serj Tankian",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "itens": [
+      {
+        "id": 476,
+        "dificuldade": "Misto",
+        "nome": "Natalie Portman",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1192,
+        "dificuldade": "Misto",
+        "nome": "Sky High - Super Escola de Heróis",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Sweet Tooth",
+        "classificacao": "Série"
+      },
+      {
+        "id": 18,
+        "nome": "Felipe? Smith!",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Heath Ledger",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 334,
+        "nome": "Dr. Hans Chucrute",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Querem Acabar Comigo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1736,
+        "dificuldade": "Misto",
+        "nome": "Z Nation",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "itens": [
+      {
+        "id": 379,
+        "nome": "Dabura",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "The Good Wife",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Kick Buttowski",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Abracadabra",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "itens": [
+      {
+        "id": 402,
+        "nome": "Kuromi",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 194,
+        "nome": "Bob’s Burgers",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 22,
+        "dificuldade": "Misto",
+        "nome": "Gorila Grodd",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 264,
+        "dificuldade": "Misto",
+        "nome": "Bridgerton",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Pixie e Brutus",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 776,
+        "dificuldade": "Misto",
+        "nome": "Jennifer Aniston",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "nome": "O Homem que Mudou o Jogo",
+        "classificacao": "Filme",
+        "dificuldade": "Misto",
+        "id": 10007
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Raffa Moreira",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Ja'Far",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Zé da Manga",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Os Camundongos Aventureiros",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Lil Wayne",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1315,
+        "dificuldade": "Misto",
+        "nome": "Green Day",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Fúria Cega",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Droopy",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Secos & Molhados",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "11.22.63",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Orochi",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Miserável é um Gênio",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Costa Gold",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Nando Reis",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1283,
+        "dificuldade": "Misto",
+        "nome": "Capitu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Reacher",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "RZO",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Erasmo Carlos",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Obi-Wan Kenobi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1243,
+        "dificuldade": "Misto",
+        "nome": "A Lista de Schindler",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Rashid",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Frankenweenie",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1447,
+        "dificuldade": "Misto",
+        "nome": "Pequenos Guerreiros",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Joseph Climber",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Lynyrd Skynyrd",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Pequeno Milagre",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Dorgival Dantas",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Jeca Gay",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Um Barril de Rap",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Adoniran Barbosa",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Os Imperdoáveis",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 5,
+        "nome": "Selvagem",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Haikaiss",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Os Intocáveis",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "nome": "Grande Otelo",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 9,
+        "nome": "Fafá de Belém",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "itens": [
+      {
+        "id": 7,
+        "nome": "Ana Paula Arósio",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 24,
+        "nome": "O Palhaço",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 16,
+        "nome": "Os Gárgulas",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 29,
+        "nome": "Emily in Paris",
+        "classificacao": "Série",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "itens": [
+      {
+        "id": 11,
+        "nome": "Renata Sorrah",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+
+      {
+        "id": 31,
+        "nome": "Lancelot",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "nome": "O Enfermeiro da Noite",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Nação Zumbi",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "itens": [
+      {
+        "id": 28,
+        "nome": "Murilo Benício",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 32,
+        "nome": "Johnny Cash",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 53,
+        "nome": "Nunca Nem Vi",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Grande Dragão Branco",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 38,
+        "nome": "Trollface",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 10,
+        "nome": "Bruna Lombardi",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 35,
+        "nome": "Tihuana",
+        "classificacao": "Banda",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Pato Fu",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 41,
+        "nome": "Cristiano Araújo",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 50,
+        "nome": "Um Contratempo",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 57,
+        "nome": "Elliot Page (Ellen Page)",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "itens": [
+      {
+        "id": 52,
+        "nome": "À Espreita do Mal",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 53,
+        "nome": "Mark Hamill",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 75,
+        "nome": "Se Eu Pudesse Matava Mil",
+        "classificacao": "Meme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 67,
+        "nome": "ABBA",
+        "classificacao": "Banda",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "itens": [
+      {
+        "id": 51,
+        "nome": "As Linhas Tortas de Deus",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 58,
+        "nome": "Cássia Kis",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 62,
+        "nome": "Blackpink",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Expresso Polar",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Atentado Napalm",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Etevaldo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Ana Castela",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 138,
+        "dificuldade": "Misto",
+        "nome": "Advogado do Diabo",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "itens": [
+      {
+        "id": 60,
+        "nome": "Homem com H",
+        "classificacao": "Filme",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 61,
+        "nome": "Evan Peters",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 66,
+        "nome": "A-ha",
+        "classificacao": "Banda",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Zero Two",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Habbo",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Dexter, o Oitavo Anjo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "The Ranch (Rancho)",
+        "classificacao": "Série"
+      },
+      {
+        "id": 73,
+        "nome": "Bruno Mazzeo",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "itens": [
+      {
+        "id": 63,
+        "nome": "Jessica Alba",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 64,
+        "nome": "Dio",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Pânico na Floresta",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Bom Dia, Verônica",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Mara Maravilha",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Os Normais",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Triple X",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Kansas",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cavalo de Fogo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Os Suspeitos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Síndrome",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Pit Bicha",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Príncipe Dragão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Ferrugem",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "A Queda",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Maximus",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "O Pequeno Urso",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Carretel",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "O Nevoeiro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "3%",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "The Doors",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cartola",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Fratura",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Bons de Bico",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Deuses Americanos",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Incêndios",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Irmão Urso",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "The Police",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "itens": [
+      {
+        "id": 65,
+        "nome": "Billy Ocean",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 72,
+        "nome": "Isabelle Drummond",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Misto"
+      },
+      {
+        "nome": "Happy Tree Friends",
+        "classificacao": "Animação",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "500 Dias Com Ela",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "itens": [
+      {
+        "nome": "Juliana Bonde",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cães de Aluguel",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Charlize Theron",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "A Sete Palmos",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "A Gente Só Ama A Deus, Gosta Dele!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Beleza Americana",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "XXXTentacion",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Doquinha",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "O Regresso",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Darius",
+        "classificacao": "Personagem"
+      },
+      {
+        "nome": "Danny Bond",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Cate Blanchett",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Casablanca",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Grelo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1379,
+        "dificuldade": "Misto",
+        "nome": "Marisa Monte",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Bonde do Maluco",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Stromae",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "O Mestre dos Desejos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Doom",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Gal Gadot",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Chico Bento e a Goiabeira Maraviósa",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Bowser",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Metalocalypse",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Planet Hemp",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "A Baleia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "O Vazio",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "A Escuta (The Wire)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Crimes do Colarinho Branco",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "O Conde de Monte Cristo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Blanka",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Thiago Lacerda",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Gabriel Diniz",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "O Homem Bicentenário",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Os Super Patos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Mamilos Polêmicos",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Guerra ao Terror",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Higor nera Gay?",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Os Seminovos",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 227,
+        "nome": "Barney",
+        "classificacao": "Personagem",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Pedrão e Jorginho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Lista Negra",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "RPM",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Sudoku",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Dream Theater",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Michonne",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Raízes",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Amadeus",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "itens": [
+      {
+        "id": 564,
+        "dificuldade": "Misto",
+        "nome": "Brasfoot",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Rodrigo Hilbert",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Aderbal",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Os Sete Samurais",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "O Homem da Máscara de Ferro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Veep",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Jason Derulo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 79,
+        "nome": "Deep Purple",
+        "classificacao": "Banda",
+        "dificuldade": "Misto"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "itens": [
+      {
+        "id": 77,
+        "nome": "Ana Vilela",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Misto"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "A Vida é Bela",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "FireFly",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Zeca Pimenteira",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Sam Smith",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Misto",
+        "nome": "Sombras da Noite",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Jeca Tatu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 704,
+        "dificuldade": "Misto",
+        "nome": "Buffy: A Caça Vampiros",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "itens": [
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Rebecca Black",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "Mazzaropi",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "O Pacote",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "True Blood",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "itens": [
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Ed Mota",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Emilia Pérez",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Ultraman",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Three Days Grace",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Janne Ortega",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Misto",
+        "nome": "A Lenda de Beowulf",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Fargo",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Bibo Pai e Bobi Filho",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Anya Taylor-Joy",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Moonlight: Sob a Luz do Luar",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Ted Lasso",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Chowder",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+
+  {
+    "id": 140,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Misto",
+        "nome": "Emma Stone",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "I Love Lucy",
+        "classificacao": "Série"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Cyberchase: A Corrida do Espaço",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Misto",
+        "nome": "Pecadores",
+        "classificacao": "Filme"
+      }
+    ]
+  }
+]

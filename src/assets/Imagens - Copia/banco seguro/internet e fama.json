@@ -1,0 +1,2611 @@
+[
+  {
+    "id": 662,
+    "itens": [
+      {
+        "id": 344,
+        "nome": "Caruso",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1654,
+        "dificuldade": "Médio",
+        "nome": "Flow Podcast",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Elis Regina",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Maya Massafera",
+        "classificacao": "Influencer"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "itens": [
+      {
+        "id": 1421,
+        "dificuldade": "Fácil",
+        "nome": "Alexa",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 1466,
+        "dificuldade": "Médio",
+        "nome": "Inês Brasil",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 126,
+        "nome": "Bella Ramsey",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1220,
+        "dificuldade": "Expert",
+        "nome": "Baby Baby do Baby do Biruleibe Leibe",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Gisele Bündchen",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Tamagotchi",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 595,
+        "dificuldade": "Difícil",
+        "nome": "Diogo Defante",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 45,
+        "dificuldade": "Expert",
+        "nome": "Sinestro",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "itens": [
+      {
+        "id": 1737,
+        "dificuldade": "Fácil",
+        "nome": "Florzinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1738,
+        "dificuldade": "Médio",
+        "nome": "Zezé Di Camargo & Luciano",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 911,
+        "dificuldade": "Difícil",
+        "nome": "Harlem Shake",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 32,
+        "dificuldade": "Expert",
+        "nome": "M.O.D.O.K",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tiririca",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Ruivinha de Marte",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Difícil",
+        "nome": "Ramones",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "PJ Masks",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "itens": [
+      {
+        "id": 1409,
+        "dificuldade": "Fácil",
+        "nome": "Windows",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Dean Winchester",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1443,
+        "dificuldade": "Difícil",
+        "nome": "Kick-Ass: Quebrando Tudo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1704,
+        "dificuldade": "Expert",
+        "nome": "AlanZoka",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Margarida",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Los Hermanos",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Ed Gama",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 1448,
+        "dificuldade": "Expert",
+        "nome": "Toguro",
+        "classificacao": "Famoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "itens": [
+      {
+        "id": 1341,
+        "dificuldade": "Fácil",
+        "nome": "Jojo Todynho",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Jennifer Lopez",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1635,
+        "dificuldade": "Difícil",
+        "nome": "A História Sem Fim",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 952,
+        "dificuldade": "Expert",
+        "nome": "Nando Viana",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Fofão",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1698,
+        "dificuldade": "Médio",
+        "nome": "PodPah",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "12 Anos de Escravidão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 232,
+        "dificuldade": "Expert",
+        "nome": "Marcelo Adnet",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "itens": [
+      {
+        "id": 348,
+        "nome": "Tokyo",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Chris Rock",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 302,
+        "nome": "Cher",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Buddy Poke",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "itens": [
+      {
+        "id": 657,
+        "dificuldade": "Fácil",
+        "nome": "Tigrinho",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 1798,
+        "dificuldade": "Médio",
+        "nome": "Caju e Castanha",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Robotnik",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 73,
+        "nome": "Sociedade dos Poetas Mortos",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "É o Tchan!",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1330,
+        "dificuldade": "Médio",
+        "nome": "Zacarias",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Uma Noite de Crime",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Nando Moura",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "iFood",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "T-Rex Game",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 161,
+        "nome": "Beethoven, O Magnifico",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1672,
+        "dificuldade": "Expert",
+        "nome": "Parafernalha",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Porta dos Fundos",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Orkut",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 153,
+        "nome": "João de Santo Cristo",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 48,
+        "dificuldade": "Expert",
+        "nome": "Zatanna",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Frangolino",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Paulo Gustavo",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Kim Kardashian",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 50,
+        "nome": "O Mestre dos Brinquedos",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "itens": [
+      {
+        "id": 1237,
+        "dificuldade": "Fácil",
+        "nome": "Luva de Pedreiro",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 21,
+        "nome": "Eric Cartman",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Ronald Golias",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 44,
+        "dificuldade": "Expert",
+        "nome": "Ronan",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Aviões",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Paris Hilton",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Myspace",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Bandido da Luz Vermelha",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Kratos",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 522,
+        "dificuldade": "Médio",
+        "nome": "O Menino do Pijama Listrado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 983,
+        "dificuldade": "Difícil",
+        "nome": "Manual do Mundo",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Partoba",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "itens": [
+      {
+        "id": 1545,
+        "dificuldade": "Fácil",
+        "nome": "O Escorpião Rei",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Supla",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bussunda",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 524,
+        "dificuldade": "Expert",
+        "nome": "Alex Atala",
+        "classificacao": "Famoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "itens": [
+      {
+        "id": 869,
+        "dificuldade": "Fácil",
+        "nome": "Tirulipa",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 870,
+        "dificuldade": "Médio",
+        "nome": "Reynaldo Gianecchini",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 871,
+        "dificuldade": "Difícil",
+        "nome": "PC Siqueira",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 330,
+        "nome": "Freaks and Geeks",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Lucas Neto",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Skype",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Difícil",
+        "nome": "Menina de Ouro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1652,
+        "dificuldade": "Expert",
+        "nome": "Tarcísio Meira",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "itens": [
+      {
+        "id": 1029,
+        "dificuldade": "Fácil",
+        "nome": "Instagram",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 1506,
+        "dificuldade": "Médio",
+        "nome": "O Virgem de 40 Anos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Thiago Ventura",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 2,
+        "nome": "Shaman King",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Rita Lee",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 974,
+        "dificuldade": "Médio",
+        "nome": "Dercy Gonçalves",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 273,
+        "nome": "DayBreak",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "PewDiePie",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Uber",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 546,
+        "dificuldade": "Médio",
+        "nome": "Sr. & Sra. Smith",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Gaules",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 200,
+        "nome": "O Fantástico Sr. Raposo",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "itens": [
+      {
+        "id": 1541,
+        "dificuldade": "Fácil",
+        "nome": "Mulher Melancia",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 1542,
+        "dificuldade": "Médio",
+        "nome": "Perry, o Ornitorrinco",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rafinha Bastos",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Será Que Eu Pego o Ônibus Ou Será Que Compro Uma Goiaba?",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "itens": [
+      {
+        "id": 1013,
+        "dificuldade": "Fácil",
+        "nome": "Spotify",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 1270,
+        "dificuldade": "Médio",
+        "nome": "Golpe Baixo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1271,
+        "dificuldade": "Difícil",
+        "nome": "Cremosinho",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 326,
+        "nome": "Batoré",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "itens": [
+      {
+        "id": 1189,
+        "dificuldade": "Fácil",
+        "nome": "Luan Santana",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 786,
+        "dificuldade": "Médio",
+        "nome": "Você Sabia?",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 767,
+        "dificuldade": "Difícil",
+        "nome": "Merlin",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Juju Salimeni",
+        "classificacao": "Famoso(a)"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "itens": [
+      {
+        "id": 1769,
+        "dificuldade": "Fácil",
+        "nome": "O Espantalho",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1770,
+        "dificuldade": "Médio",
+        "nome": "Jorge & Mateus",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 155,
+        "dificuldade": "Difícil",
+        "nome": "Vestido Azul e Preto ou Dourado?",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Orochimaru",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "ChatGPT",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Rafael Portugal",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 239,
+        "dificuldade": "Difícil",
+        "nome": "Punho de Ferro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 195,
+        "nome": "Acorda, Carlo",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "itens": [
+      {
+        "id": 925,
+        "dificuldade": "Fácil",
+        "nome": "TikTok",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 312,
+        "nome": "Mutano",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 84,
+        "nome": "Dragonforce",
+        "classificacao": "Banda",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 928,
+        "dificuldade": "Expert",
+        "nome": "Minguado",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "itens": [
+      {
+        "id": 24,
+        "dificuldade": "Fácil",
+        "nome": "Homem Areia",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 26,
+        "dificuldade": "Médio",
+        "nome": "Carlinhos Maia",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 1123,
+        "dificuldade": "Difícil",
+        "nome": "Leandro Hassum",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 1772,
+        "dificuldade": "Expert",
+        "nome": "Ojuara",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Charlie Brown",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Photoshop",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 971,
+        "dificuldade": "Difícil",
+        "nome": "Pobretion",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 47,
+        "dificuldade": "Expert",
+        "nome": "Yondu",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Robôs",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1678,
+        "dificuldade": "Médio",
+        "nome": "Gracyanne Barbosa",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Gaga de Ilhéus",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 41,
+        "nome": "Toad",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "itens": [
+      {
+        "id": 50,
+        "nome": "Zé Gotinha",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 50,
+        "dificuldade": "Médio",
+        "nome": "César Menotti & Fabiano",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 19,
+        "dificuldade": "Difícil",
+        "nome": "Bohemian Rhapsody",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Kevin Hart",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sergio Mallandro",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 666,
+        "dificuldade": "Médio",
+        "nome": "Duolingo",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 1475,
+        "dificuldade": "Difícil",
+        "nome": "Pets: A Vida Secreta dos Bichos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 41,
+        "dificuldade": "Expert",
+        "nome": "Psylocke",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "itens": [
+      {
+        "id": 1033,
+        "dificuldade": "Fácil",
+        "nome": "Facebook",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sr. Omar",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Gordão da XJ",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 128,
+        "dificuldade": "Expert",
+        "nome": "Pearl Harbor",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "itens": [
+      {
+        "id": 999,
+        "nome": "Pepê e Neném",
+        "classificacao": "Dupla",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1038,
+        "dificuldade": "Médio",
+        "nome": "Kleber Bambam",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 1555,
+        "dificuldade": "Difícil",
+        "nome": "Metaforando",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 387,
+        "nome": "Expresso do Amanhã",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Greg",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 174,
+        "dificuldade": "Médio",
+        "nome": "Virgínia",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Entrevista com o Vampiro",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1740,
+        "dificuldade": "Expert",
+        "nome": "Maurício Meirelles",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Claudia Leitte",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 674,
+        "dificuldade": "Médio",
+        "nome": "Matheus Ceará",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 975,
+        "dificuldade": "Difícil",
+        "nome": "Como Se Fosse a Primeira Vez",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Dilera",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Dunga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Mansão Maromba",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Os Outros",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Smzinho",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Felipe Neto",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 1594,
+        "dificuldade": "Médio",
+        "nome": "Laranja Mecânica",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Boca de 09",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 354,
+        "nome": "Aretha Franklin",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Se Beber, Não Case!",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Casemiro",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Leandrinha",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 1424,
+        "dificuldade": "Expert",
+        "nome": "Eu Não Prefiro Nenhum que Eu Tenho Capa",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Hora do Pesadelo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 340,
+        "nome": "Moto Moto",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Milionário & José Rico",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "UTC (Ultimate Trocadilho Championship)",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "itens": [
+      {
+        "id": 1285,
+        "dificuldade": "Fácil",
+        "nome": "Lindinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Snapchat",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Narcisa",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 27,
+        "dificuldade": "Expert",
+        "nome": "Kang",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "itens": [
+      {
+        "id": 428,
+        "nome": "Carioca",
+        "classificacao": "Comediante",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1211,
+        "dificuldade": "Médio",
+        "nome": "À Procura da Felicidade",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Monark",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Modern Family",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Alvin e os Esquilos",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sauron",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1287,
+        "dificuldade": "Difícil",
+        "nome": "4 Amigos",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Rodrigo Sant'Anna",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "itens": [
+      {
+        "id": 1129,
+        "dificuldade": "Fácil",
+        "nome": "Leandro e Leonardo",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Havaianas de Pau",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Harry Styles",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1132,
+        "dificuldade": "Expert",
+        "nome": "Carai Borracha",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "itens": [
+      {
+        "id": 937,
+        "dificuldade": "Fácil",
+        "nome": "Netflix",
+        "classificacao": "Aplicativo"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Lana Del Rey",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "ClickJogos",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 29,
+        "dificuldade": "Expert",
+        "nome": "Kraven, o Caçador",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "YouTube",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 630,
+        "dificuldade": "Médio",
+        "nome": "O Hobbit",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 775,
+        "dificuldade": "Difícil",
+        "nome": "Akinator",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Doutor Doofenshmirtz",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "itens": [
+      {
+        "id": 1193,
+        "dificuldade": "Fácil",
+        "nome": "Tim Maia",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Ratos de Porão",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1399,
+        "dificuldade": "Difícil",
+        "nome": "Lacraia",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 1196,
+        "dificuldade": "Expert",
+        "nome": "Renato Albani",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Banco Imobiliário",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Nicolas Cage",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Kéfera",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Grande Hotel Budapeste",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "itens": [
+      {
+        "id": 1777,
+        "dificuldade": "Fácil",
+        "nome": "Arrow",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1490,
+        "dificuldade": "Médio",
+        "nome": "Tatá Werneck",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 114,
+        "nome": "Maria Clara e JP",
+        "classificacao": "YouTube",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Luciano Pavarotti",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "itens": [
+      {
+        "id": 697,
+        "dificuldade": "Fácil",
+        "nome": "Náufrago",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Edward Cullen",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1763,
+        "dificuldade": "Difícil",
+        "nome": "Bruna Louise",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Mike Baguncinha",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bruno e Marrone",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "CatDog",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1559,
+        "dificuldade": "Difícil",
+        "nome": "Ary Toledo",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 688,
+        "dificuldade": "Expert",
+        "nome": "Katniss Everdeen",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "itens": [
+      {
+        "id": 473,
+        "dificuldade": "Fácil",
+        "nome": "Whindersson Nunes",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Mulher Invisível",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Priscilla Alcantara",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Tonico & Tinoco",
+        "classificacao": "Dupla"
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Juliette",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "CPM 22",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 979,
+        "dificuldade": "Difícil",
+        "nome": "Chico Anysio",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 812,
+        "dificuldade": "Expert",
+        "nome": "Contatos Imediatos de Terceiro Grau",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "itens": [
+      {
+        "id": 1325,
+        "dificuldade": "Fácil",
+        "nome": "A Freira",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1326,
+        "dificuldade": "Médio",
+        "nome": "Mussum",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 1327,
+        "dificuldade": "Difícil",
+        "nome": "Dra. Deolane Bezerra",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 204,
+        "dificuldade": "Expert",
+        "nome": "Rage Against the Machine",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "itens": [
+      {
+        "id": 201,
+        "dificuldade": "Fácil",
+        "nome": "Johnny Bravo",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1674,
+        "dificuldade": "Médio",
+        "nome": "Geisy Arruda",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Paulinho Gogó",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 369,
+        "nome": "Rio, 40 Graus",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Brutus",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 482,
+        "dificuldade": "Médio",
+        "nome": "Vira-Lata Caramelo",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1263,
+        "dificuldade": "Difícil",
+        "nome": "Cauê Moura",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 944,
+        "dificuldade": "Expert",
+        "nome": "Afonso Padilha",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Luisa Mell",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Preta Gil",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 88,
+        "nome": "Uma Babá Quase Perfeita",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Felca",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "itens": [
+      {
+        "id": 961,
+        "dificuldade": "Fácil",
+        "nome": "Patati e Patatá",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 1354,
+        "dificuldade": "Médio",
+        "nome": "Paula Fernandes",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1651,
+        "dificuldade": "Difícil",
+        "nome": "Igor Guimarães",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Matheus Nachtergaele",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tubarão",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 318,
+        "dificuldade": "Médio",
+        "nome": "Charles Chaplin",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Mundo Canibal",
+        "classificacao": "Internet"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Laura Pausini",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "itens": [
+      {
+        "id": 1441,
+        "dificuldade": "Fácil",
+        "nome": "Docinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 707,
+        "dificuldade": "Médio",
+        "nome": "Leo Lins",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 303,
+        "nome": "Criolo",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 133,
+        "nome": "Enaldinho",
+        "classificacao": "YouTube",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tróia",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Thais Carla",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 215,
+        "nome": "rezendeevil",
+        "classificacao": "YouTube",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 179,
+        "nome": "Joffrey Baratheon",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "itens": [
+      {
+        "id": 1482,
+        "dificuldade": "Fácil",
+        "nome": "Clube da Luta",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1442,
+        "dificuldade": "Médio",
+        "nome": "Chitãozinho & Xororó",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 1151,
+        "dificuldade": "Difícil",
+        "nome": "Julio Cocielo",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 1152,
+        "dificuldade": "Expert",
+        "nome": "Janis Joplin",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "itens": [
+      {
+        "id": 1293,
+        "dificuldade": "Fácil",
+        "nome": "Debi e Loide",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 818,
+        "dificuldade": "Médio",
+        "nome": "Chico Moedas",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 1147,
+        "dificuldade": "Difícil",
+        "nome": "Rato Borrachudo",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 28,
+        "dificuldade": "Expert",
+        "nome": "Kilowog",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "itens": [
+      {
+        "id": 901,
+        "dificuldade": "Fácil",
+        "nome": "Sandy e Júnior",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Colheita Feliz",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1691,
+        "dificuldade": "Difícil",
+        "nome": "Castro Brothers",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 148,
+        "dificuldade": "Expert",
+        "nome": "Osmar, A Primeira Fatia do Pão de Forma",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Os Barbixas",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Wanessa Camargo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1323,
+        "dificuldade": "Difícil",
+        "nome": "Henrique e Juliano",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Smaug",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Renato Russo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 342,
+        "dificuldade": "Médio",
+        "nome": "Euphoria",
+        "classificacao": "Série"
+      },
+      {
+        "id": 1459,
+        "dificuldade": "Difícil",
+        "nome": "Viih Tube",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "KondZilla",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "itens": [
+      {
+        "id": 1157,
+        "dificuldade": "Fácil",
+        "nome": "Inovação do Mal",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1438,
+        "dificuldade": "Médio",
+        "nome": "Emoji: O Filme",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1139,
+        "dificuldade": "Difícil",
+        "nome": "Super Xandão",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Pedro de Lara",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "itens": [
+      {
+        "id": 1609,
+        "dificuldade": "Fácil",
+        "nome": "Moranguinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1622,
+        "dificuldade": "Médio",
+        "nome": "Maiara & Maraisa",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 1611,
+        "dificuldade": "Difícil",
+        "nome": "Gkay (Gessica Kayane)",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 1612,
+        "dificuldade": "Expert",
+        "nome": "Shang-Chi e a Lenda dos Dez Anéis",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "itens": [
+      {
+        "id": 1661,
+        "dificuldade": "Fácil",
+        "nome": "Belo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 894,
+        "dificuldade": "Médio",
+        "nome": "Pablo Marçal",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 249,
+        "nome": "Ira!",
+        "classificacao": "Banda",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1664,
+        "dificuldade": "Expert",
+        "nome": "Inteligência LTDA",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "itens": [
+      {
+        "id": 1137,
+        "dificuldade": "Fácil",
+        "nome": "FIFA",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1138,
+        "dificuldade": "Médio",
+        "nome": "Tom Jobim",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "nome": "Camila Pudim",
+        "classificacao": "Influencer",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 3,
+        "nome": "Renato 38tão",
+        "classificacao": "Internet",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "itens": [
+      {
+        "id": 277,
+        "dificuldade": "Fácil",
+        "nome": "Google",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Ei Nerd",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rick Grimes",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Alita: Anjo de Combate",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Google Chrome",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 274,
+        "dificuldade": "Médio",
+        "nome": "Thiaguinho",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 275,
+        "dificuldade": "Difícil",
+        "nome": "Jade Picon",
+        "classificacao": "Influencer"
+      },
+      {
+        "id": 172,
+        "nome": "One Tree Hill",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "itens": [
+      {
+        "id": 649,
+        "dificuldade": "Fácil",
+        "nome": "Dois Homens e Meio",
+        "classificacao": "Série"
+      },
+      {
+        "id": 242,
+        "nome": "Pé de Pano",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Eduardo Sterblitch",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Everson Zoio",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "itens": [
+      {
+        "id": 290,
+        "dificuldade": "Fácil",
+        "nome": "Vegeta",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 826,
+        "dificuldade": "Médio",
+        "nome": "Discord",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Davy Jones",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 393,
+        "nome": "Palavra Cantada",
+        "classificacao": "Banda",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "itens": [
+      {
+        "id": 481,
+        "dificuldade": "Fácil",
+        "nome": "Salsicha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Trem da Alegria",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1719,
+        "dificuldade": "Difícil",
+        "nome": "Dani Calabresa",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 652,
+        "dificuldade": "Expert",
+        "nome": "Ticaracaticast",
+        "classificacao": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "itens": [
+      {
+        "id": 921,
+        "dificuldade": "Fácil",
+        "nome": "Twitter",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Casa de Cera",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Renato Cariani",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 924,
+        "dificuldade": "Expert",
+        "nome": "Baco Exu do Blues",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "itens": [
+      {
+        "id": 253,
+        "dificuldade": "Fácil",
+        "nome": "Sonic",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 434,
+        "dificuldade": "Médio",
+        "nome": "Ariana Grande",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 875,
+        "dificuldade": "Difícil",
+        "nome": "Os Melhores do Mundo",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 436,
+        "dificuldade": "Expert",
+        "nome": "Tiringa",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "itens": [
+      {
+        "id": 661,
+        "dificuldade": "Fácil",
+        "nome": "Free Willy",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1690,
+        "dificuldade": "Médio",
+        "nome": "Davi Brito",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 255,
+        "dificuldade": "Difícil",
+        "nome": "Bora Bill",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1540,
+        "dificuldade": "Expert",
+        "nome": "Givaldo Mendigo",
+        "classificacao": "Internet"
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "itens": [
+      {
+        "id": 1485,
+        "dificuldade": "Fácil",
+        "nome": "Loira do Tchan",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Jovem Nerd",
+        "classificacao": "YouTube"
+      },
+      {
+        "id": 285,
+        "nome": "Alicia Keys",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "A Vida Moderna de Rocko",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Marge",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Claudinho e Buchecha",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Psicopata Americano",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Victor Sarro",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Bruxa",
+        "classificacao": "Filme"
+      },
+      {
+        "nome": "Blogueirinha",
+        "classificacao": "Influencer",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sheila Carvalho",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 608,
+        "dificuldade": "Expert",
+        "nome": "13 Reasons Why",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "WhatsApp",
+        "classificacao": "Aplicativo"
+      },
+      {
+        "id": 338,
+        "dificuldade": "Médio",
+        "nome": "O Homem que Copiava",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 332,
+        "nome": "Radiohead",
+        "classificacao": "Banda",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1776,
+        "dificuldade": "Expert",
+        "nome": "Elídio Sanna",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sr. Sirigueijo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1626,
+        "dificuldade": "Médio",
+        "nome": "Simone e Simaria",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 1643,
+        "dificuldade": "Difícil",
+        "nome": "Paulo Muzy",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 1400,
+        "dificuldade": "Expert",
+        "nome": "Watchmen",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "itens": [
+      {
+        "id": 1729,
+        "dificuldade": "Fácil",
+        "nome": "Senhor Barriga",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1282,
+        "dificuldade": "Médio",
+        "nome": "Tom Cavalcante",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 295,
+        "nome": "Taca-lhe Pau",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1732,
+        "dificuldade": "Expert",
+        "nome": "Nobru",
+        "classificacao": "Influencer"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "itens": [
+      {
+        "id": 1181,
+        "dificuldade": "Fácil",
+        "nome": "Linkin Park",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1182,
+        "dificuldade": "Médio",
+        "nome": "Bruna Surfistinha",
+        "classificacao": "Famoso(a)"
+      },
+      {
+        "id": 240,
+        "nome": "REC",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Moacyr Franco",
+        "classificacao": "Comediante"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "itens": [
+      {
+        "id": 1353,
+        "dificuldade": "Fácil",
+        "nome": "Megazord",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1658,
+        "dificuldade": "Médio",
+        "nome": "Rio Negro e Solimões",
+        "classificacao": "Dupla"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Fábio Porchat",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 381,
+        "nome": "Octonautas",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "itens": [
+      {
+        "id": 1337,
+        "dificuldade": "Fácil",
+        "nome": "Luísa Sonza",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1130,
+        "dificuldade": "Médio",
+        "nome": "Mega Man",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Murilo Couto",
+        "classificacao": "Comediante"
+      },
+      {
+        "id": 1340,
+        "dificuldade": "Expert",
+        "nome": "LubaTV",
+        "classificacao": "YouTube"
+      }
+    ]
+  }
+]

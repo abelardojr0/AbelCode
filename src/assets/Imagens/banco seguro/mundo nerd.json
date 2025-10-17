@@ -1,0 +1,2613 @@
+[
+  {
+    "id": 296,
+    "itens": [
+      {
+        "id": 999,
+        "nome": "Morticia",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Targaryen",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Taça Tribruxo",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 175,
+        "nome": "Adriana Esteves",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "itens": [
+      {
+        "id": 419,
+        "nome": "Yoyo (Ioiô)",
+        "classificacao": "Brinquedo",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 662,
+        "dificuldade": "Médio",
+        "nome": "Hadouken",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "TARDIS",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Salma Hayek",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 564,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Lâmpada Mágica",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 194,
+        "dificuldade": "Médio",
+        "nome": "Michael B. Jordan",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Avada Kedavra",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Animaniacs",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "itens": [
+      {
+        "id": 1373,
+        "dificuldade": "Fácil",
+        "nome": "Nhonho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Círculo de Fogo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 403,
+        "dificuldade": "Difícil",
+        "nome": "Redstone",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Tattoine",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "itens": [
+      {
+        "id": 1201,
+        "dificuldade": "Fácil",
+        "nome": "Stark",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Laço da Verdade",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Gal Costa",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1204,
+        "dificuldade": "Expert",
+        "nome": "Gigolô Europeu por Acidente",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "itens": [
+      {
+        "id": 341,
+        "dificuldade": "Fácil",
+        "nome": "Fiona",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 218,
+        "dificuldade": "Médio",
+        "nome": "Death Note",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 150,
+        "nome": "A Teoria de Tudo",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Baker Street",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 577,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Relâmpago McQueen",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Lufa-Lufa",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Lie to Me",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Namekusei",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "itens": [
+      {
+        "id": 1745,
+        "dificuldade": "Fácil",
+        "nome": "Hermione",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1746,
+        "dificuldade": "Médio",
+        "nome": "Gotham",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1747,
+        "dificuldade": "Difícil",
+        "nome": "Meu Amigo Totoro",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1416,
+        "dificuldade": "Expert",
+        "nome": "Conta Comigo",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Siri Cascudo",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 698,
+        "dificuldade": "Médio",
+        "nome": "Genki Dama",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 243,
+        "dificuldade": "Difícil",
+        "nome": "Mark Ruffalo",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Agente Carter",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "itens": [
+      {
+        "id": 357,
+        "dificuldade": "Fácil",
+        "nome": "Pipa (Raia)",
+        "classificacao": "Brinquedo"
+      },
+      {
+        "id": 17,
+        "nome": "Jaiminho, o Carteiro",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 708,
+        "dificuldade": "Difícil",
+        "nome": "Arkham",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 364,
+        "dificuldade": "Expert",
+        "nome": "Superbad - É Hoje",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "itens": [
+      {
+        "id": 645,
+        "dificuldade": "Fácil",
+        "nome": "Capa de Invisibilidade",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gaara",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1639,
+        "dificuldade": "Difícil",
+        "nome": "Demon Slayer",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 256,
+        "dificuldade": "Expert",
+        "nome": "BoJack Horseman",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "itens": [
+      {
+        "id": 34,
+        "dificuldade": "Fácil",
+        "nome": "Bambolê",
+        "classificacao": "Brinquedo"
+      },
+      {
+        "id": 694,
+        "dificuldade": "Médio",
+        "nome": "Chapéu Seletor",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 69,
+        "nome": "Barry Allen",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 696,
+        "dificuldade": "Expert",
+        "nome": "Haikyu!!",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Fenda do Biquíni",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 34,
+        "dificuldade": "Médio",
+        "nome": "Spinner",
+        "classificacao": "Brinquedo"
+      },
+      {
+        "id": 118,
+        "nome": "Mariana Ximanes",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 668,
+        "dificuldade": "Expert",
+        "nome": "Pó de Pirlimpimpim",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "itens": [
+      {
+        "id": 689,
+        "dificuldade": "Fácil",
+        "nome": "Manopla do Infinito",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 1646,
+        "dificuldade": "Médio",
+        "nome": "Compadre Washington",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 130,
+        "nome": "Formiga Atômica",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Ponyo: Uma Amizade que Veio do Mar",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "itens": [
+      {
+        "id": 309,
+        "dificuldade": "Fácil",
+        "nome": "Malhação",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Samuel L. Jackson",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 311,
+        "dificuldade": "Difícil",
+        "nome": "Akatsuki",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 312,
+        "dificuldade": "Expert",
+        "nome": "Horcrux",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "itens": [
+      {
+        "id": 125,
+        "dificuldade": "Fácil",
+        "nome": "Dark",
+        "classificacao": "Série"
+      },
+      {
+        "id": 410,
+        "dificuldade": "Médio",
+        "nome": "Equipe Rocket",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 1235,
+        "dificuldade": "Difícil",
+        "nome": "Lucy",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 412,
+        "dificuldade": "Expert",
+        "nome": "DeLorean",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Willy Wonka",
+        "classificacao": "Personagem"
+      },
+
+      {
+        "id": 1758,
+        "dificuldade": "Médio",
+        "nome": "Marcos Palmeira",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "S.H.I.E.L.D",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 1760,
+        "dificuldade": "Expert",
+        "nome": "Avalon",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "itens": [
+      {
+        "id": 701,
+        "dificuldade": "Fácil",
+        "nome": "Estrela da Morte",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 309,
+        "nome": "Noffa",
+        "classificacao": "Meme",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 655,
+        "dificuldade": "Difícil",
+        "nome": "A Diarista",
+        "classificacao": "Série"
+      },
+      {
+        "id": 704,
+        "dificuldade": "Expert",
+        "nome": "Mordor",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "itens": [
+      {
+        "id": 621,
+        "dificuldade": "Fácil",
+        "nome": "Um Maluco no Pedaço",
+        "classificacao": "Série"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Corvinal",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Nexus",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 1412,
+        "dificuldade": "Expert",
+        "nome": "Rorschach",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "itens": [
+      {
+        "id": 1413,
+        "dificuldade": "Fácil",
+        "nome": "Samurai X",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "As Aventuras de Jackie Chan",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 46,
+        "nome": "Maria Gadu",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 984,
+        "dificuldade": "Expert",
+        "nome": "Elytra",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "itens": [
+      {
+        "id": 1453,
+        "dificuldade": "Fácil",
+        "nome": "Precioso",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 352,
+        "nome": "Cirilo",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 107,
+        "nome": "Casca de Bala",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 664,
+        "dificuldade": "Expert",
+        "nome": "Medabots",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Ash",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Grayskull",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 199,
+        "nome": "Universidade Monstros",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 632,
+        "dificuldade": "Expert",
+        "nome": "Fairy Tail",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "itens": [
+      {
+        "id": 1449,
+        "dificuldade": "Fácil",
+        "nome": "Wakanda",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1450,
+        "dificuldade": "Médio",
+        "nome": "Uma Linda Mulher",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1339,
+        "dificuldade": "Difícil",
+        "nome": "Skynet",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 884,
+        "dificuldade": "Expert",
+        "nome": "Nanatsu no Taizai (Os Sete Pecados Capitais)",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "itens": [
+      {
+        "id": 293,
+        "dificuldade": "Fácil",
+        "nome": "Sabre de Luz",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Freeza",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 295,
+        "dificuldade": "Difícil",
+        "nome": "Steven Universe",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Fate",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tio Ben",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 106,
+        "dificuldade": "Médio",
+        "nome": "O Mundo Invertido",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 216,
+        "nome": "O Show da Luna!",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 616,
+        "dificuldade": "Expert",
+        "nome": "Tokyo Ghoul",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "itens": [
+      {
+        "id": 1781,
+        "dificuldade": "Fácil",
+        "nome": "Cavaleiros do Zodíaco",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Noite dos Mortos-Vivos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 207,
+        "dificuldade": "Difícil",
+        "nome": "Excalibur",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 444,
+        "dificuldade": "Expert",
+        "nome": "Twenty One Pilots",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 586,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Pokébola",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Madrugada dos Mortos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 107,
+        "dificuldade": "Difícil",
+        "nome": "Sheldon Cooper",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Angel Beats",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Mufasa",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1474,
+        "dificuldade": "Médio",
+        "nome": "João Gordo",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Hamtaro",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1476,
+        "dificuldade": "Expert",
+        "nome": "Hawkins",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "300",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Grifinória",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Combat Arms",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 604,
+        "dificuldade": "Expert",
+        "nome": "Black Clover",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "itens": [
+      {
+        "id": 1821,
+        "dificuldade": "Fácil",
+        "nome": "Bolinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 51,
+        "nome": "Dinho",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1823,
+        "dificuldade": "Difícil",
+        "nome": "Los Santos",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Sailor Moon",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "itens": [
+      {
+        "id": 1721,
+        "dificuldade": "Fácil",
+        "nome": "Pokémon GO",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 646,
+        "dificuldade": "Médio",
+        "nome": "Pandora",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 647,
+        "dificuldade": "Difícil",
+        "nome": "One Punch Man",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 186,
+        "nome": "Red: Crescer é uma Fera",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "itens": [
+      {
+        "id": 1761,
+        "dificuldade": "Fácil",
+        "nome": "Dory",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1422,
+        "dificuldade": "Médio",
+        "nome": "Bad Boys",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1467,
+        "dificuldade": "Difícil",
+        "nome": "O Mapa do Maroto",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Conto da Princesa Kaguya",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Beyblade",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sonserina",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 292,
+        "nome": "O Albergue",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 724,
+        "dificuldade": "Expert",
+        "nome": "A Adm é Top",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "itens": [
+      {
+        "id": 329,
+        "dificuldade": "Fácil",
+        "nome": "A Fantástica Fábrica de Chocolate",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 420,
+        "nome": "P!nk",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 123,
+        "dificuldade": "Difícil",
+        "nome": "A Viagem de Chihiro",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 332,
+        "dificuldade": "Expert",
+        "nome": "Millennium Falcon",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "itens": [
+      {
+        "id": 569,
+        "dificuldade": "Fácil",
+        "nome": "Edward Mãos de Tesoura",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 294,
+        "nome": "Olaf",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 167,
+        "dificuldade": "Difícil",
+        "nome": "My Hero Academia (Boku no Hero)",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1296,
+        "dificuldade": "Expert",
+        "nome": "Susanoo",
+        "classificacao": "Habilidade/Poder"
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Taxi Driver",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Bleach",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Fatality",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Marlon Brando",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Yu-Gi-Oh",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Popis",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1179,
+        "dificuldade": "Difícil",
+        "nome": "Adamantium",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Parks and Recreation (Confusões de Leslie)",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "itens": [
+      {
+        "id": 183,
+        "nome": "Boruto",
+        "classificacao": "Anime",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1178,
+        "dificuldade": "Médio",
+        "nome": "Lannister",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 14,
+        "nome": "Rogério Skylab",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1764,
+        "dificuldade": "Expert",
+        "nome": "Terrifier",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "itens": [
+      {
+        "id": 1317,
+        "dificuldade": "Fácil",
+        "nome": "Quem Quer Ser um Milionário?",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 998,
+        "dificuldade": "Médio",
+        "nome": "Jasmine",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 43,
+        "dificuldade": "Difícil",
+        "nome": "Asgard",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 68,
+        "dificuldade": "Expert",
+        "nome": "Fullmetal Alchemist",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Sid",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 82,
+        "dificuldade": "Médio",
+        "nome": "San Andreas",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 127,
+        "nome": "Mestres do Universo",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1800,
+        "dificuldade": "Expert",
+        "nome": "Shurato",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "itens": [
+      {
+        "id": 313,
+        "dificuldade": "Fácil",
+        "nome": "Angry Birds",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Jinx",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 30,
+        "nome": "Távola Redonda",
+        "classificacao": "Organização da Ficção",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 316,
+        "dificuldade": "Expert",
+        "nome": "Tesseract",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "itens": [
+      {
+        "id": 1445,
+        "dificuldade": "Fácil",
+        "nome": "Terra Média",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1446,
+        "dificuldade": "Médio",
+        "nome": "Neo",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 30,
+        "nome": "Gordito e Cansadito",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 456,
+        "dificuldade": "Expert",
+        "nome": "Another",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "itens": [
+      {
+        "id": 153,
+        "dificuldade": "Fácil",
+        "nome": "Dragon Ball Z",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1298,
+        "dificuldade": "Médio",
+        "nome": "Uni",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Tiago Iorc",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1300,
+        "dificuldade": "Expert",
+        "nome": "Amaterasu",
+        "classificacao": "Habilidade/Poder"
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "itens": [
+      {
+        "id": 1677,
+        "dificuldade": "Fácil",
+        "nome": "Naruto",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Raimundos",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 289,
+        "nome": "Jack Bauer",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Valfenda",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "itens": [
+      {
+        "id": 1517,
+        "dificuldade": "Fácil",
+        "nome": "Yoshi",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cantando na Chuva",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 37,
+        "nome": "Elemento X",
+        "classificacao": "Objeto da Ficção",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Winterfell",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Digimon",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1666,
+        "dificuldade": "Médio",
+        "nome": "Kid Abelha",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bankai",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Michael Keaton",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "itens": [
+      {
+        "id": 1461,
+        "dificuldade": "Fácil",
+        "nome": "A Pedra Filosofal",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 1462,
+        "dificuldade": "Médio",
+        "nome": "Luffy",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1463,
+        "dificuldade": "Difícil",
+        "nome": "Kanto",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 8,
+        "dificuldade": "Expert",
+        "nome": "Bill Raio Beta",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "itens": [
+      {
+        "id": 1825,
+        "dificuldade": "Fácil",
+        "nome": "One Piece",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "O Rappa",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Shoryuken",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Millie Bobby Brown",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "itens": [
+      {
+        "id": 445,
+        "dificuldade": "Fácil",
+        "nome": "Homem-Formiga",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1810,
+        "dificuldade": "Médio",
+        "nome": "Walter White",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1811,
+        "dificuldade": "Difícil",
+        "nome": "Springfield",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1444,
+        "dificuldade": "Expert",
+        "nome": "É Errado Tentar Pegar Garotas em uma Masmorra?",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "itens": [
+      {
+        "id": 401,
+        "dificuldade": "Fácil",
+        "nome": "A Noiva Cadáver",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 782,
+        "dificuldade": "Médio",
+        "nome": "Gandalf",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 423,
+        "dificuldade": "Difícil",
+        "nome": "Kamelot",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1360,
+        "dificuldade": "Expert",
+        "nome": "Goblin Slayer",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Gohan",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1002,
+        "dificuldade": "Médio",
+        "nome": "Atlântida",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 643,
+        "dificuldade": "Difícil",
+        "nome": "Super Campeões (Captain Tsubasa)",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 308,
+        "dificuldade": "Expert",
+        "nome": "Cidadão Kane",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "itens": [
+      {
+        "id": 1773,
+        "dificuldade": "Fácil",
+        "nome": "Ariel",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Médio",
+        "nome": "Celine Dion",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1299,
+        "dificuldade": "Difícil",
+        "nome": "Baratheon",
+        "classificacao": "Casa da Ficção"
+      },
+      {
+        "id": 1176,
+        "dificuldade": "Expert",
+        "nome": "Detroit Smash",
+        "classificacao": "Habilidade/Poder"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "itens": [
+      {
+        "id": 1349,
+        "dificuldade": "Fácil",
+        "nome": "Soluço",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1827,
+        "dificuldade": "Médio",
+        "nome": "Camila Pitanga",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 587,
+        "dificuldade": "Difícil",
+        "nome": "Nimbus 2000",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 588,
+        "dificuldade": "Expert",
+        "nome": "Yu Yu Hakusho",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Emília",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 14,
+        "dificuldade": "Médio",
+        "nome": "Fernanda Torres",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Expelliarmus",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 716,
+        "dificuldade": "Expert",
+        "nome": "Olho de Ender",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "itens": [
+      {
+        "id": 1269,
+        "dificuldade": "Fácil",
+        "nome": "Bulbasaur",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 70,
+        "dificuldade": "Médio",
+        "nome": "Feiticeira Escarlate",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1015,
+        "dificuldade": "Difícil",
+        "nome": "Vibranium",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 600,
+        "dificuldade": "Expert",
+        "nome": "Assassination Classroom",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "itens": [
+      {
+        "id": 389,
+        "dificuldade": "Fácil",
+        "nome": "Madonna",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1766,
+        "dificuldade": "Médio",
+        "nome": "Umbrella Corporation",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 333,
+        "nome": "Cleo Pires",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1768,
+        "dificuldade": "Expert",
+        "nome": "Salem",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "itens": [
+      {
+        "id": 1797,
+        "dificuldade": "Fácil",
+        "nome": "Jimmy Neutron",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 18,
+        "dificuldade": "Médio",
+        "nome": "Krypton",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "O Espanta Tubarões",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 20,
+        "dificuldade": "Expert",
+        "nome": "Neon Genesis: Evangelion",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "itens": [
+      {
+        "id": 885,
+        "dificuldade": "Fácil",
+        "nome": "Batmóvel",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Sepultura",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1028,
+        "dificuldade": "Difícil",
+        "nome": "Astro Boy",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Jonny Quest",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "itens": [
+      {
+        "id": 1805,
+        "dificuldade": "Fácil",
+        "nome": "Lançador de Teia",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 638,
+        "dificuldade": "Médio",
+        "nome": "Vô Nada",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 1808,
+        "dificuldade": "Difícil",
+        "nome": "Kuroko no Basket",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 220,
+        "nome": "Jota, Jotinha e Jotão",
+        "classificacao": "Banda",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "itens": [
+      {
+        "id": 453,
+        "dificuldade": "Fácil",
+        "nome": "Capitão América",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1170,
+        "dificuldade": "Médio",
+        "nome": "Empresas Wayne",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 891,
+        "dificuldade": "Difícil",
+        "nome": "Demácia",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 398,
+        "nome": "Jimmy London",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "itens": [
+      {
+        "id": 1537,
+        "dificuldade": "Fácil",
+        "nome": "Venom",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1310,
+        "dificuldade": "Médio",
+        "nome": "Perguntados",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1311,
+        "dificuldade": "Difícil",
+        "nome": "Westeros",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1320,
+        "dificuldade": "Expert",
+        "nome": "Spy x Family",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Ken",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 878,
+        "dificuldade": "Médio",
+        "nome": "O Lobo de Wall Street",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 879,
+        "dificuldade": "Difícil",
+        "nome": "Mjölnir",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 1648,
+        "dificuldade": "Expert",
+        "nome": "Sakura Card Captors",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Oz",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Jason Momoa",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1819,
+        "dificuldade": "Difícil",
+        "nome": "O Menino e a Garça",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Expert",
+        "nome": "John McClane",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "itens": [
+      {
+        "id": 477,
+        "dificuldade": "Fácil",
+        "nome": "Flash",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 722,
+        "dificuldade": "Médio",
+        "nome": "Hogwarts",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1232,
+        "dificuldade": "Difícil",
+        "nome": "Berserk",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 188,
+        "dificuldade": "Expert",
+        "nome": "Lineage",
+        "classificacao": "Jogo"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "itens": [
+      {
+        "id": 677,
+        "dificuldade": "Fácil",
+        "nome": "Thanos",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1434,
+        "dificuldade": "Médio",
+        "nome": "A Rede Social",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 135,
+        "dificuldade": "Difícil",
+        "nome": "O Castelo Animado",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1392,
+        "dificuldade": "Expert",
+        "nome": "Greyjoy",
+        "classificacao": "Casa da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "itens": [
+      {
+        "id": 173,
+        "dificuldade": "Fácil",
+        "nome": "Motoqueiro Fantasma",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 252,
+        "nome": "Bentinho",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1563,
+        "dificuldade": "Difícil",
+        "nome": "Industrias Stark",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 1564,
+        "dificuldade": "Expert",
+        "nome": "Olho de Agamoto",
+        "classificacao": "Objeto da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Kriptonita",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 930,
+        "dificuldade": "Médio",
+        "nome": "Mística",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 43,
+        "nome": "Outlast",
+        "classificacao": "Jogo",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Hajime no Ippo",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "itens": [
+      {
+        "id": 149,
+        "dificuldade": "Fácil",
+        "nome": "Pokemon",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pomo de Ouro",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Capital Inicial",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Rocket Power",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "itens": [
+      {
+        "id": 1261,
+        "dificuldade": "Fácil",
+        "nome": "Sharkboy",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 954,
+        "dificuldade": "Médio",
+        "nome": "Fragmentado",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 711,
+        "dificuldade": "Difícil",
+        "nome": "Townsville",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 992,
+        "dificuldade": "Expert",
+        "nome": "Zatch Bell",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "itens": [
+      {
+        "id": 1145,
+        "dificuldade": "Fácil",
+        "nome": "Justiceiro",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 414,
+        "dificuldade": "Médio",
+        "nome": "Azkaban",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 82,
+        "nome": "Zé Vaqueiro",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 516,
+        "dificuldade": "Expert",
+        "nome": "Jujutsu Kaisen",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "itens": [
+      {
+        "id": 637,
+        "dificuldade": "Fácil",
+        "nome": "Cebolinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Asterix e Obelix",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Plataforma 9 3/4",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1000,
+        "dificuldade": "Expert",
+        "nome": "Akira",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "itens": [
+      {
+        "id": 1801,
+        "dificuldade": "Fácil",
+        "nome": "Taz-Mania",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "MC Gorilla",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 487,
+        "dificuldade": "Difícil",
+        "nome": "Hunter X Hunter",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 640,
+        "dificuldade": "Expert",
+        "nome": "Gomu Gomu no Pistol",
+        "classificacao": "Habilidade/Poder"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Tapete Voador",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Emicida",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 504,
+        "dificuldade": "Difícil",
+        "nome": "Cowboy Bebop",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 117,
+        "nome": "Todo Mundo Quase Morto",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "itens": [
+      {
+        "id": 849,
+        "dificuldade": "Fácil",
+        "nome": "Wandinha",
+        "classificacao": "Série"
+      },
+      {
+        "id": 91,
+        "dificuldade": "Médio",
+        "nome": "Attack on Titan",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Konoha",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 104,
+        "dificuldade": "Expert",
+        "nome": "Richard Gere",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Zangado",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1426,
+        "dificuldade": "Médio",
+        "nome": "A Hora do Rush",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sharingan",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 1552,
+        "dificuldade": "Expert",
+        "nome": "Overlord",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Dobby",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 574,
+        "dificuldade": "Médio",
+        "nome": "Dennis, o Pimentinha",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "La Mancha",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 1840,
+        "dificuldade": "Expert",
+        "nome": "Bakugan: Guerreiros de Batalha",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "itens": [
+      {
+        "id": 1605,
+        "dificuldade": "Fácil",
+        "nome": "Charmander",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1802,
+        "dificuldade": "Médio",
+        "nome": "Super Onze",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1607,
+        "dificuldade": "Difícil",
+        "nome": "Tobey Maguire",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1608,
+        "dificuldade": "Expert",
+        "nome": "Nether",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cazuza",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 810,
+        "dificuldade": "Médio",
+        "nome": "Optimus Prime",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 519,
+        "dificuldade": "Difícil",
+        "nome": "Inuyasha",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 1756,
+        "dificuldade": "Expert",
+        "nome": "Raccoon City",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "itens": [
+      {
+        "id": 1741,
+        "dificuldade": "Fácil",
+        "nome": "Lula Molusco",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Chave Mágica",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1743,
+        "dificuldade": "Difícil",
+        "nome": "Fortaleza da Solidão",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Byakugan",
+        "classificacao": "Habilidade/Poder"
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Penélope Charmosa",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Wilson",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Expecto Patronum",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Theo Becker",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "itens": [
+      {
+        "id": 1289,
+        "dificuldade": "Fácil",
+        "nome": "Patrulha Canina",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Tommy Shelby",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Dandadan",
+        "classificacao": "Anime"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "NERV",
+        "classificacao": "Organização da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "itens": [
+      {
+        "id": 1469,
+        "dificuldade": "Fácil",
+        "nome": "Dumbledore",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Gorillaz",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Wingardium Leviosa",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 1816,
+        "dificuldade": "Expert",
+        "nome": "Mob Psycho 100",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "itens": [
+      {
+        "id": 221,
+        "dificuldade": "Fácil",
+        "nome": "Elvis Presley",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1246,
+        "dificuldade": "Médio",
+        "nome": "Se Eu Fosse Você",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1247,
+        "dificuldade": "Difícil",
+        "nome": "Oscorp",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Kobayashi Maru",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Viúva Negra",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Beco Diagonal",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "A Morte do Demônio",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 548,
+        "dificuldade": "Expert",
+        "nome": "JoJo's Bizarre Adventure",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "itens": [
+      {
+        "id": 685,
+        "dificuldade": "Fácil",
+        "nome": "Hotel Transilvânia",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Clube do Bolinha",
+        "classificacao": "Lugar da Ficção"
+      },
+      {
+        "id": 687,
+        "dificuldade": "Difícil",
+        "nome": "Los Pollos Hermanos",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 1636,
+        "dificuldade": "Expert",
+        "nome": "Santa Clarita Diet",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "itens": [
+      {
+        "id": 353,
+        "dificuldade": "Fácil",
+        "nome": "Aquaman",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 678,
+        "dificuldade": "Médio",
+        "nome": "Ligeirinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 679,
+        "dificuldade": "Difícil",
+        "nome": "Planeta Diário",
+        "classificacao": "Organização da Ficção"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Ba Sing Se",
+        "classificacao": "Lugar da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Kamehameha",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Wesley Safadão",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 191,
+        "dificuldade": "Difícil",
+        "nome": "Gravity Falls",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Princesa Mononoke",
+        "classificacao": "Anime"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "itens": [
+      {
+        "id": 1549,
+        "dificuldade": "Fácil",
+        "nome": "Doutor Estranho",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Clone das Sombras",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Frank Sinatra",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 876,
+        "dificuldade": "Expert",
+        "nome": "Dunder Mifflin",
+        "classificacao": "Organização da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Bolinha de Gude (Bila)",
+        "classificacao": "Brinquedo/Brincadeira"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Omnitrix",
+        "classificacao": "Objeto da Ficção"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Ruth e Raquel",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Gringotes",
+        "classificacao": "Organização da Ficção"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "itens": [
+      {
+        "id": 705,
+        "dificuldade": "Fácil",
+        "nome": "Peter Parker",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 206,
+        "dificuldade": "Médio",
+        "nome": "Leo Santana",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rasengan",
+        "classificacao": "Habilidade/Poder"
+      },
+      {
+        "id": 444,
+        "dificuldade": "Expert",
+        "nome": "Laboratórios S.T.A.R",
+        "classificacao": "Organização da Ficção"
+      }
+    ]
+  }
+]

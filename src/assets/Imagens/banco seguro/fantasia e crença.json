@@ -1,0 +1,2616 @@
+[
+  {
+    "id": 596,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Cigarra e a Formiga",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 115,
+        "nome": "Não Sufoque o Artista",
+        "classificacao": "Meme",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "ET Bilu",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 241,
+        "nome": "Cada Um Na Sua Casa",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "itens": [
+      {
+        "id": 1505,
+        "dificuldade": "Fácil",
+        "nome": "Professor Xavier",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 38,
+        "dificuldade": "Médio",
+        "nome": "Pocahontas",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1683,
+        "dificuldade": "Difícil",
+        "nome": "ET de Varginha",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Expert",
+        "nome": "Asmodeus",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "itens": [
+      {
+        "id": 893,
+        "dificuldade": "Fácil",
+        "nome": "Saci Pererê",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 1414,
+        "dificuldade": "Médio",
+        "nome": "Cosme e Damião",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1415,
+        "dificuldade": "Difícil",
+        "nome": "Juninho Play",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1496,
+        "dificuldade": "Expert",
+        "nome": "Juiz Dredd",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "itens": [
+      {
+        "id": 1645,
+        "dificuldade": "Fácil",
+        "nome": "Davi e Golias",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 49,
+        "nome": "Zé Carioca",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 467,
+        "dificuldade": "Difícil",
+        "nome": "Valkiria",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 314,
+        "nome": "Hit-Girl",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "itens": [
+      {
+        "id": 1125,
+        "dificuldade": "Fácil",
+        "nome": "Loira do Banheiro",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "João Gomes",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 251,
+        "dificuldade": "Difícil",
+        "nome": "Colossus",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1,
+        "dificuldade": "Expert",
+        "nome": "Azazel",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Monstro do Lago Ness",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Zé Pilintra",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Of The King, The Power, The Best",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 55,
+        "nome": "Ben Stiller",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "itens": [
+      {
+        "id": 1817,
+        "dificuldade": "Fácil",
+        "nome": "São Pedro",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "O Pequeno Polegar",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Úrsula",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Morbius",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "itens": [
+      {
+        "id": 917,
+        "dificuldade": "Fácil",
+        "nome": "Curupira",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 690,
+        "dificuldade": "Médio",
+        "nome": "Meninas Malvadas",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1187,
+        "dificuldade": "Difícil",
+        "nome": "Glória Pires",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1724,
+        "dificuldade": "Expert",
+        "nome": "Fenrir",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Cuca",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 237,
+        "nome": "Titans",
+        "classificacao": "Banda",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1391,
+        "dificuldade": "Difícil",
+        "nome": "Steve Rogers",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 136,
+        "dificuldade": "Expert",
+        "nome": "Baphomet",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "itens": [
+      {
+        "id": 121,
+        "dificuldade": "Fácil",
+        "nome": "A Bela e a Fera",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1546,
+        "dificuldade": "Médio",
+        "nome": "Os 4 Cavaleiros do Apocalipse",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1547,
+        "dificuldade": "Difícil",
+        "nome": "Castiel",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1548,
+        "dificuldade": "Expert",
+        "nome": "Kipo e os Animonstros",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "itens": [
+      {
+        "id": 44,
+        "nome": "Pégaso",
+        "dificuldade": "Fácil",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1010,
+        "dificuldade": "Médio",
+        "nome": "Boto-Cor-de-Rosa",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 679,
+        "dificuldade": "Difícil",
+        "nome": "Uma Robô Adolescente",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 328,
+        "nome": "Clifford - O Gigante Cão Vermelho",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "itens": [
+      {
+        "id": 365,
+        "dificuldade": "Fácil",
+        "nome": "A Pequena Sereia",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1262,
+        "dificuldade": "Médio",
+        "nome": "Miguel",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 659,
+        "dificuldade": "Difícil",
+        "nome": "Galactus",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Sinbad: A Lenda dos Sete Mares",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "itens": [
+      {
+        "id": 1217,
+        "dificuldade": "Fácil",
+        "nome": "Lobisomem",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 1218,
+        "dificuldade": "Médio",
+        "nome": "Vitão",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Midas",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Moulin Rouge!",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "itens": [
+      {
+        "id": 1725,
+        "dificuldade": "Fácil",
+        "nome": "Jó",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1230,
+        "dificuldade": "Médio",
+        "nome": "Ela Dança, Eu Danço",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1231,
+        "dificuldade": "Difícil",
+        "nome": "Charlie Charlie",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 315,
+        "nome": "As Crônicas de Shannara",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "itens": [
+      {
+        "id": 13,
+        "dificuldade": "Fácil",
+        "nome": "Branca de Neve",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 898,
+        "dificuldade": "Médio",
+        "nome": "Boitatá",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Maria Bethânia",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 8,
+        "nome": "Meia-Noite em Paris",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "itens": [
+      {
+        "id": 1733,
+        "dificuldade": "Fácil",
+        "nome": "Santo Antônio",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1734,
+        "dificuldade": "Médio",
+        "nome": "Snoopy",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 154,
+        "nome": "True Detective",
+        "classificacao": "Série",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Abominável Homem das Neves (Yeti)",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "itens": [
+      {
+        "id": 1006,
+        "dificuldade": "Fácil",
+        "nome": "Véi do Saco",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 850,
+        "dificuldade": "Médio",
+        "nome": "Jonas Brothers",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 411,
+        "dificuldade": "Difícil",
+        "nome": "Os Espartalhões",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 904,
+        "dificuldade": "Expert",
+        "nome": "Trasgo",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Mula Sem Cabeça",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 1334,
+        "dificuldade": "Médio",
+        "nome": "Capitã Marvel",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Horus",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Scott Pilgrim Contra o Mundo",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "itens": [
+      {
+        "id": 265,
+        "dificuldade": "Fácil",
+        "nome": "O Gato de Botas",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 822,
+        "dificuldade": "Médio",
+        "nome": "Arquivo X",
+        "classificacao": "Série"
+      },
+      {
+        "id": 931,
+        "dificuldade": "Difícil",
+        "nome": "Meu Óculos, Ninguém Sai!",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 268,
+        "dificuldade": "Expert",
+        "nome": "Allan Kardec",
+        "classificacao": "Religioso(a)"
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Fada dos Dentes",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 495,
+        "dificuldade": "Médio",
+        "nome": "Sylvester Stallone",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Travis Scott",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Sidarta Gautama",
+        "classificacao": "Religioso(a)"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "itens": [
+      {
+        "id": 273,
+        "dificuldade": "Fácil",
+        "nome": "Os Três Porquinhos",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 758,
+        "dificuldade": "Médio",
+        "nome": "Gladiador",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Lei e Ordem",
+        "classificacao": "Série"
+      },
+      {
+        "id": 760,
+        "dificuldade": "Expert",
+        "nome": "Oxóssi",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Judas Iscariotes",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Patti Maionese",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 90,
+        "nome": "Estelar",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1016,
+        "dificuldade": "Expert",
+        "nome": "Baba Yaga",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "itens": [
+      {
+        "id": 1633,
+        "dificuldade": "Fácil",
+        "nome": "A Princesa e o Sapo",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1634,
+        "dificuldade": "Médio",
+        "nome": "Mike Wazowski",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Os Sopranos",
+        "classificacao": "Série"
+      },
+      {
+        "id": 888,
+        "dificuldade": "Expert",
+        "nome": "Negrinho do Pastoreiro",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "itens": [
+      {
+        "id": 1389,
+        "dificuldade": "Fácil",
+        "nome": "Coelhinho da Páscoa",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Trolls",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 7,
+        "nome": "Calça de Shopping",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Ganesha",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "itens": [
+      {
+        "id": 33,
+        "dificuldade": "Fácil",
+        "nome": "Mulher Gato",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1650,
+        "dificuldade": "Médio",
+        "nome": "Atena",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1755,
+        "dificuldade": "Difícil",
+        "nome": "Sancho Pança",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1652,
+        "dificuldade": "Expert",
+        "nome": "Os Músicos de Bremen",
+        "classificacao": "Conto de Fadas"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "itens": [
+      {
+        "id": 297,
+        "dificuldade": "Fácil",
+        "nome": "Homem Gancho",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 310,
+        "dificuldade": "Médio",
+        "nome": "Beiçola",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 299,
+        "dificuldade": "Difícil",
+        "nome": "Inri Cristo",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 1168,
+        "dificuldade": "Expert",
+        "nome": "Derick, Meu Deus!",
+        "classificacao": "Meme"
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "itens": [
+      {
+        "id": 241,
+        "dificuldade": "Fácil",
+        "nome": "João e Maria",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Biquini Cavadão",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 647,
+        "dificuldade": "Difícil",
+        "nome": "The 100",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Djiin",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Papai Noel",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 379,
+        "dificuldade": "Médio",
+        "nome": "O Soldadinho de Chumbo",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1739,
+        "dificuldade": "Difícil",
+        "nome": "Br'oz",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 12,
+        "nome": "Austin Powers",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "itens": [
+      {
+        "id": 910,
+        "dificuldade": "Fácil",
+        "nome": "Bicho-Papão",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 466,
+        "dificuldade": "Médio",
+        "nome": "Madre Teresa de Calcutá",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 57,
+        "nome": "Tiana",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 259,
+        "nome": "Eu, Eu Mesmo e Irene",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Jardim do Éden",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Esquadrão Suicida",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Bob, o Construtor",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "O Flautista de Hamelin",
+        "classificacao": "Conto de Fadas"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Centauro",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Holandês Voador",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 409,
+        "nome": "A Substância",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 129,
+        "nome": "Samwise Gamgee",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "itens": [
+      {
+        "id": 1685,
+        "dificuldade": "Fácil",
+        "nome": "Alice no País das Maravilhas",
+        "classificacao": "Conto de Fadas"
+      },
+
+      {
+        "id": 1578,
+        "dificuldade": "Médio",
+        "nome": "Alceu Valença",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Difícil",
+        "nome": "Helena de Troia",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1580,
+        "dificuldade": "Expert",
+        "nome": "Abelardo Sardinha",
+        "classificacao": "Personagem"
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "itens": [
+      {
+        "id": 1577,
+        "dificuldade": "Fácil",
+        "nome": "Maria Madalena",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1686,
+        "dificuldade": "Médio",
+        "nome": "Amado Batista",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Difícil",
+        "nome": "Tiamat",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 264,
+        "nome": "Jar Jar Binks",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "itens": [
+      {
+        "id": 993,
+        "dificuldade": "Fácil",
+        "nome": "Iara",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 368,
+        "nome": "Rá",
+        "classificacao": "Mitologia",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rei do Camarote",
+        "classificacao": "Meme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Expert",
+        "nome": "Henri Castelli",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "itens": [
+      {
+        "id": 1025,
+        "dificuldade": "Fácil",
+        "nome": "Adão e Eva",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1026,
+        "dificuldade": "Médio",
+        "nome": "Caipora",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 320,
+        "nome": "Rachel Green",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "nome": "Ashton Kutcher",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert",
+        "id": 10024
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "itens": [
+      {
+        "id": 1317,
+        "dificuldade": "Fácil",
+        "nome": "Minotauro",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1318,
+        "dificuldade": "Médio",
+        "nome": "Seu Jorge",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Martin Lawrence",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1312,
+        "dificuldade": "Expert",
+        "nome": "Matinta Perera",
+        "classificacao": "Lenda Urbana"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "itens": [
+      {
+        "id": 405,
+        "dificuldade": "Fácil",
+        "nome": "Cinderela",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 31,
+        "nome": "Elementos",
+        "classificacao": "Animação",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "O Mundo Sombrio de Sabrina",
+        "classificacao": "Série"
+      },
+      {
+        "id": 404,
+        "nome": "André Valadão",
+        "classificacao": "Religioso(a)",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "itens": [
+      {
+        "id": 80,
+        "nome": "Rei Arthur",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Cachinhos Dourados",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Osíris",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 81,
+        "nome": "Forza Motorsport",
+        "classificacao": "Jogo",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Gênio da Lâmpada",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Papa Leão XIV",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 535,
+        "dificuldade": "Difícil",
+        "nome": "Ícaro",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1676,
+        "dificuldade": "Expert",
+        "nome": "Zezo",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "itens": [
+      {
+        "id": 737,
+        "dificuldade": "Fácil",
+        "nome": "Sansão",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 185,
+        "nome": "Besouro Azul",
+        "classificacao": "Herói/Vilão",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "A Roupa Nova do Rei",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 700,
+        "dificuldade": "Expert",
+        "nome": "Uma Cilada Para Roger Rabbit",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Aquiles",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1278,
+        "dificuldade": "Médio",
+        "nome": "Zé do Caixão",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1279,
+        "dificuldade": "Difícil",
+        "nome": "A Princesa e a Ervilha",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1280,
+        "dificuldade": "Expert",
+        "nome": "George Michael",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Arca de Noé",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "A Galinha dos Ovos de Ouro",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 94,
+        "nome": "Um Espião e Meio",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Os Jovens Guerreiros Tatuados de Beverly Hills",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "itens": [
+      {
+        "id": 426,
+        "nome": "Tristeza",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1286,
+        "dificuldade": "Médio",
+        "nome": "Ares",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 655,
+        "dificuldade": "Difícil",
+        "nome": "A Raposa e As Uvas",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 140,
+        "nome": "O Dia Depois de Amanhã",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "itens": [
+      {
+        "id": 1573,
+        "dificuldade": "Fácil",
+        "nome": "Moisés",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "O Rei Sapo",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 112,
+        "nome": "Caras Malvados",
+        "classificacao": "Animação",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Clint Eastwood",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "itens": [
+      {
+        "id": 381,
+        "dificuldade": "Fácil",
+        "nome": "O Patinho Feio",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 78,
+        "dificuldade": "Médio",
+        "nome": "Matusalém",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 659,
+        "dificuldade": "Difícil",
+        "nome": "Skank",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 275,
+        "nome": "Rocinante",
+        "classificacao": "Personagem",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "itens": [
+      {
+        "id": 469,
+        "dificuldade": "Fácil",
+        "nome": "Zeus",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1194,
+        "dificuldade": "Médio",
+        "nome": "Festa no Céu",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 104,
+        "nome": "O Mistério das Duas Irmãs",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "As Trapalhadas de Flapjack",
+        "classificacao": "Animação"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "itens": [
+      {
+        "id": 1177,
+        "dificuldade": "Fácil",
+        "nome": "Bambi",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 566,
+        "dificuldade": "Médio",
+        "nome": "Maomé",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Demi Lovato",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Yggdrasil",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "itens": [
+      {
+        "id": 357,
+        "dificuldade": "Fácil",
+        "nome": "Capitão Gancho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1750,
+        "dificuldade": "Médio",
+        "nome": "O Amor é Cego",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Oxum",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Rasputin",
+        "classificacao": "Religioso(a)"
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "itens": [
+      {
+        "id": 361,
+        "dificuldade": "Fácil",
+        "nome": "Hércules",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Carga Explosiva",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Mãe-de-Ouro",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 1676,
+        "dificuldade": "Expert",
+        "nome": "Ana Paula Valadão",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "itens": [
+      {
+        "id": 1513,
+        "dificuldade": "Fácil",
+        "nome": "Odin",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1722,
+        "dificuldade": "Médio",
+        "nome": "Chico Xavier",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 33,
+        "nome": "Boa Noite Bruno",
+        "classificacao": "Meme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 279,
+        "nome": "Arnold: Minha Familia é uma Bagunça",
+        "classificacao": "Série",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "itens": [
+      {
+        "id": 16,
+        "nome": "Dalila",
+        "classificacao": "Religião",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 134,
+        "dificuldade": "Médio",
+        "nome": "Mulan",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 447,
+        "dificuldade": "Difícil",
+        "nome": "Bebê Rena",
+        "classificacao": "Série"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Susan Boyle",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "itens": [
+      {
+        "id": 1365,
+        "dificuldade": "Fácil",
+        "nome": "Medusa",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 1610,
+        "dificuldade": "Médio",
+        "nome": "Rei Salomão",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Motörhead",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1724,
+        "dificuldade": "Expert",
+        "nome": "Lima Duarte",
+        "classificacao": "Ator/Atriz"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Iemanjá",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 190,
+        "dificuldade": "Médio",
+        "nome": "Valdemiro Santiago",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 483,
+        "dificuldade": "Difícil",
+        "nome": "Mc Guimê",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 217,
+        "nome": "Final Space",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chapeuzinho Vermelho",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1586,
+        "dificuldade": "Médio",
+        "nome": "Rei Davi",
+        "classificacao": "Religião"
+      },
+
+      {
+        "id": 1727,
+        "dificuldade": "Difícil",
+        "nome": "American Dad",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1728,
+        "dificuldade": "Expert",
+        "nome": "Zélia Duncan",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Poseidon",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 29,
+        "nome": "MC Pipokinha",
+        "classificacao": "Cantor(a)",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Jacó",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 37,
+        "nome": "Madeline",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Lúcifer",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 935,
+        "dificuldade": "Médio",
+        "nome": "Ragnarok",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Flappy Bird",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 168,
+        "nome": "Sônia Braga",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Gru",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 646,
+        "dificuldade": "Médio",
+        "nome": "Pomba Gira",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 991,
+        "dificuldade": "Difícil",
+        "nome": "Lucas: Um Intruso no Formigueiro",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1212,
+        "dificuldade": "Expert",
+        "nome": "Yokai",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "itens": [
+      {
+        "id": 653,
+        "dificuldade": "Fácil",
+        "nome": "O Grito",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 962,
+        "dificuldade": "Médio",
+        "nome": "Agostinho Carrara",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Exu",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1264,
+        "dificuldade": "Expert",
+        "nome": "Mapinguari",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "O Mar Vermelho",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 1766,
+        "dificuldade": "Médio",
+        "nome": "Zé Bonitinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 991,
+        "dificuldade": "Difícil",
+        "nome": "Anúbis",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 66,
+        "nome": "O Bom, o Ruim e o Feio",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Deus",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 214,
+        "dificuldade": "Médio",
+        "nome": "Cauã Reymond",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 507,
+        "dificuldade": "Difícil",
+        "nome": "Hidra",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 198,
+        "nome": "Tuca & Bertie",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Satanás",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 199,
+        "dificuldade": "Médio",
+        "nome": "Saitama",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 1759,
+        "dificuldade": "Difícil",
+        "nome": "Hipogrifo",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 223,
+        "nome": "Magos: Contos de Arcádia",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "São Longuinho",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 35,
+        "nome": "Aurora",
+        "classificacao": "Conto de Fadas",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 1247,
+        "dificuldade": "Difícil",
+        "nome": "Hugh Jackman",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1236,
+        "dificuldade": "Expert",
+        "nome": "Vitas",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "itens": [
+      {
+        "id": 1249,
+        "dificuldade": "Fácil",
+        "nome": "Annabelle",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 422,
+        "dificuldade": "Médio",
+        "nome": "A Torre de Babel",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Rammstein",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Anora",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Caim e Abel",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Aline Barros",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Sif",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 283,
+        "nome": "Spotlight: Segredos Revelados",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "itens": [
+      {
+        "id": 285,
+        "dificuldade": "Fácil",
+        "nome": "Rihanna",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 286,
+        "dificuldade": "Médio",
+        "nome": "Sullivan",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 287,
+        "dificuldade": "Difícil",
+        "nome": "Querubins",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 44,
+        "dificuldade": "Expert",
+        "nome": "Shiva",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Nossa Senhora",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 934,
+        "dificuldade": "Médio",
+        "nome": "Tutubarão",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 261,
+        "nome": "Matheus Solano",
+        "classificacao": "Ator/Atriz",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 800,
+        "dificuldade": "Expert",
+        "nome": "Banshee",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "itens": [
+      {
+        "id": 721,
+        "dificuldade": "Fácil",
+        "nome": "Jesus Cristo",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Olhos Famintos",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Daniel Radcliffe",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 831,
+        "dificuldade": "Expert",
+        "nome": "Leprechaun",
+        "classificacao": "Folclore"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "itens": [
+      {
+        "id": 1561,
+        "dificuldade": "Fácil",
+        "nome": "Buda",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Pequenos Espiões",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Wendigo",
+        "classificacao": "Folclore"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Penny Dreadful",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "itens": [
+      {
+        "id": 419,
+        "nome": "Tigrão",
+        "classificacao": "Personagem",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 1234,
+        "dificuldade": "Médio",
+        "nome": "Monopoly",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 1235,
+        "dificuldade": "Difícil",
+        "nome": "Corpo-seco",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 88,
+        "dificuldade": "Expert",
+        "nome": "Anhangá",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "itens": [
+      {
+        "id": 1197,
+        "dificuldade": "Fácil",
+        "nome": "PS: Eu Te Amo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1606,
+        "dificuldade": "Médio",
+        "nome": "Afrodite",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 867,
+        "dificuldade": "Difícil",
+        "nome": "Justin Timberlake",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 1200,
+        "dificuldade": "Expert",
+        "nome": "Enoque",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "itens": [
+      {
+        "id": 23,
+        "nome": "Alá",
+        "classificacao": "Religião",
+        "dificuldade": "Fácil"
+      },
+      {
+        "id": 982,
+        "dificuldade": "Médio",
+        "nome": "Engenheiros do Hawaii",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 23,
+        "dificuldade": "Difícil",
+        "nome": "Papa João Paulo II",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 832,
+        "dificuldade": "Expert",
+        "nome": "Jorge Ben Jor",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Kiko",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1214,
+        "dificuldade": "Médio",
+        "nome": "Padre Fábio de Melo",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Apolo",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 298,
+        "nome": "Betty Atômica",
+        "classificacao": "Animação",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Pluto",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 31,
+        "dificuldade": "Médio",
+        "nome": "Miss Marvel",
+        "classificacao": "Herói/Vilão"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Slender Man",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Padre Quevedo",
+        "classificacao": "Religioso(a)"
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Gaguinho",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Padre Marcelo Rossi",
+        "classificacao": "Religioso(a)"
+      },
+
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Dionísio",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 226,
+        "nome": "Conclave",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Dick Vigarista",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 450,
+        "dificuldade": "Médio",
+        "nome": "Edir Macedo",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Perseu",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 346,
+        "nome": "Prenda-me Se For Capaz",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Sub-Zero",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 40,
+        "nome": "Os Três Reis Magos",
+        "classificacao": "Religião",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 175,
+        "dificuldade": "Difícil",
+        "nome": "Silas Malafaia",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 15,
+        "dificuldade": "Expert",
+        "nome": "Darkseid",
+        "classificacao": "Herói/Vilão"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Todo Poderoso",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Papa Francisco",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Hera",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Måneskin",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "itens": [
+      {
+        "id": 1169,
+        "dificuldade": "Fácil",
+        "nome": "Restart",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Barba Negra",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Difícil",
+        "nome": "Oxalá",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 780,
+        "dificuldade": "Expert",
+        "nome": "Ali Babá e os 40 Ladrões",
+        "classificacao": "Conto de Fadas"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "itens": [
+      {
+        "id": 461,
+        "dificuldade": "Fácil",
+        "nome": "Zeca Urubu",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1018,
+        "dificuldade": "Médio",
+        "nome": "Chupacabra",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 1171,
+        "dificuldade": "Difícil",
+        "nome": "Freya",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "As Vantagens de Ser Invisível",
+        "classificacao": "Filme"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "itens": [
+      {
+        "id": 2,
+        "dificuldade": "Fácil",
+        "nome": "Guitar Hero",
+        "classificacao": "Jogo"
+      },
+      {
+        "id": 6,
+        "dificuldade": "Médio",
+        "nome": "Dalai Lama",
+        "classificacao": "Religioso(a)"
+      },
+      {
+        "id": 99,
+        "dificuldade": "Difícil",
+        "nome": "Oasis",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 100,
+        "dificuldade": "Expert",
+        "nome": "Teseu",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Renato Aragão",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 1275,
+        "dificuldade": "Médio",
+        "nome": "Bloody Mary",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Zeca Baleiro",
+        "classificacao": "Cantor(a)"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Tupã",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Chapeleiro Maluco",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 1022,
+        "dificuldade": "Médio",
+        "nome": "A Perna Cabeluda",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Chronos",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "De Volta aos 15",
+        "classificacao": "Série"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "itens": [
+      {
+        "id": 305,
+        "dificuldade": "Fácil",
+        "nome": "Malévola",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 458,
+        "dificuldade": "Médio",
+        "nome": "Inspetor Bugiganga",
+        "classificacao": "Animação"
+      },
+      {
+        "id": 1039,
+        "dificuldade": "Difícil",
+        "nome": "O Carro Preto",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 1380,
+        "dificuldade": "Expert",
+        "nome": "Belzebu",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "Fada Madrinha",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 142,
+        "dificuldade": "Médio",
+        "nome": "A Barraca do Beijo",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 1767,
+        "dificuldade": "Difícil",
+        "nome": "Momo",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Expert",
+        "nome": "Kali",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "itens": [
+      {
+        "id": 913,
+        "dificuldade": "Fácil",
+        "nome": "Pé Grande",
+        "classificacao": "Lenda Urbana"
+      },
+      {
+        "id": 622,
+        "dificuldade": "Médio",
+        "nome": "Zé Colmeia",
+        "classificacao": "Personagem"
+      },
+      {
+        "id": 459,
+        "dificuldade": "Difícil",
+        "nome": "Serafins",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 137,
+        "nome": "Bem Vinda a Quixaramobim",
+        "classificacao": "Filme",
+        "dificuldade": "Expert"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "itens": [
+      {
+        "id": 745,
+        "dificuldade": "Fácil",
+        "nome": "João e o Pé de Feijão",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 418,
+        "nome": "Rock Lee",
+        "classificacao": "Personagem",
+        "dificuldade": "Médio"
+      },
+      {
+        "id": 372,
+        "nome": "A Princesa Prometida",
+        "classificacao": "Filme",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Lilith",
+        "classificacao": "Religião"
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "itens": [
+      {
+        "id": 793,
+        "dificuldade": "Fácil",
+        "nome": "Pinóquio",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 1830,
+        "dificuldade": "Médio",
+        "nome": "Maroon 5",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 1831,
+        "dificuldade": "Difícil",
+        "nome": "Leviatã",
+        "classificacao": "Religião"
+      },
+      {
+        "id": 380,
+        "dificuldade": "Expert",
+        "nome": "Kelly Clarkson",
+        "classificacao": "Cantor(a)"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "itens": [
+      {
+        "id": 897,
+        "dificuldade": "Fácil",
+        "nome": "A Bela Adormecida",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Hades",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 75,
+        "nome": "Steve Stifler",
+        "classificacao": "Personagem",
+        "dificuldade": "Difícil"
+      },
+      {
+        "id": 1596,
+        "dificuldade": "Expert",
+        "nome": "Souljah",
+        "classificacao": "Banda"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "itens": [
+      {
+        "id": 1,
+        "dificuldade": "Fácil",
+        "nome": "A Lebre e a Tartaruga",
+        "classificacao": "Conto de Fadas"
+      },
+      {
+        "id": 774,
+        "dificuldade": "Médio",
+        "nome": "Um Lugar Silencioso",
+        "classificacao": "Filme"
+      },
+      {
+        "id": 467,
+        "dificuldade": "Difícil",
+        "nome": "Jota Quest",
+        "classificacao": "Banda"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Heimdall",
+        "classificacao": "Mitologia"
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "itens": [
+      {
+        "id": 209,
+        "dificuldade": "Fácil",
+        "nome": "Rapunzel",
+        "classificacao": "Conto de Fadas"
+      },
+
+      {
+        "id": 2,
+        "dificuldade": "Médio",
+        "nome": "Juliana Paes",
+        "classificacao": "Ator/Atriz"
+      },
+      {
+        "id": 3,
+        "dificuldade": "Difícil",
+        "nome": "Kraken",
+        "classificacao": "Mitologia"
+      },
+      {
+        "id": 4,
+        "dificuldade": "Expert",
+        "nome": "Outlander",
+        "classificacao": "Série"
+      }
+    ]
+  }
+]
