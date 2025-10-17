@@ -23,6 +23,14 @@ const ProjectCardWrapper = styled.div`
   align-items: center;
   justify-content: center;
   height: 340px;
+  @media (max-width: 1080px) {
+    height: 320px;
+  }
+  @media (max-width: 768px) {
+    height: auto;
+    padding: 8px 0;
+    align-items: stretch;
+  }
 `;
 
 const Projetos: React.FC = () => {

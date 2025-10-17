@@ -1,11 +1,17 @@
 import styled from "styled-components";
+import responsive, { breakpoints } from "../../utils/responsive";
 
 export const ProjectsGrid = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 15px;
-  padding: 16px 0;
+  padding: 12px 0;
   align-items: center;
+  ${responsive(breakpoints.tablet)} {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 8px 0;
+  }
 `;
 
 export const ProjectCard = styled.div<{ gradient?: string }>`
@@ -21,6 +27,7 @@ export const ProjectCard = styled.div<{ gradient?: string }>`
   justify-content: center;
   width: 100%;
   height: 100%;
+  min-height: 180px;
   transition: box-shadow 0.2s, transform 1s cubic-bezier(0.22, 1, 0.36, 1),
     background 0.3s, width 1s cubic-bezier(0.22, 1, 0.36, 1),
     height 1s cubic-bezier(0.22, 1, 0.36, 1);
@@ -41,15 +48,26 @@ export const ProjectCard = styled.div<{ gradient?: string }>`
     margin-left: auto;
     margin-right: auto;
   }
+  ${responsive(breakpoints.tablet)} {
+    min-height: 220px;
+  }
+  ${responsive(breakpoints.mobile)} {
+    min-height: 140px;
+    border-radius: 12px;
+  }
 `;
 
 export const ProjectImage = styled.img`
   width: 100%;
   min-width: 200px;
-  height: 180px;
+  height: 160px;
   object-fit: cover;
   background: ${({ theme }) => theme.backgroundContent};
   border-bottom: 1px solid ${({ theme }) => theme.borderSidebar};
+  ${responsive(breakpoints.mobile)} {
+    min-width: 120px;
+    height: 100px;
+  }
 `;
 
 export const ProjectContent = styled.div<{ gradient?: string }>`
@@ -105,8 +123,11 @@ export const ProjectMinimal = styled.div<{ gradient?: string }>`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 110px;
+  height: 100px;
   transition: background 0.3s;
+  ${responsive(breakpoints.mobile)} {
+    height: 80px;
+  }
 `;
 
 export const ProjectLogo = styled.img`
